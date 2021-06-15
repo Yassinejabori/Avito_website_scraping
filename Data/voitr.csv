@@ -1,0 +1,2038 @@
+Année-Modèle,KM_Min,KM_Max,Carburant,Marqu,Modèle,PuissanceFiscale,Ville,Secteur,Date_de_publication,Temps_de_publication,Prix
+2005,170 000 , 179 999,Diesel,Audi,A3,8 CV, Casablanca,Sidi Othmane,2020-03-31,15:20:11,62 000
+2014,100 000 , 109 999,Diesel,BMW,Serie 1,8 CV, Rabat,Hay Nahda,2020-03-31,15:12:38,200 000
+2002,0 , 4 999,Diesel,Citroen,XSARA,7 CV, Kénitra,Al Maghrib Al Arabi,2020-03-31,15:10:33,45 000
+2018,0 , 4 999,Electrique,Autres,Autres,4 CV, Mohammedia,Les Cretes,2020-03-31,15:07:34,49 000
+2011,180 000 , 189 999,Diesel,Land Rover,Range Rover Sport,12 CV, Kénitra,Al Maghrib Al Arabi,2020-03-31,15:06:32,215 000
+2014,130 000 , 139 999,Diesel,Hyundai,Santa Fe,9 CV, Kénitra,Al Maghrib Al Arabi,2020-03-31,15:05:54,210 000
+2018,40 000 , 44 999,Diesel,Mercedes-Benz,Classe E,9 CV, Mohammedia,Les Cretes,2020-03-31,15:05:46,539 000
+2008,170 000 , 179 999,Diesel,Mercedes-Benz,Classe C,12 CV, Marrakech,Centre Ville,2020-03-31,15:03:52,140 000
+2010,140 000 , 149 999,Diesel,Porsche,Cayenne,12 CV, Kénitra,Al Maghrib Al Arabi,2020-03-31,15:03:02,320 000
+2003,190 000 , 199 999,Diesel,Jeep,Cherokee,10 CV, Kénitra,Al Maghrib Al Arabi,2020-03-31,15:00:37,75 000
+2010,190 000 , 199 999,Diesel,Land Rover,Freelander,8 CV, Kénitra,Autre secteur,2020-03-31,14:54:25,135 000
+2013,140 000 , 149 999,Diesel,BMW,Serie 5,8 CV, Kénitra,Al Maghrib Al Arabi,2020-03-31,14:50:49,230 000
+2012,160 000 , 169 999,Diesel,Citroen,C3 Picasso,6 CV, Kénitra,Al Maghrib Al Arabi,2020-03-31,14:50:41,84 000
+2019,5 000 , 9 999,Diesel,Mercedes-Benz,Classe GLE,12 CV, Casablanca,Oulfa,2020-03-31,14:48:10,780 000
+2016,65 000 , 69 999,Diesel,Citroen,DS5,8 CV, Marrakech,Ain Mezouar,2020-03-31,14:47:35,199 000
+2012,120 000 , 129 999,Diesel,Citroen,DS4,6 CV, Casablanca,2 Mars,2020-03-31,14:47:11,129 000
+2014,120 000 , 129 999,Diesel,Peugeot,508,8 CV, Casablanca,2 Mars,2020-03-31,14:46:35,125 000
+2015,100 000 , 109 999,Essence,Hyundai,Grand i10,6 CV, Fès,Hay Mohammedi,2020-03-31,14:44:14,75 000
+2015,100 000 , 109 999,Essence,Kia,Picanto,6 CV, Casablanca,Aïn Borja,2020-03-31,14:43:03,69 000
+2017,80 000 , 84 999,Diesel,Audi,A4,8 CV, Casablanca,Aïn Borja,2020-03-31,14:42:11,272 000
+2015,75 000 , 79 999,Diesel,BMW,Serie 4,8 CV, Casablanca,Aïn Borja,2020-03-31,14:41:17,280 000
+2019,0 , 4 999,Diesel,Volkswagen,Passat,8 CV, Casablanca,Aïn Sebaâ,2020-03-31,14:38:24,292 000
+2013,190 000 , 199 999,Diesel,Porsche,Cayenne,12 CV, Tanger,Souani,2020-03-31,14:37:33,329 000
+2016,60 000 , 64 999,Essence,Kia,Picanto,6 CV, Fès,Agdal,2020-03-31,14:05:56,69 000
+2012,90 000 , 94 999,Essence,Alfa Romeo,Mito,8 CV, Casablanca,2 Mars,2020-03-31,13:54:19,79 000
+2014,100 000 , 109 999,Diesel,Peugeot,308,6 CV, Casablanca,2 Mars,2020-03-31,13:54:10,123 000
+2012,180 000 , 189 999,Diesel,Audi,A6,8 CV, Casablanca,Oulfa,2020-03-31,13:47:35,262 000
+2008,140 000 , 149 999,Essence,BMW,Serie 3,11 CV, Kénitra,Autre secteur,2020-03-31,13:45:58,100 000
+2014,120 000 , 129 999,Diesel,Dacia,Sandero,6 CV, Casablanca,Hay Mohammadi,2020-03-31,13:44:14,102 000
+2017,60 000 , 64 999,Diesel,Renault,Clio,6 CV, Rabat,Agdal,2020-03-31,13:42:44,117 000
+2015,90 000 , 94 999,Diesel,Renault,Megane,6 CV, Rabat,Agdal,2020-03-31,13:42:32,129 000
+2019,5 000 , 9 999,Diesel,Mercedes-Benz,Classe GLE,12 CV, Casablanca,Oulfa,2020-03-31,13:41:04,780 000
+2006,130 000 , 139 999,Essence,Citroen,C3,6 CV, Oujda,Centre Ville,2020-03-31,13:38:36,52 000
+2015,40 000 , 44 999,Diesel,Fiat,500L,5 CV, Mohammedia,La Colline,2020-03-31,13:35:21,133 000
+2016,95 000 , 99 999,Diesel,Nissan,EVALIA,6 CV, Mohammedia,La Colline,2020-03-31,13:33:32,114 000
+2019,0 , 4 999,Essence,Hyundai,-,6 CV, Tanger,Centre ville,2020-03-31,13:31:32,103 000
+2017,95 000 , 99 999,Diesel,Seat,Ibiza,5 CV, Mohammedia,La Colline,2020-03-31,13:31:12,102 000
+2017,70 000 , 74 999,Diesel,Ford,Fusion,8 CV, Casablanca,2 Mars,2020-03-31,13:30:28,153 000
+2017,100 000 , 109 999,Diesel,Land Rover,Range Rover Evoque,8 CV, Mohammedia,La Colline,2020-03-31,13:28:58,329 000
+2008,170 000 , 179 999,Diesel,Alfa Romeo,159,10 CV, Casablanca,Sidi Moumen,2020-03-31,13:19:03,105 000
+2013,160 000 , 169 999,Diesel,Mercedes-Benz,Classe B,7 CV, Casablanca,Sidi Moumen,2020-03-31,13:17:49,149 000
+2017,55 000 , 59 999,Diesel,Audi,Q5,9 CV, Kénitra,Centre,2020-03-31,13:14:39,340 000
+2014,140 000 , 149 999,Diesel,Mercedes-Benz,Classe C,9 CV, Kénitra,Centre,2020-03-31,13:14:14,320 000
+1988,200 000 , 249 999,Diesel,Peugeot,205,7 CV, Rabat,Guich Oudaya,2020-03-31,13:13:04,27 000
+2014,95 000 , 99 999,Diesel,Mitsubishi,L200,10 CV, Casablanca,Anfa,2020-03-31,13:09:06,125 000
+2019,5 000 , 9 999,Diesel,BMW,X2,8 CV, Casablanca,Aïn Sebaâ,2020-03-31,13:08:03,395 000
+2014,100 000 , 109 999,Diesel,Peugeot,3008,6 CV, Rabat,Autre secteur,2020-03-31,13:01:03,110 000
+2016,120 000 , 129 999,Diesel,Nissan,NOTE,6 CV, Fès,Route de Meknes,2020-03-31,12:57:53,86 000
+2016,100 000 , 109 999,Diesel,Volkswagen,Tiguan,8 CV, Tanger,Souani,2020-03-31,12:41:02,359 000
+2013,140 000 , 149 999,Diesel,Dacia,Dokker,6 CV, Marrakech,Massira 1,2020-03-31,12:35:39,77 000
+2018,55 000 , 59 999,Essence,Fiat,Panda,7 CV, Rabat,Agdal,2020-03-31,12:31:25,76 000
+2017,80 000 , 84 999,Diesel,Renault,Megane,6 CV, Rabat,Agdal,2020-03-31,12:31:08,139 000
+2009,130 000 , 139 999,Diesel,Kia,Sportage,8 CV, Fès,Agdal,2020-03-31,12:29:42,93 000
+2005,140 000 , 149 999,Diesel,Peugeot,407,8 CV, Fès,Ben Souda,2020-03-31,12:29:06,50 000
+2006,190 000 , 199 999,Diesel,Toyota,Prado,12 CV, Tanger,Souani,2020-03-31,12:23:44,89 000
+2010,150 000 , 159 999,Diesel,Mercedes-Benz,Classe C,9 CV, Agadir,Hay Dakhla,2020-03-31,12:23:18,138 000
+2017,55 000 , 59 999,Diesel,Opel,Astra,6 CV, Rabat,Autre secteur,2020-03-31,12:22:50,170 000
+2001,170 000 , 179 999,Diesel,Toyota,Land Cruiser,-, Tétouan,Autre secteur,2020-03-31,12:21:32,120 000
+2009,120 000 , 129 999,Diesel,Audi,Q7,35 CV, Tétouan,Autre secteur,2020-03-31,12:20:12,150 000
+2011,160 000 , 169 999,Diesel,Ford,Mondeo,8 CV, Casablanca,2 Mars,2020-03-31,12:17:07,95 000
+2012,110 000 , 119 999,Diesel,Mercedes-Benz,Classe E,9 CV, Casablanca,2 Mars,2020-03-31,12:16:54,185 000
+2010,120 000 , 129 999,Diesel,Opel,Insignia,8 CV, Casablanca,2 Mars,2020-03-31,12:16:52,99 000
+2017,70 000 , 74 999,Diesel,Volkswagen,GOLF 7,8 CV, Casablanca,2 Mars,2020-03-31,12:16:30,185 000
+2009,180 000 , 189 999,Diesel,Volkswagen,PASSAT CC,8 CV, Casablanca,2 Mars,2020-03-31,12:16:28,145 000
+2009,180 000 , 189 999,Diesel,Porsche,Cayenne,12 CV, Casablanca,2 Mars,2020-03-31,12:16:14,155 000
+2011,140 000 , 149 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,2 Mars,2020-03-31,12:16:05,165 000
+2018,45 000 , 49 999,Diesel,Land Rover,Velar,8 CV, Casablanca,2 Mars,2020-03-31,12:15:52,580 000
+2010,170 000 , 179 999,Diesel,Porsche,Cayenne,12 CV, Casablanca,2 Mars,2020-03-31,12:15:32,155 000
+2012,150 000 , 159 999,Essence,Land Rover,Range Rover,28 CV, Marrakech,Route de Safi,2020-03-31,12:14:23,175 000
+2019,0 , 4 999,Essence,Skoda,Fabia,6 CV, Marrakech,Massira 1,2020-03-31,12:10:56,105 000
+2002,200 000 , 249 999,Diesel,Volkswagen,Bora,8 CV, Agadir,Autre secteur,2020-03-31,12:07:05,48 000
+2015,180 000 , 189 999,Diesel,mini,country man,8 CV, Casablanca,Aïn Sebaâ,2020-03-31,12:06:24,159 000
+2015,80 000 , 84 999,Diesel,Dacia,Duster,6 CV, Marrakech,Guéliz,2020-03-31,12:04:42,128 000
+2017,25 000 , 29 999,Essence,Opel,ADAM,6 CV, Casablanca,Californie,2020-03-31,12:03:51,108 000
+2015,75 000 , 79 999,Diesel,Peugeot,-,6 CV, Casablanca,Aïn Chock,2020-03-31,12:03:41,138 000
+2013,160 000 , 169 999,Diesel,Honda,Accord,9 CV, Casablanca,Al Qods,2020-03-31,12:03:31,140 000
+2015,120 000 , 129 999,Diesel,Hyundai,i 30,6 CV, Casablanca,Al Qods,2020-03-31,12:03:20,133 000
+2010,100 000 , 109 999,Diesel,Audi,A5,8 CV, Casablanca,Al Qods,2020-03-31,12:03:10,170 000
+2009,160 000 , 169 999,Diesel,Volkswagen,Tiguan,8 CV, Casablanca,2 Mars,2020-03-31,12:00:31,132 000
+2018,45 000 , 49 999,Diesel,Land Rover,Velar,8 CV, Casablanca,2 Mars,2020-03-31,12:00:03,580 000
+2017,85 000 , 89 999,Diesel,Renault,Clio,6 CV, Marrakech,Massira 1,2020-03-31,11:56:58,109 000
+2013,170 000 , 179 999,Diesel,Volkswagen,PASSAT CC,8 CV, Tétouan,Centre ville,2020-03-31,11:56:20,175 000
+2015,170 000 , 179 999,Diesel,Fiat,Doblo,6 CV, Casablanca,Oulfa,2020-03-31,11:55:42,69 000
+2015,5 000 , 9 999,Essence,Fiat,-,5 CV, Casablanca,Maarif,2020-03-31,11:52:10,95 000
+2015,90 000 , 94 999,Diesel,Volkswagen,Polo,6 CV, Fès,Mont fleuri,2020-03-31,11:48:36,146 000
+2009,140 000 , 149 999,Diesel,Alfa Romeo,Mito,8 CV, Rabat,Hay el Fath,2020-03-31,11:45:19,73 000
+2019,5 000 , 9 999,Diesel,BMW,X6,12 CV, Casablanca,Aïn Sebaâ,2020-03-31,11:43:58,615 000
+2013,100 000 , 109 999,Essence,Peugeot,208,6 CV, Marrakech,Massira,2020-03-31,11:37:41,77 000
+2017,60 000 , 64 999,Diesel,Ford,-,6 CV, Fès,Narjis,2020-03-31,11:36:52,103 000
+2010,110 000 , 119 999,Essence,Ford,Fusion,6 CV, Marrakech,Massira,2020-03-31,11:34:56,53 000
+2019,20 000 , 24 999,Diesel,Mercedes-Benz,Classe E,10 CV, Marrakech,Allal El Fassi,2020-03-31,11:34:06,380 000
+2019,0 , 4 999,Diesel,BMW,X2,8 CV, Casablanca,Aïn Sebaâ,2020-03-31,11:20:57,389 000
+2013,140 000 , 149 999,Diesel,Dacia,Duster,6 CV, Marrakech,Massira 1,2020-03-31,11:17:01,93 000
+2015,95 000 , 99 999,Diesel,Mercedes-Benz,-,9 CV, Casablanca,Maarif,2020-03-31,11:16:13,290 000
+2011,130 000 , 139 999,Essence,mini,country man,9 CV, Casablanca,Bourgogne,2020-03-31,11:15:50,135 000
+2009,110 000 , 119 999,Diesel,BMW,Serie 7,12 CV, Casablanca,Bourgogne,2020-03-31,11:15:34,189 000
+2017,95 000 , 99 999,Diesel,Fiat,Punto,5 CV, Marrakech,Massira 1,2020-03-31,11:04:45,88 000
+2009,160 000 , 169 999,Diesel,Kia,Ceed,8 CV, Casablanca,2 Mars,2020-03-31,11:00:20,69 000
+2012,150 000 , 159 999,Diesel,Land Rover,Range Rover Sport,12 CV, Casablanca,2 Mars,2020-03-31,10:58:18,210 000
+2008,140 000 , 149 999,Diesel,Mercedes-Benz,Classe C,8 CV, Casablanca,2 Mars,2020-03-31,10:57:26,129 000
+2014,200 000 , 249 999,Diesel,Toyota,Prado,12 CV, Marrakech,Autre secteur,2020-03-31,10:57:24,215 000
+2011,100 000 , 109 999,Diesel,Hyundai,Santa Fe,9 CV, Casablanca,Autre secteur,2020-03-31,10:56:51,139 000
+2018,60 000 , 64 999,Diesel,Jeep,Renegade,6 CV, Casablanca,2 Mars,2020-03-31,10:56:41,185 000
+2008,190 000 , 199 999,Diesel,Mercedes-Benz,Classe CLS,12 CV, Casablanca,2 Mars,2020-03-31,10:56:28,105 000
+2016,100 000 , 109 999,Diesel,Mercedes-Benz,Classe C,9 CV, Rabat,Autre secteur,2020-03-31,10:56:25,340 000
+2015,75 000 , 79 999,Diesel,Ford,Fiesta,6 CV, Marrakech,Massira,2020-03-31,10:54:39,93 000
+2016,60 000 , 64 999,Essence,Alfa Romeo,Mito,8 CV, Casablanca,Maarif,2020-03-31,10:51:38,135 000
+2018,25 000 , 29 999,Diesel,Fiat,-,5 CV, Casablanca,Maarif,2020-03-31,10:50:53,115 000
+2009,60 000 , 64 999,Essence,Toyota,Auris,8 CV, Skhirat,Kasbah,2020-03-31,10:49:50,75 000
+2009,95 000 , 99 999,Essence,Jaguar,XF,17 CV, Marrakech,Route de Safi,2020-03-31,10:48:00,85 000
+2020,0 , 4 999,Hybride,Porsche,Cayenne,22 CV, Casablanca,Aïn Sebaâ,2020-03-31,10:43:26,135 000
+2019,0 , 4 999,Diesel,BMW,Serie 4 gran coupé,8 CV, Casablanca,Aïn Sebaâ,2020-03-31,10:43:25,425 000
+2017,50 000 , 54 999,Diesel,BMW,Serie 5,8 CV, Casablanca,Lissasfa,2020-03-31,10:38:32,53 000
+2017,50 000 , 54 999,Diesel,Hyundai,picanto,6 CV, Rabat,Agdal,2020-03-31,10:35:36,115 000
+2016,100 000 , 109 999,Essence,Peugeot,301,6 CV, Rabat,Agdal,2020-03-31,10:35:19,69 000
+2019,0 , 4 999,Diesel,BMW,Serie 4 gran coupé,8 CV, Casablanca,Aïn Sebaâ,2020-03-31,10:35:16,399 000
+2017,80 000 , 84 999,Diesel,Toyota,RAV 4,8 CV, Rabat,Agdal,2020-03-31,10:34:45,179 000
+2000,140 000 , 149 999,Diesel,BMW,Serie 3,8 CV, Casablanca,Hay Mohammadi,2020-03-31,10:32:37,48 000
+2019,15 000 , 19 999,Diesel,Audi,Q8,-, Tanger,Centre ville,2020-03-31,10:29:24,1 060 000
+2015,140 000 , 149 999,Diesel,Volkswagen,Caddy,6 CV, Tanger,Souani,2020-03-31,10:24:33,194 000
+2016,110 000 , 119 999,Diesel,Volkswagen,Passat,8 CV, Casablanca,Aïn Borja,2020-03-31,10:20:11,218 000
+2015,120 000 , 129 999,Diesel,Mitsubishi,L200,10 CV, Casablanca,Oulfa,2020-03-31,10:19:07,115 000
+2011,45 000 , 49 999,Diesel,Audi,A1,5 CV, Casablanca,Bourgogne,2020-03-31,10:18:31,135 000
+2016,20 000 , 24 999,Diesel,Nissan,Juke,6 CV, Skhirat,Kasbah,2020-03-31,10:18:21,158 000
+2014,80 000 , 84 999,Essence,Renault,Clio,11 CV, Casablanca,Bourgogne,2020-03-31,10:18:19,149 000
+2015,90 000 , 94 999,Diesel,BMW,Serie 5,8 CV, Casablanca,Bourgogne,2020-03-31,10:17:56,265 000
+2013,150 000 , 159 999,Diesel,Dacia,Sandero,6 CV, Marrakech,Massira,2020-03-31,10:13:32,82 000
+2016,70 000 , 74 999,Diesel,Nissan,Juke,6 CV, Casablanca,Bourgogne,2020-03-31,10:11:28,149 000
+2018,70 000 , 74 999,Diesel,BMW,Serie 5,8 CV, Casablanca,Bourgogne,2020-03-31,10:11:16,360 000
+2015,130 000 , 139 999,Diesel,Volkswagen,GOLF 7,8 CV, Fès,Narjis,2020-03-31,10:09:00,215 000
+2013,140 000 , 149 999,Diesel,Volkswagen,Tiguan,8 CV, Fès,Narjis,2020-03-31,10:08:36,205 000
+2018,60 000 , 64 999,Diesel,Renault,Clio,6 CV, Casablanca,Aïn Borja,2020-03-31,10:00:53,118 000
+2014,180 000 , 189 999,Diesel,Dacia,Sandero,6 CV, Tétouan,Centre ville,2020-03-31,09:51:18,80 000
+2016,80 000 , 84 999,Diesel,Peugeot,208,6 CV, Marrakech,Massira,2020-03-31,09:47:40,89 000
+2013,85 000 , 89 999,Diesel,Hyundai,Santa Fe,9 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:25:17,199 000
+2018,70 000 , 74 999,Diesel,Peugeot,308,6 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:24:50,159 000
+2017,75 000 , 79 999,Diesel,Dacia,Dokker Van,6 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:24:00,82 000
+2017,120 000 , 129 999,Diesel,Hyundai,Accent,5 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:24:00,115 000
+2016,100 000 , 109 999,Diesel,Hyundai,Accent,6 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:23:40,112 000
+2018,60 000 , 64 999,Essence,Toyota,Yaris,9 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:22:59,93 000
+2017,80 000 , 84 999,Diesel,Volvo,XC60,7 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:22:38,240 000
+2019,0 , 4 999,Diesel,Volvo,other,8 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:22:37,420 000
+2017,80 000 , 84 999,Diesel,Volvo,XC60,7 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:22:19,235 000
+2016,70 000 , 74 999,Diesel,Jeep,Grand Cherokee,11 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:22:18,280 000
+2019,35 000 , 39 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:22:02,600 000
+2017,70 000 , 74 999,Diesel,Alfa Romeo,GIULIA,9 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:21:51,235 000
+2016,90 000 , 94 999,Diesel,Land Rover,Range Rover Sport,12 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:20:05,475 000
+2017,55 000 , 59 999,Diesel,Peugeot,5008,8 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:19:47,225 000
+2019,0 , 4 999,Diesel,Ssangyong,other,6 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:19:22,189 500
+2016,110 000 , 119 999,Diesel,Hyundai,Accent,6 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:19:05,109 000
+2016,140 000 , 149 999,Diesel,Audi,Q7,12 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:18:42,390 000
+2017,100 000 , 109 999,Diesel,Peugeot,208,5 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:16:45,92 000
+2017,80 000 , 84 999,Diesel,Citroen,C-Elysée,5 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:16:05,89 000
+2019,0 , 4 999,Diesel,Ssangyong,other,6 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:13:35,189 500
+2016,130 000 , 139 999,Diesel,Hyundai,Accent,6 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:12:35,109 000
+2010,170 000 , 179 999,Diesel,Audi,Q5,12 CV, Casablanca,Anfa,2020-03-31,09:12:27,160 000
+2018,60 000 , 64 999,Diesel,Alfa Romeo,Stelvio,9 CV, Dar Bouazza,Toute la ville,2020-03-31,09:09:15,360 000
+2018,55 000 , 59 999,Diesel,Dacia,Duster,6 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:06:38,135 000
+2018,60 000 , 64 999,Diesel,Alfa Romeo,Stelvio,9 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:04:33,320 000
+2016,80 000 , 84 999,Diesel,Maserati,other,12 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:04:29,380 000
+2018,70 000 , 74 999,Diesel,Peugeot,301,6 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:03:13,98 000
+2018,60 000 , 64 999,Essence,Toyota,Yaris,9 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:02:52,93 000
+2016,100 000 , 109 999,Diesel,Land Rover,Range Rover Sport,12 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:01:11,475 000
+2017,70 000 , 74 999,Diesel,Peugeot,208,5 CV, Casablanca,Aïn Sebaâ,2020-03-31,09:00:09,92 000
+2019,60 000 , 64 999,Diesel,Fiat,Punto,5 CV, Casablanca,Aïn Sebaâ,2020-03-31,08:58:54,90 000
+2016,180 000 , 189 999,Diesel,Hyundai,i 30,5 CV, Casablanca,Aïn Sebaâ,2020-03-31,08:58:44,138 000
+2018,60 000 , 64 999,Diesel,Alfa Romeo,Giulietta,8 CV, Casablanca,Aïn Sebaâ,2020-03-31,08:57:50,178 000
+2015,95 000 , 99 999,Diesel,Ford,Kuga,8 CV, Casablanca,Aïn Sebaâ,2020-03-31,08:54:04,190 000
+2019,0 , 4 999,Diesel,Volkswagen,PASSAT CC,8 CV, Casablanca,Aïn Sebaâ,2020-03-31,08:53:22,337 000
+2018,55 000 , 59 999,Hybride,Toyota,Yaris,9 CV, Casablanca,Aïn Sebaâ,2020-03-31,08:53:14,109 000
+2019,0 , 4 999,Diesel,Volvo,S60,8 CV, Casablanca,Aïn Sebaâ,2020-03-31,08:52:20,280 000
+2017,95 000 , 99 999,Diesel,Peugeot,301,6 CV, Casablanca,Aïn Sebaâ,2020-03-31,08:51:13,89 000
+2018,55 000 , 59 999,Diesel,Peugeot,301,6 CV, Casablanca,Aïn Sebaâ,2020-03-31,08:48:29,98 000
+2018,55 000 , 59 999,Essence,Peugeot,3008,8 CV, Casablanca,Aïn Sebaâ,2020-03-31,08:48:08,225 000
+2008,110 000 , 119 999,Essence,BMW,X3,11 CV, Casablanca,Aïn Sebaâ,2020-03-31,08:45:52,95 000
+2018,70 000 , 74 999,Diesel,Alfa Romeo,Giulietta,8 CV, Casablanca,Aïn Sebaâ,2020-03-31,08:45:29,178 000
+2017,95 000 , 99 999,Diesel,Volvo,V40,8 CV, Casablanca,Aïn Sebaâ,2020-03-31,08:44:57,173 000
+2017,85 000 , 89 999,Diesel,Hyundai,H-1,10 CV, Dar Bouazza,Toute la ville,2020-03-31,08:14:58,190 000
+2016,95 000 , 99 999,Diesel,Fiat,Punto,6 CV, Casablanca,Maarif,2020-03-31,08:13:52,86 000
+2018,90 000 , 94 999,Diesel,Jeep,Renegade,6 CV, Casablanca,2 Mars,2020-03-31,08:02:48,190 000
+2014,90 000 , 94 999,Essence,Volkswagen,Scirocco,8 CV, Casablanca,2 Mars,2020-03-31,08:02:27,119 000
+2007,180 000 , 189 999,Essence,Nissan,Sunny,8 CV, Temara,Wifak,2020-03-31,01:21:10,42 000
+2013,110 000 , 119 999,Essence,Renault,Clio,5 CV, Fès,Narjis,2020-03-31,00:43:14,63 000
+2013,170 000 , 179 999,Diesel,Dacia,Dokker,6 CV, Benslimane,Lallamaryem,2020-03-31,00:40:12,77 000
+2016,100 000 , 109 999,Diesel,Volkswagen,Jetta,6 CV, Casablanca,Bourgogne,2020-03-30,23:31:08,159 000
+2009,140 000 , 149 999,Diesel,Audi,A5,12 CV, Casablanca,Bourgogne,2020-03-30,23:30:48,125 000
+2013,120 000 , 129 999,Diesel,Volvo,S60,6 CV, Casablanca,Bourgogne,2020-03-30,23:30:03,149 000
+2016,80 000 , 84 999,Diesel,Volkswagen,Passat,8 CV, Casablanca,Bourgogne,2020-03-30,23:29:16,195 000
+2016,100 000 , 109 999,Diesel,Audi,A6,12 CV, Casablanca,Bourgogne,2020-03-30,23:28:04,295 000
+2012,130 000 , 139 999,Diesel,Audi,A7,12 CV, Casablanca,Bourgogne,2020-03-30,23:26:51,249 000
+2013,60 000 , 64 999,Diesel,Land Rover,Range Rover,18 CV, Casablanca,Bourgogne,2020-03-30,23:24:46,430 000
+2016,120 000 , 129 999,Diesel,Kia,Carens,6 CV, Tétouan,Centre ville,2020-03-30,22:27:57,123 000
+2003,200 000 , 249 999,Diesel,Land Rover,Range Rover,12 CV, Tanger,Souani,2020-03-30,22:08:27,89 000
+2016,100 000 , 109 999,Diesel,Volkswagen,Touran,8 CV, Tanger,Souani,2020-03-30,21:53:11,294 000
+2019,10 000 , 14 999,Diesel,Hyundai,H-1,10 CV, Tanger,Souani,2020-03-30,21:53:09,279 000
+2019,10 000 , 14 999,Diesel,Opel,Astra,6 CV, Tanger,Souani,2020-03-30,21:52:58,164 000
+1991,20 000 , 24 999,Diesel,Mercedes-Benz,-,10 CV, Fès,Route Ain Chkaf,2020-03-30,21:47:50,70 000
+2013,160 000 , 169 999,Diesel,Audi,Q5,8 CV, Tanger,Souani,2020-03-30,21:26:33,298 000
+2017,60 000 , 64 999,Diesel,Volkswagen,Polo,5 CV, Tanger,Souani,2020-03-30,21:10:15,204 000
+2012,160 000 , 169 999,Diesel,Volkswagen,Tiguan,8 CV, Tanger,Souani,2020-03-30,21:06:52,174 000
+2007,200 000 , 249 999,Diesel,Toyota,RAV 4,9 CV, Tanger,Centre ville,2020-03-30,21:04:05,105 000
+2010,150 000 , 159 999,Diesel,Audi,A5,12 CV, Tanger,Souani,2020-03-30,21:03:44,154 000
+2016,130 000 , 139 999,Diesel,Volkswagen,Tiguan,8 CV, Tanger,Souani,2020-03-30,21:01:14,355 000
+2012,95 000 , 99 999,Diesel,Renault,Latitude,8 CV, Tanger,Souani,2020-03-30,20:57:48,98 000
+2015,160 000 , 169 999,Diesel,Mercedes-Benz,Classe C,9 CV, Tanger,Souani,2020-03-30,20:57:46,319 000
+2018,40 000 , 44 999,Diesel,Audi,A6,8 CV, Casablanca,Aïn Chock,2020-03-30,20:48:18,80 000
+2018,65 000 , 69 999,Diesel,Dacia,Logan,6 CV, Tanger,Souani,2020-03-30,20:48:17,105 000
+2014,70 000 , 74 999,Diesel,Ford,Kuga,8 CV, Casablanca,2 Mars,2020-03-30,20:43:06,157 000
+2011,150 000 , 159 999,Diesel,Opel,Insignia,8 CV, Casablanca,2 Mars,2020-03-30,20:42:26,88 000
+2009,180 000 , 189 999,Diesel,Porsche,Cayenne,12 CV, Casablanca,2 Mars,2020-03-30,20:41:31,148 000
+2011,200 000 , 249 999,Diesel,Mercedes-Benz,220,8 CV, Fès,Narjis,2020-03-30,20:39:28,200 000
+2020,0 , 4 999,Diesel,Mercedes-Benz,Classe A,6 CV, Casablanca,Maarif,2020-03-30,20:15:20,485 000
+2017,60 000 , 64 999,Diesel,Renault,Kadjar,6 CV, Casablanca,Maarif,2020-03-30,20:15:00,190 000
+2017,60 000 , 64 999,Diesel,Fiat,TIPO,6 CV, Casablanca,Maarif,2020-03-30,20:14:46,139 000
+2017,15 000 , 19 999,Diesel,Fiat,FREEMONT,8 CV, Casablanca,Maarif,2020-03-30,20:14:38,175 000
+2018,20 000 , 24 999,Essence,Fiat,500,8 CV, Casablanca,Maarif,2020-03-30,20:13:51,185 000
+2017,25 000 , 29 999,Essence,Fiat,-,8 CV, Casablanca,Maarif,2020-03-30,20:13:25,155 000
+1992,130 000 , 139 999,Diesel,Citroen,AX,5 CV, Casablanca,Benmsik,2020-03-30,20:05:07,17 000
+1997,100 000 , 109 999,Essence,Seat,Cordoba,8 CV, Casablanca,Aïn Borja,2020-03-30,20:01:28,16 000
+2014,0 , 4 999,Diesel,Mercedes-Benz,Sprinter,12 CV, Fès,Agdal,2020-03-30,19:51:49,300 000
+2017,0 , 4 999,Diesel,Iveco,other,12 CV, Fès,Agdal,2020-03-30,19:50:22,340 000
+2016,60 000 , 64 999,Diesel,Chevrolet,Cruze,8 CV, Tanger,Souani,2020-03-30,19:38:14,138 000
+2016,70 000 , 74 999,Diesel,Volkswagen,GOLF 7,8 CV, Tanger,Souani,2020-03-30,19:34:12,309 000
+2012,120 000 , 129 999,Diesel,Volkswagen,Tiguan,8 CV, Tanger,Souani,2020-03-30,19:33:36,209 000
+2016,110 000 , 119 999,Diesel,Volkswagen,Touran,8 CV, Tanger,Souani,2020-03-30,19:33:35,264 000
+2005,180 000 , 189 999,Essence,Renault,Clio,8 CV, Kénitra,Centre,2020-03-30,19:33:21,40 000
+2007,170 000 , 179 999,Diesel,Hyundai,Tucson,8 CV, Kénitra,Centre,2020-03-30,19:30:25,70 000
+2015,110 000 , 119 999,Diesel,Mitsubishi,L200,10 CV, Casablanca,Oulfa,2020-03-30,19:20:27,115 000
+2011,180 000 , 189 999,Diesel,Ford,Mondeo,8 CV, Tanger,Souani,2020-03-30,19:20:10,98 000
+2016,110 000 , 119 999,Diesel,Peugeot,301,6 CV, Casablanca,Sbata,2020-03-30,18:58:18,86 000
+2015,100 000 , 109 999,Diesel,Fiat,Doblo,5 CV, Casablanca,Sbata,2020-03-30,18:56:01,83 000
+2017,95 000 , 99 999,Diesel,Citroen,C3,6 CV, Tanger,Souani,2020-03-30,18:52:28,98 000
+2016,80 000 , 84 999,Diesel,Hyundai,i 30,6 CV, Casablanca,Aïn Chock,2020-03-30,18:41:46,145 000
+2016,80 000 , 84 999,Diesel,Fiat,GRANDE PUNTO,6 CV, Kénitra,Centre,2020-03-30,18:29:47,45 000
+2015,50 000 , 54 999,Diesel,Dacia,Sandero,6 CV, Casablanca,Aïn Chock,2020-03-30,18:25:04,95 000
+2014,85 000 , 89 999,Diesel,Mercedes-Benz,Classe S,12 CV, Casablanca,Anfa,2020-03-30,17:56:54,520 000
+1999,250 000 , 299 999,Diesel,Volkswagen,GOLF 4,8 CV, Oujda,Centre Ville,2020-03-30,17:54:20,87 000
+2019,70 000 , 74 999,Diesel,Dacia,Logan,6 CV, Fès,Hay Mohammedi,2020-03-30,17:53:06,78 000
+2017,110 000 , 119 999,Diesel,Renault,Clio,6 CV, Fès,Hay Mohammedi,2020-03-30,17:52:47,95 000
+2017,50 000 , 54 999,Essence,Hyundai,i 10,6 CV, Fès,Hay Mohammedi,2020-03-30,17:52:28,73 000
+2019,20 000 , 24 999,Essence,Fiat,Panda,6 CV, Fès,Hay Mohammedi,2020-03-30,17:51:29,85 000
+2017,150 000 , 159 999,Essence,Hyundai,i 10,6 CV, Fès,Hay Mohammedi,2020-03-30,17:50:33,78 000
+2016,50 000 , 54 999,Diesel,Volkswagen,Tiguan,8 CV, Tanger,Souani,2020-03-30,17:49:34,398 000
+2006,180 000 , 189 999,Diesel,Peugeot,407,6 CV, Marrakech,Massira,2020-03-30,17:45:30,52 000
+2016,85 000 , 89 999,Diesel,Dacia,Sandero,6 CV, Marrakech,Massira,2020-03-30,17:44:58,98 000
+2015,140 000 , 149 999,Diesel,Hyundai,Accent,6 CV, Marrakech,Massira,2020-03-30,17:44:30,93 000
+2020,0 , 4 999,Essence,Mercedes-Benz,Classe GLC,9 CV, Casablanca,Maarif,2020-03-30,17:44:24,730 000
+2020,0 , 4 999,Diesel,Audi,other,-, Tétouan,Wilaya,2020-03-30,17:40:06,159 000
+2016,25 000 , 29 999,Diesel,mini,country man,6 CV, Casablanca,Maarif,2020-03-30,17:39:03,195 000
+2018,70 000 , 74 999,Diesel,Fiat,TIPO,6 CV, Casablanca,Maarif,2020-03-30,17:37:29,139 000
+2014,50 000 , 54 999,Diesel,Fiat,500,5 CV, Casablanca,Autre secteur,2020-03-30,17:34:58,92 000
+2016,60 000 , 64 999,Diesel,Fiat,500,5 CV, Casablanca,Autre secteur,2020-03-30,17:34:28,98 000
+2012,130 000 , 139 999,Diesel,Volvo,XC60,8 CV, Marrakech,Autre secteur,2020-03-30,17:34:06,155 000
+2016,60 000 , 64 999,Diesel,Fiat,500,5 CV, Casablanca,Autre secteur,2020-03-30,17:34:28,98 000
+2012,130 000 , 139 999,Diesel,Volvo,XC60,8 CV, Marrakech,Autre secteur,2020-03-30,17:34:06,155 000
+2014,130 000 , 139 999,Diesel,Mitsubishi,L200,10 CV, Casablanca,Oulfa,2020-03-30,17:03:02,115 000
+2014,160 000 , 169 999,Diesel,Volkswagen,GOLF 7,8 CV, Fès,Narjis,2020-03-30,16:52:02,250 000
+2016,130 000 , 139 999,Diesel,Volkswagen,Touran,6 CV, Fès,Centre,2020-03-30,16:51:49,228 000
+2015,90 000 , 94 999,Diesel,Volkswagen,GOLF 7,-, Casablanca,Aïn Chock,2020-03-30,16:50:38,65 000
+1981,350 000 , 399 999,Diesel,Mercedes-Benz,240,8 CV, Casablanca,Zone Industrielle,2020-03-30,16:39:51,22 000
+2016,80 000 , 84 999,Diesel,Volvo,XC60,8 CV, Marrakech,Route de Safi,2020-03-30,16:37:03,220 000
+2017,40 000 , 44 999,Diesel,Renault,Clio,6 CV, Marrakech,Route de Safi,2020-03-30,16:33:53,124 000
+2008,160 000 , 169 999,Diesel,Mercedes-Benz,220,9 CV, Casablanca,Autre secteur,2020-03-30,16:31:45,132 000
+2016,170 000 , 179 999,Diesel,Volkswagen,-,8 CV, Khouribga,Toute la ville,2020-03-30,16:31:15,288 000
+2019,15 000 , 19 999,Diesel,Volkswagen,Caddy,6 CV, Kénitra,Ouled Oujih,2020-03-30,16:26:43,142 000
+2018,60 000 , 64 999,Hybride,Toyota,Yaris,9 CV, Kénitra,Ouled Oujih,2020-03-30,16:24:48,113 000
+2012,50 000 , 54 999,Diesel,Porsche,Panamera,12 CV, Casablanca,Bourgogne,2020-03-30,16:22:46,369 000
+2017,65 000 , 69 999,Essence,Fiat,500,6 CV, Kénitra,Ouled Oujih,2020-03-30,16:21:09,95 000
+2006,150 000 , 159 999,Essence,Honda,Civic,9 CV, Kénitra,Centre,2020-03-30,16:19:36,62 000
+2018,55 000 , 59 999,Diesel,Jeep,Renegade,6 CV, Casablanca,Autre secteur,2020-03-30,16:10:06,170 000
+2011,100 000 , 109 999,Essence,Peugeot,RCZ,8 CV, Casablanca,Bourgogne,2020-03-30,16:08:42,129 000
+2017,40 000 , 44 999,Essence,BMW,Serie 2,17 CV, Rabat,Riyad,2020-03-30,15:59:09,520 000
+2016,160 000 , 169 999,Diesel,Ford,Fusion,8 CV, Fquih Ben Saleh,Toute la ville,2020-03-30,15:53:02,150 000
+2010,130 000 , 139 999,Diesel,Land Rover,Range Rover,12 CV, Casablanca,2 Mars,2020-03-30,15:52:24,149 000
+2019,15 000 , 19 999,Diesel,Fiat,TIPO,5 CV, Casablanca,2 Mars,2020-03-30,15:49:18,115 000
+2016,140 000 , 149 999,Diesel,Volkswagen,Touareg,12 CV, Fès,Route d'Immouzere,2020-03-30,14:42:17,195 000
+2017,50 000 , 54 999,Diesel,Ford,Fiesta,6 CV, Tanger,Val Fleuri,2020-03-30,14:13:12,118 000
+2014,160 000 , 169 999,Diesel,Hyundai,Santa Fe,9 CV, Tanger,Val Fleuri,2020-03-30,14:12:35,195 000
+2011,130 000 , 139 999,Essence,Audi,A1,8 CV, Tanger,Val Fleuri,2020-03-30,14:12:06,128 000
+2017,70 000 , 74 999,Diesel,Dacia,Duster,6 CV, Tanger,Val Fleuri,2020-03-30,14:11:37,143 000
+2019,45 000 , 49 999,Diesel,Peugeot,3008,8 CV, Tanger,Val Fleuri,2020-03-30,14:09:23,245 000
+2018,70 000 , 74 999,Diesel,Peugeot,208,6 CV, Tanger,Val Fleuri,2020-03-30,14:08:45,125 000
+2009,100 000 , 109 999,Diesel,Toyota,Corolla,7 CV, Tanger,Centre ville,2020-03-30,14:00:15,87 000
+2016,70 000 , 74 999,Diesel,Renault,Kangoo,6 CV, Tanger,Centre ville,2020-03-30,13:58:40,120 000
+1990,110 000 , 119 999,Diesel,Opel,KADETT,7 CV, Tanger,Centre ville,2020-03-30,13:57:56,38 000
+2007,100 000 , 109 999,Diesel,Citroen,C8,8 CV, Tanger,Centre ville,2020-03-30,13:57:19,85 000
+2003,110 000 , 119 999,Diesel,Renault,Megane,6 CV, Tanger,Centre ville,2020-03-30,13:56:46,65 000
+2006,95 000 , 99 999,Essence,Honda,Jazz,8 CV, Tanger,Centre ville,2020-03-30,13:56:17,60 000
+2011,150 000 , 159 999,Diesel,Dacia,Duster,6 CV, Tanger,Centre ville,2020-03-30,13:54:58,94 000
+2015,95 000 , 99 999,Diesel,Dacia,santa_fe,6 CV, Tanger,Centre ville,2020-03-30,13:54:21,95 000
+2015,80 000 , 84 999,Diesel,Peugeot,Partner,6 CV, Tanger,Centre ville,2020-03-30,13:53:30,110 000
+2007,0 , 4 999,Diesel,Mercedes-Benz,Classe C,8 CV, Tanger,Centre ville,2020-03-30,13:53:03,132 000
+2006,0 , 4 999,Diesel,Land Rover,Range Rover,12 CV, Tanger,Centre ville,2020-03-30,13:52:02,50 000
+2001,150 000 , 159 999,Diesel,Mercedes-Benz,Classe C,9 CV, Tanger,Centre ville,2020-03-30,13:51:42,85 000
+2017,65 000 , 69 999,Essence,Hyundai,i 10,6 CV, Tanger,Centre ville,2020-03-30,13:50:54,75 000
+2012,0 , 4 999,Diesel,BMW,X6,12 CV, Tanger,Centre ville,2020-03-30,13:50:28,200 000
+2012,95 000 , 99 999,Diesel,Hyundai,Santa Fe,8 CV, Tanger,Centre ville,2020-03-30,13:50:02,125 000
+2009,160 000 , 169 999,Diesel,Toyota,Aygo,6 CV, Tanger,Centre ville,2020-03-30,13:49:34,66 000
+2015,90 000 , 94 999,Essence,Hyundai,Grand i10,6 CV, Tanger,Centre ville,2020-03-30,13:45:50,75 000
+2015,0 , 4 999,Diesel,Toyota,Corolla,7 CV, Tanger,Centre ville,2020-03-30,13:45:27,125 000
+2006,190 000 , 199 999,Diesel,Volkswagen,Caddy,8 CV, Tanger,Centre ville,2020-03-30,13:45:07,95 000
+2015,120 000 , 129 999,Diesel,Toyota,Hilux,10 CV, Tanger,Centre ville,2020-03-30,13:44:43,250 000
+2014,90 000 , 94 999,Diesel,Audi,Q3,9 CV, Casablanca,Anfa,2020-03-30,13:41:42,235 000
+2018,70 000 , 74 999,Diesel,Peugeot,208,6 CV, Casablanca,Sidi Bernoussi,2020-03-30,13:35:10,93 000
+2018,60 000 , 64 999,Essence,Hyundai,i 10,6 CV, Casablanca,Sidi Bernoussi,2020-03-30,13:32:22,77 000
+2018,60 000 , 64 999,Diesel,Peugeot,208,6 CV, Casablanca,Sidi Bernoussi,2020-03-30,13:30:49,93 000
+2018,60 000 , 64 999,Diesel,Dacia,Duster,6 CV, Casablanca,Sidi Bernoussi,2020-03-30,13:26:55,137 000
+2017,90 000 , 94 999,Essence,Ford,Fiesta,7 CV, Marrakech,Massira 1,2020-03-30,12:11:33,84 000
+2011,110 000 , 119 999,Diesel,Nissan,Qashqai,6 CV, Casablanca,Oasis,2020-03-30,12:06:59,110 000
+1994,180 000 , 189 999,Diesel,Mercedes-Benz,250,9 CV, Casablanca,Oasis,2020-03-30,12:06:23,37 000
+2009,130 000 , 139 999,Essence,Chevrolet,Captiva,17 CV, Marrakech,Massira 1,2020-03-30,11:38:56,53 000
+2014,110 000 , 119 999,Diesel,Land Rover,Range Rover Sport,12 CV, Marrakech,Centre Ville,2020-03-30,11:32:13,380 000
+2016,55 000 , 59 999,Diesel,Dacia,Duster,6 CV, Marrakech,Centre Ville,2020-03-30,10:32:41,128 000
+2005,170 000 , 179 999,Diesel,Renault,Kangoo,7 CV, Casablanca,Ben M'sick,2020-03-30,08:51:03,57 000
+2000,190 000 , 199 999,Diesel,Volkswagen,Bora,8 CV, Casablanca,Ben M'sick,2020-03-30,08:50:40,47 000
+2005,160 000 , 169 999,Diesel,BMW,-,12 CV, Casablanca,Ben M'sick,2020-03-30,08:49:57,44 000
+2018,60 000 , 64 999,Diesel,Fiat,TIPO,6 CV, Casablanca,Aïn Sebaâ,2020-03-30,01:00:27,66 000
+2014,75 000 , 79 999,Diesel,Citroen,Nemo,6 CV, Casablanca,Belvédère,2020-03-29,19:02:45,62 000
+2016,70 000 , 74 999,Diesel,Peugeot,Bipper,6 CV, Casablanca,Aïn Chock,2020-03-29,18:54:42,85 000
+2013,130 000 , 139 999,Diesel,Peugeot,Bipper,6 CV, Casablanca,Bourgogne,2020-03-29,18:53:41,57 000
+2015,150 000 , 159 999,Diesel,Volvo,S60,8 CV, Casablanca,Laimoune,2020-03-29,17:49:25,145 000
+2016,130 000 , 139 999,Diesel,Hyundai,Elantra,6 CV, Casablanca,Laimoune,2020-03-29,17:48:58,128 000
+2013,110 000 , 119 999,Diesel,Peugeot,Bipper,6 CV, Casablanca,Al Batha,2020-03-29,17:48:29,57 000
+2017,180 000 , 189 999,Diesel,Mercedes-Benz,Classe C,9 CV, Rabat,Autre secteur,2020-03-29,17:43:52,320 000
+2019,5 000 , 9 999,Diesel,Peugeot,2008,6 CV, Casablanca,Autre secteur,2020-03-29,17:40:17,173 000
+2016,45 000 , 49 999,Diesel,Toyota,Yaris,5 CV, Casablanca,Autre secteur,2020-03-29,17:39:38,100 000
+2014,70 000 , 74 999,Diesel,Audi,A6,8 CV, Casablanca,Autre secteur,2020-03-29,17:38:07,230 000
+2016,40 000 , 44 999,Diesel,Volkswagen,Tiguan,8 CV, Casablanca,Laimoune,2020-03-29,17:36:09,195 000
+2011,130 000 , 139 999,Diesel,Audi,Q5,8 CV, Fès,Narjis,2020-03-29,17:19:51,238 000
+2014,40 000 , 44 999,Diesel,Citroen,Nemo,6 CV, Casablanca,Aïn Diab,2020-03-29,17:00:20,62 000
+2011,200 000 , 249 999,Diesel,Renault,Kangoo,-, Tétouan,Centre ville,2020-03-29,16:50:18,86 000
+2012,95 000 , 99 999,Essence,Peugeot,107,5 CV, Casablanca,2 Mars,2020-03-29,16:36:56,59 000
+2014,170 000 , 179 999,Diesel,Fiat,Doblo,6 CV, Tétouan,Centre ville,2020-03-29,16:26:38,83 000
+2019,5 000 , 9 999,Essence,Fiat,other,9 CV, Marrakech,Route de Safi,2020-03-29,16:21:38,180 000
+2012,130 000 , 139 999,Diesel,Peugeot,Bipper,6 CV, Casablanca,Aïn Chock,2020-03-29,16:01:02,59 000
+2014,95 000 , 99 999,Diesel,Mercedes-Benz,Classe E,9 CV, Casablanca,Maarif,2020-03-29,15:50:05,265 000
+2006,180 000 , 189 999,Diesel,Kia,Cerato,8 CV, Marrakech,Massira 1,2020-03-29,15:49:50,47 000
+2008,190 000 , 199 999,Diesel,Toyota,Land Cruiser,11 CV, Marrakech,Massar,2020-03-29,15:49:33,145 000
+2013,95 000 , 99 999,Diesel,Fiat,FREEMONT,-, Marrakech,Massar,2020-03-29,15:49:09,135 000
+2015,60 000 , 64 999,Essence,Fiat,500,6 CV, Marrakech,Massar,2020-03-29,15:47:27,129 000
+2011,170 000 , 179 999,Electrique,Hyundai,H-1,9 CV, Marrakech,Massar,2020-03-29,15:47:07,105 000
+2016,75 000 , 79 999,Diesel,Peugeot,Bipper,6 CV, Casablanca,Aïn Chock,2020-03-29,15:47:06,85 000
+2017,70 000 , 74 999,Diesel,Renault,-,6 CV, Rabat,Guich Oudaya,2020-03-29,14:54:42,193 000
+2016,50 000 , 54 999,Diesel,Dacia,Logan,6 CV, Fès,Mont fleuri,2020-03-29,14:46:00,90 000
+2012,130 000 , 139 999,Diesel,Land Rover,Range Rover,8 CV, Fès,Mont fleuri,2020-03-29,14:26:39,225 000
+2012,110 000 , 119 999,Diesel,BMW,Serie 3,8 CV, Casablanca,Hay Mohammadi,2020-03-29,13:36:45,220 000
+2014,100 000 , 109 999,Diesel,Jeep,Grand Cherokee,12 CV, Rabat,Hay Nahda,2020-03-29,13:24:28,230 000
+2017,30 000 , 34 999,Essence,Hyundai,i 10,6 CV, Fès,Hay Mohammedi,2020-03-29,13:20:07,76 000
+2006,110 000 , 119 999,Essence,Renault,-,11 CV, Temara,Abbadi,2020-03-29,12:58:50,37 000
+2009,180 000 , 189 999,Diesel,Dacia,Logan,6 CV, Fès,Narjis,2020-03-29,12:51:56,63 000
+2006,170 000 , 179 999,Diesel,Peugeot,-,8 CV, Temara,Abbadi,2020-03-29,12:45:35,68 000
+1997,140 000 , 149 999,Essence,Toyota,-,6 CV, Temara,Abbadi,2020-03-29,12:43:30,28 000
+1987,180 000 , 189 999,Diesel,Mercedes-Benz,-,8 CV, Temara,Abbadi,2020-03-29,12:34:26,35 000
+2014,100 000 , 109 999,Diesel,Jeep,Grand Cherokee,12 CV, Rabat,Hay Nahda,2020-03-29,12:22:26,247 000
+2017,130 000 , 139 999,Diesel,Land Rover,Range Rover Evoque,-, Marrakech,Massira 1,2020-03-29,11:32:11,285 000
+2015,110 000 , 119 999,Essence,Dacia,Logan,6 CV, Marrakech,Massira 1,2020-03-29,11:31:40,67 000
+2015,80 000 , 84 999,Diesel,Hyundai,Accent,6 CV, Marrakech,Azli,2020-03-29,10:51:29,100 000
+2016,55 000 , 59 999,Essence,Renault,Clio,6 CV, Marrakech,Azli,2020-03-29,10:50:17,89 000
+1998,0 , 4 999,Essence,BMW,Serie 3,10 CV, Casablanca,Californie,2020-03-29,10:30:36,25 000
+2016,65 000 , 69 999,Diesel,Dacia,Duster,6 CV, Rabat,Autre secteur,2020-03-29,10:24:00,120 000
+2011,110 000 , 119 999,Diesel,BMW,X1,8 CV, Casablanca,Autre secteur,2020-03-29,10:23:15,160 000
+2015,110 000 , 119 999,Diesel,Volvo,S60,6 CV, Casablanca,Autre secteur,2020-03-29,10:22:06,165 000
+2014,130 000 , 139 999,Diesel,Nissan,Qashqai,8 CV, Fès,Mont fleuri,2020-03-29,10:16:28,147 000
+2015,100 000 , 109 999,Diesel,Peugeot,308,6 CV, Casablanca,Aïn Sebaâ,2020-03-29,08:20:15,114 000
+2020,0 , 4 999,Essence,Fiat,500,7 CV, Casablanca,Aïn Sebaâ,2020-03-29,08:19:50,119 000
+2020,0 , 4 999,Essence,Fiat,500,7 CV, Casablanca,Aïn Sebaâ,2020-03-29,08:19:26,129 000
+2016,110 000 , 119 999,Diesel,Hyundai,Accent,6 CV, Casablanca,Aïn Sebaâ,2020-03-29,08:18:58,92 000
+2016,100 000 , 109 999,Diesel,Hyundai,i 30,6 CV, Tanger,Souani,2020-03-28,19:25:37,148 000
+2016,50 000 , 54 999,Essence,Toyota,Yaris,9 CV, Casablanca,Aïn Sebaâ,2020-03-28,17:53:39,95 000
+2017,65 000 , 69 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,Aïn Sebaâ,2020-03-28,17:43:35,210 000
+2016,75 000 , 79 999,Diesel,Toyota,Yaris,5 CV, Casablanca,Aïn Sebaâ,2020-03-28,17:36:55,93 000
+2015,120 000 , 129 999,Diesel,Honda,CR-V,6 CV, Casablanca,Aïn Sebaâ,2020-03-28,17:28:09,190 000
+2010,160 000 , 169 999,Diesel,Peugeot,308,6 CV, Casablanca,Aïn Sebaâ,2020-03-28,17:25:11,75 000
+2014,120 000 , 129 999,Diesel,Volkswagen,GOLF 7,8 CV, Fès,Mont fleuri,2020-03-28,14:35:52,270 000
+2015,160 000 , 169 999,Diesel,Ford,Kuga,8 CV, Fès,Mont fleuri,2020-03-28,14:35:04,160 000
+2014,60 000 , 64 999,Diesel,Volkswagen,Polo,6 CV, Fès,Mont fleuri,2020-03-28,14:34:24,128 000
+2016,90 000 , 94 999,Diesel,Porsche,Cayenne,12 CV, Fès,Mont fleuri,2020-03-28,14:33:37,620 000
+2014,130 000 , 139 999,Diesel,Suzuki,SX4,5 CV, Casablanca,Aïn Chock,2020-03-28,11:17:53,280 000
+2018,55 000 , 59 999,Diesel,Dacia,Duster,6 CV, Rabat,Aviation,2020-03-28,11:13:46,155 000
+2012,120 000 , 129 999,Diesel,Peugeot,Partner,6 CV, Rabat,Aviation,2020-03-28,10:54:06,98 000
+1993,250 000 , 299 999,Diesel,Toyota,Corolla,8 CV, Oujda,Centre Ville,2020-03-28,10:40:49,25 000
+2013,110 000 , 119 999,Diesel,Renault,Koleos,8 CV, Casablanca,Sidi Maarouf,2020-03-28,10:16:54,45 000
+2013,80 000 , 84 999,Essence,Dacia,-,6 CV, Casablanca,2 Mars,2020-03-28,09:29:10,60 000
+2018,10 000 , 14 999,Essence,Opel,ADAM,7 CV, Casablanca,Anfa,2020-03-27,21:55:46,117 500
+2015,70 000 , 74 999,Diesel,Jeep,Wrangler,12 CV, Casablanca,Anfa,2020-03-27,21:55:23,265 000
+2019,15 000 , 19 999,Diesel,Volkswagen,PASSAT CC,8 CV, Casablanca,Autre secteur,2020-03-27,20:37:29,295 000
+2014,75 000 , 79 999,Diesel,Mitsubishi,L200,10 CV, Casablanca,Anfa,2020-03-27,18:31:39,119 000
+2016,65 000 , 69 999,Diesel,Audi,A3,6 CV, Mohammedia,La Colline,2020-03-27,17:44:01,235 000
+2019,5 000 , 9 999,Diesel,Renault,Megane,6 CV, Mohammedia,La Colline,2020-03-27,17:43:40,175 000
+2019,30 000 , 34 999,Diesel,Hyundai,H-1,9 CV, Mohammedia,La Colline,2020-03-27,17:43:19,280 000
+2015,200 000 , 249 999,Diesel,Volvo,S60,8 CV, Mohammedia,La Colline,2020-03-27,17:42:58,150 000
+2011,120 000 , 129 999,Diesel,BMW,X3,8 CV, Mohammedia,La Colline,2020-03-27,17:42:36,227 000
+2015,70 000 , 74 999,Diesel,BMW,Serie 2,-, Mohammedia,La Colline,2020-03-27,17:42:13,205 000
+2016,95 000 , 99 999,Diesel,Renault,Fluence,6 CV, Mohammedia,La Colline,2020-03-27,17:41:42,115 000
+2019,20 000 , 24 999,Diesel,Dacia,Logan,6 CV, Mohammedia,La Colline,2020-03-27,17:41:24,98 000
+2017,85 000 , 89 999,Diesel,Renault,Clio,6 CV, Mohammedia,La Colline,2020-03-27,17:41:04,109 000
+2018,10 000 , 14 999,Essence,Hyundai,i 20,6 CV, Mohammedia,La Colline,2020-03-27,17:40:16,125 000
+2014,120 000 , 129 999,Diesel,Fiat,Doblo,5 CV, Fès,Route de Sefrou,2020-03-27,16:47:23,58 000
+2014,130 000 , 139 999,Diesel,BMW,-,8 CV, Rabat,Hay el Fath,2020-03-27,13:20:23,240 000
+2017,75 000 , 79 999,Diesel,Dacia,Dokker,6 CV, Casablanca,Bournazil,2020-03-27,11:39:03,92 000
+2015,80 000 , 84 999,Diesel,Dacia,Dokker,6 CV, Casablanca,Ben M'sick,2020-03-27,11:28:04,72 000
+2015,80 000 , 84 999,Diesel,Renault,Clio,6 CV, Casablanca,Benmsik,2020-03-27,11:24:04,99 000
+2015,90 000 , 94 999,Diesel,Dacia,Dokker,6 CV, Casablanca,Bournazil,2020-03-27,11:20:33,85 000
+2016,90 000 , 94 999,Essence,Fiat,500,7 CV, Skhirat,Kasbah,2020-03-27,11:20:08,88 000
+2015,90 000 , 94 999,Diesel,Renault,Kangoo,6 CV, Rabat,Hay el Fath,2020-03-27,11:19:11,105 000
+2012,75 000 , 79 999,Diesel,Dacia,Duster,6 CV, Tétouan,Centre ville,2020-03-27,11:01:59,95 500
+2014,170 000 , 179 999,Diesel,Mitsubishi,outlander,9 CV, Rabat,Autre secteur,2020-03-27,09:57:50,153 000
+2014,90 000 , 94 999,Essence,Mercedes-Benz,Classe S,29 CV, Casablanca,Bourgogne,2020-03-27,09:21:23,749 000
+2013,110 000 , 119 999,Diesel,Jeep,Grand Cherokee,12 CV, Casablanca,Bourgogne,2020-03-27,09:20:54,199 000
+2014,110 000 , 119 999,Diesel,Hyundai,ix 35,7 CV, Tétouan,Mhannech,2020-03-27,02:29:14,150 000
+2005,180 000 , 189 999,Diesel,Renault,Scenic,7 CV, Tétouan,Centre ville,2020-03-27,02:28:57,64 000
+2014,100 000 , 109 999,Essence,Dacia,Logan,8 CV, Tétouan,Mhannech,2020-03-27,02:24:00,55 000
+2016,75 000 , 79 999,Diesel,Dacia,Lodgy,6 CV, Casablanca,Aïn Chock,2020-03-26,18:27:18,90 000
+2012,180 000 , 189 999,Diesel,Volkswagen,GOLF 6,6 CV, Casablanca,2 Mars,2020-03-26,17:08:11,130 000
+2016,45 000 , 49 999,Diesel,Dacia,Logan,6 CV, Casablanca,Bernoussi,2020-03-26,16:50:00,86 000
+2005,300 000 , 349 999,Diesel,Citroen,Berlingo,6 CV, Fquih Ben Saleh,Toute la ville,2020-03-26,16:31:48,43 000
+2016,140 000 , 149 999,Diesel,Audi,Q7,12 CV, Casablanca,Autre secteur,2020-03-26,16:29:14,450 000
+2018,50 000 , 54 999,Diesel,Peugeot,308,6 CV, Fès,Narjis,2020-03-26,16:18:32,170 000
+2013,110 000 , 119 999,Diesel,Dacia,Logan,5 CV, Casablanca,Bernoussi,2020-03-26,16:17:40,77 000
+2005,190 000 , 199 999,Essence,Ford,Fiesta,6 CV, Fquih Ben Saleh,Toute la ville,2020-03-26,15:25:58,50 000
+2009,160 000 , 169 999,Diesel,Ford,Fiesta,6 CV, Fquih Ben Saleh,Toute la ville,2020-03-26,15:15:18,67 000
+2003,200 000 , 249 999,Diesel,Volkswagen,GOLF 4,8 CV, Fquih Ben Saleh,Toute la ville,2020-03-26,15:10:13,85 000
+2006,150 000 , 159 999,Diesel,Renault,Clio,6 CV, Agadir,Centre Ville,2020-03-26,14:04:56,60 000
+2007,75 000 , 79 999,Essence,Kia,Picanto,5 CV, Tétouan,Centre ville,2020-03-26,13:36:10,59 000
+2007,180 000 , 189 999,Diesel,Opel,Corsa,6 CV, Fès,Route de Meknes,2020-03-26,13:28:57,66 000
+2018,45 000 , 49 999,Diesel,Peugeot,208,6 CV, Casablanca,Aïn Chock,2020-03-26,13:06:40,56 000
+2013,110 000 , 119 999,Diesel,Nissan,Qashqai,6 CV, Agadir,Hay Dakhla,2020-03-26,11:49:46,68 000
+2015,120 000 , 129 999,Diesel,Mitsubishi,L200,10 CV, Casablanca,Oulfa,2020-03-26,10:21:30,115 000
+2017,110 000 , 119 999,Diesel,Land Rover,Range Rover,12 CV, Casablanca,2 Mars,2020-03-26,10:07:13,530 000
+2017,100 000 , 109 999,Diesel,Dacia,Duster,6 CV, Casablanca,Aïn Chock,2020-03-26,08:42:46,27 000
+2012,180 000 , 189 999,Diesel,Jeep,Grand Cherokee,12 CV, Casablanca,Centre Ville,2020-03-26,08:12:49,158 000
+2008,70 000 , 74 999,Essence,Audi,TT,17 CV, Dar Bouazza,Toute la ville,2020-03-26,08:11:57,195 000
+2018,65 000 , 69 999,Diesel,Toyota,Yaris,6 CV, Casablanca,Aïn Sebaâ,2020-03-26,07:57:27,103 000
+2004,55 000 , 59 999,Diesel,Chrysler,-,11 CV, Rabat,Yacoub El Mansour,2020-03-25,23:34:58,49 000
+2013,100 000 , 109 999,Diesel,Dacia,Logan,6 CV, Rabat,Yacoub El Mansour,2020-03-25,23:16:19,75 000
+2014,150 000 , 159 999,Diesel,Mercedes-Benz,Classe E,9 CV, Rabat,Yacoub El Mansour,2020-03-25,20:54:35,230 000
+2012,150 000 , 159 999,Diesel,Jaguar,XF,12 CV, Rabat,Yacoub El Mansour,2020-03-25,20:50:42,195 000
+2015,130 000 , 139 999,Diesel,Ford,Focus,6 CV, Tanger,Centre ville,2020-03-25,20:25:02,139 000
+2015,60 000 , 64 999,Diesel,Renault,-,7 CV, Rabat,Yacoub El Mansour,2020-03-25,20:18:22,135 000
+2010,100 000 , 109 999,Diesel,Ssangyong,-,11 CV, Rabat,Yacoub El Mansour,2020-03-25,19:27:06,100 000
+2015,70 000 , 74 999,Diesel,Dacia,Duster,6 CV, Casablanca,Oulfa,2020-03-25,17:06:36,30 000
+2016,75 000 , 79 999,Diesel,Ford,Fiesta,6 CV, Casablanca,Aïn Sebaâ,2020-03-25,16:03:49,89 000
+2005,160 000 , 169 999,Diesel,Audi,A3,8 CV, Casablanca,Sidi Othmane,2020-03-25,15:22:52,62 000
+2017,50 000 , 54 999,Diesel,Renault,Clio,6 CV, Casablanca,Sidi Othmane,2020-03-25,14:06:20,103 000
+2016,75 000 , 79 999,Essence,Ford,Fiesta,7 CV, Fès,Narjis,2020-03-25,13:35:57,81 000
+2015,80 000 , 84 999,Diesel,Dacia,Duster,6 CV, Fès,Narjis,2020-03-25,13:35:05,118 000
+2016,190 000 , 199 999,Diesel,Volkswagen,Touran,8 CV, Tanger,Val Fleuri,2020-03-25,13:22:09,235 000
+2017,65 000 , 69 999,Essence,Hyundai,i 10,6 CV, Tanger,Val Fleuri,2020-03-25,13:16:56,75 000
+2008,60 000 , 64 999,Essence,Volkswagen,Polo,8 CV, Tanger,Val Fleuri,2020-03-25,13:14:15,68 000
+2014,120 000 , 129 999,Diesel,Audi,Q5,9 CV, Marrakech,Massar,2020-03-25,12:56:00,105 000
+2015,80 000 , 84 999,Diesel,Dacia,-,6 CV, Casablanca,Benmsik,2020-03-25,12:48:45,82 500
+2015,100 000 , 109 999,Diesel,Peugeot,-,6 CV, Casablanca,Benmsik,2020-03-25,12:42:58,88 000
+2016,100 000 , 109 999,Diesel,Renault,-,6 CV, Casablanca,Benmsik,2020-03-25,12:41:01,97 000
+2016,130 000 , 139 999,Diesel,Volkswagen,Touran,8 CV, Fès,Mont fleuri,2020-03-25,12:14:26,270 000
+2009,200 000 , 249 999,Diesel,Mercedes-Benz,Classe E,9 CV, Fès,Mont fleuri,2020-03-25,12:14:11,150 000
+2016,140 000 , 149 999,Diesel,Audi,Q5,8 CV, Fès,Mont fleuri,2020-03-25,12:11:16,410 000
+2016,130 000 , 139 999,Diesel,Volkswagen,Touran,8 CV, Fès,Mont fleuri,2020-03-25,12:10:58,260 000
+2017,70 000 , 74 999,Essence,Peugeot,108,6 CV, Fès,Mont fleuri,2020-03-25,12:10:20,85 000
+2017,80 000 , 84 999,Diesel,Ford,Kuga,8 CV, Fès,Mont fleuri,2020-03-25,12:10:08,185 000
+2016,70 000 , 74 999,Diesel,Peugeot,2008,6 CV, Fès,Mont fleuri,2020-03-25,12:09:50,135 000
+2016,150 000 , 159 999,Diesel,Audi,A3,8 CV, Fès,Mont fleuri,2020-03-25,12:09:38,280 000
+2015,95 000 , 99 999,Diesel,Volkswagen,Golf,8 CV, Fès,Mont fleuri,2020-03-25,12:09:23,270 000
+2014,130 000 , 139 999,Diesel,Ford,Kuga,8 CV, Fès,Mont fleuri,2020-03-25,12:09:07,168 000
+2019,0 , 4 999,Diesel,Suzuki,Vitara,7 CV, Oujda,Route Jerada,2020-03-25,12:04:26,179 000
+2015,140 000 , 149 999,Diesel,Hyundai,Accent,6 CV, Agadir,Hay Massira,2020-03-25,11:43:09,118 000
+2015,80 000 , 84 999,Diesel,Fiat,Pinto,6 CV, Agadir,Hay Massira,2020-03-25,11:42:52,90 000
+2011,170 000 , 179 999,Diesel,Volkswagen,GOLF 6,6 CV, Agadir,Hay Massira,2020-03-25,11:37:43,123 000
+2014,110 000 , 119 999,Essence,Renault,Clio,6 CV, Agadir,Hay Massira,2020-03-25,11:37:01,70 000
+2009,150 000 , 159 999,Diesel,BMW,X5,12 CV, Fès,Centre,2020-03-25,09:56:44,125 000
+2018,35 000 , 39 999,Essence,Citroen,C1,6 CV, Fès,Centre,2020-03-25,09:50:29,83 000
+2017,90 000 , 94 999,Diesel,Volvo,V40,8 CV, Casablanca,Aïn Sebaâ,2020-03-25,09:31:23,173 000
+2019,0 , 4 999,Essence,Kia,Picanto,6 CV, Casablanca,Aïn Sebaâ,2020-03-25,08:06:38,107 000
+2017,85 000 , 89 999,Diesel,Peugeot,301,6 CV, Casablanca,Aïn Sebaâ,2020-03-25,08:04:31,89 000
+2002,200 000 , 249 999,Diesel,Land Rover,Defender,10 CV, Marrakech,Sidi Ghanem,2020-03-25,05:43:23,160 000
+2016,5 000 , 9 999,Electrique,Audi,Q3,6 CV, Casablanca,Al Fida,2020-03-24,18:01:24,49 000
+2006,180 000 , 189 999,Diesel,Renault,-,6 CV, Casablanca,Ben M'sick,2020-03-24,17:53:11,63 000
+2017,75 000 , 79 999,Diesel,Dacia,Duster,6 CV, Fès,Narjis,2020-03-24,17:08:44,126 000
+2015,130 000 , 139 999,Diesel,Mitsubishi,L200,8 CV, Tanger,Centre ville,2020-03-24,15:05:31,148 000
+2017,90 000 , 94 999,Diesel,Renault,Megane Coupe,6 CV, Casablanca,Bourgogne,2020-03-24,15:03:06,155 000
+2016,130 000 , 139 999,Diesel,Ford,Kuga,-, Rabat,Hassan,2020-03-24,14:58:49,180 000
+2016,65 000 , 69 999,Diesel,Nissan,Juke,6 CV, Tanger,Centre ville,2020-03-24,14:46:54,145 000
+2007,200 000 , 249 999,Diesel,Renault,Scenic,8 CV, Tanger,Centre ville,2020-03-24,14:46:18,92 000
+2014,85 000 , 89 999,Diesel,Volkswagen,SHARAN,8 CV, Tanger,Centre ville,2020-03-24,14:45:55,270 000
+2010,190 000 , 199 999,Diesel,Citroen,C5,8 CV, Tanger,Centre ville,2020-03-24,14:45:02,82 000
+2017,70 000 , 74 999,Essence,Kia,-,6 CV, Tanger,Centre ville,2020-03-24,14:44:38,79 000
+2018,20 000 , 24 999,Diesel,Dacia,Sandero,6 CV, Tanger,Centre ville,2020-03-24,14:44:14,115 000
+2013,140 000 , 149 999,Diesel,Volkswagen,Passat,8 CV, Casablanca,Oulfa,2020-03-24,14:14:52,145 000
+2015,130 000 , 139 999,Diesel,Peugeot,2008,6 CV, Casablanca,Laimoune,2020-03-24,14:08:22,118 000
+2014,130 000 , 139 999,Diesel,Renault,Kangoo,6 CV, Casablanca,Laimoune,2020-03-24,14:01:40,98 000
+2016,140 000 , 149 999,Diesel,Peugeot,Expert,8 CV, Casablanca,Laimoune,2020-03-24,14:00:59,148 000
+2008,15 000 , 19 999,Essence,Kia,Picanto,4 CV, Tanger,Centre ville,2020-03-24,14:00:21,44 000
+2015,100 000 , 109 999,Diesel,Dacia,Sandero,6 CV, Casablanca,Sidi Othmane,2020-03-24,13:42:20,86 000
+2011,200 000 , 249 999,Diesel,Volkswagen,Touran,8 CV, Nador,Al aroui,2020-03-24,13:11:55,164 000
+2019,15 000 , 19 999,Essence,Peugeot,308,9 CV, Marrakech,Autre secteur,2020-03-24,12:21:16,77 000
+2016,130 000 , 139 999,Diesel,Volkswagen,PASSAT CC,8 CV, Rabat,Guich Oudaya,2020-03-24,12:13:39,182 000
+2019,20 000 , 24 999,Diesel,Audi,A3,8 CV, Casablanca,Hay Hassani,2020-03-24,11:29:47,430 000
+2016,100 000 , 109 999,Diesel,Renault,Megane,6 CV, Casablanca,Hay Hassani,2020-03-24,11:29:05,115 000
+2017,70 000 , 74 999,Diesel,Audi,A4,8 CV, Casablanca,Anfa,2020-03-24,11:28:40,267 000
+2016,70 000 , 74 999,Diesel,BMW,Serie 4 gran coupé,8 CV, Casablanca,Anfa,2020-03-24,11:27:42,279 000
+2007,150 000 , 159 999,Diesel,BMW,X5,12 CV, Tétouan,Centre ville,2020-03-24,11:09:34,119 000
+2018,25 000 , 29 999,Diesel,Renault,Megane,6 CV, Tétouan,Centre ville,2020-03-24,11:07:01,189 000
+2008,250 000 , 299 999,Diesel,Toyota,RAV 4,8 CV, Tétouan,Centre ville,2020-03-24,10:54:51,123 000
+2019,30 000 , 34 999,Diesel,Opel,logan,6 CV, Tétouan,Centre ville,2020-03-24,10:47:55,217 000
+2016,150 000 , 159 999,Diesel,Volkswagen,Caddy,6 CV, Tétouan,Centre ville,2020-03-24,10:41:29,162 000
+2018,0 , 4 999,Diesel,Ford,-,6 CV, Tanger,Centre ville,2020-03-24,10:39:56,141 000
+2012,150 000 , 159 999,Diesel,Audi,Q7,12 CV, Casablanca,Autre secteur,2020-03-24,10:18:15,169 000
+2013,130 000 , 139 999,Diesel,Volvo,S60,9 CV, Casablanca,Autre secteur,2020-03-24,10:17:47,129 000
+2006,180 000 , 189 999,Diesel,Mercedes-Benz,-,12 CV, Casablanca,Autre secteur,2020-03-24,10:09:43,89 000
+2019,0 , 4 999,Diesel,Kia,Ceed,6 CV, Casablanca,Aïn Sebaâ,2020-03-24,10:09:21,265 000
+2008,180 000 , 189 999,Diesel,Audi,A4,11 CV, Casablanca,Autre secteur,2020-03-24,10:08:12,119 000
+2011,160 000 , 169 999,Diesel,Peugeot,508,8 CV, Casablanca,Autre secteur,2020-03-24,10:05:11,95 000
+2014,150 000 , 159 999,Diesel,Volkswagen,Golf,8 CV, Casablanca,Autre secteur,2020-03-24,09:57:00,259 000
+2006,130 000 , 139 999,Essence,BMW,-,9 CV, Casablanca,Autre secteur,2020-03-24,09:55:51,79 000
+2011,170 000 , 179 999,Diesel,Volvo,XC60,10 CV, Casablanca,Autre secteur,2020-03-24,09:54:55,139 000
+2018,70 000 , 74 999,Diesel,Jeep,-,11 CV, Casablanca,Autre secteur,2020-03-24,09:53:25,329 000
+2019,15 000 , 19 999,Diesel,Kia,Sportage,8 CV, Casablanca,Aïn Sebaâ,2020-03-24,09:49:10,289 000
+2008,100 000 , 109 999,Essence,Audi,A5,17 CV, Casablanca,Autre secteur,2020-03-24,09:48:41,98 000
+2009,200 000 , 249 999,Diesel,Mercedes-Benz,Classe E,12 CV, Casablanca,Al Qods,2020-03-24,09:47:44,100 000
+2011,150 000 , 159 999,Diesel,Audi,A6,11 CV, Casablanca,Autre secteur,2020-03-24,09:46:42,159 000
+2016,70 000 , 74 999,Diesel,Land Rover,Range Rover,12 CV, Casablanca,Autre secteur,2020-03-24,09:44:29,470 000
+2015,170 000 , 179 999,Diesel,Ford,Focus,6 CV, Kénitra,Al Maghrib Al Arabi,2020-03-24,09:16:48,138 000
+2005,160 000 , 169 999,Essence,Honda,Accord,11 CV, Kénitra,Al Maghrib Al Arabi,2020-03-24,09:16:31,58 000
+2012,170 000 , 179 999,Diesel,Hyundai,ix 35,8 CV, Kénitra,Al Maghrib Al Arabi,2020-03-24,09:16:18,135 000
+2010,200 000 , 249 999,Diesel,Volkswagen,Touran,8 CV, Kénitra,Al Maghrib Al Arabi,2020-03-24,09:16:06,125 000
+2016,180 000 , 189 999,Diesel,Volkswagen,Touran,6 CV, Kénitra,Al Maghrib Al Arabi,2020-03-24,09:15:48,228 000
+2014,70 000 , 74 999,Essence,Fiat,500,7 CV, Marrakech,Massira 1,2020-03-24,08:56:32,87 000
+2009,110 000 , 119 999,Essence,Toyota,Yaris,6 CV, Marrakech,Massira 1,2020-03-24,08:55:59,64 000
+2016,130 000 , 139 999,Essence,Dacia,Sandero,7 CV, Marrakech,Massira 1,2020-03-24,08:55:30,66 000
+2015,130 000 , 139 999,Diesel,Jeep,Grand Cherokee,12 CV, Fès,Narjis,2020-03-24,01:58:55,210 000
+2019,40 000 , 44 999,Diesel,Hyundai,CRETA,6 CV, Fès,Narjis,2020-03-24,01:28:30,190 000
+2016,100 000 , 109 999,Diesel,Volvo,S60,8 CV, Casablanca,Anfa,2020-03-23,22:36:55,197 000
+2014,120 000 , 129 999,Essence,Nissan,-,7 CV, Kénitra,Ouled Oujih,2020-03-23,20:30:57,70 000
+2017,55 000 , 59 999,Diesel,Ford,-,6 CV, Kénitra,Ouled Oujih,2020-03-23,20:27:40,105 000
+2017,85 000 , 89 999,Diesel,Peugeot,-,6 CV, Kénitra,Ouled Oujih,2020-03-23,20:24:18,133 000
+2015,140 000 , 149 999,Diesel,Ford,-,8 CV, Kénitra,Ouled Oujih,2020-03-23,20:20:01,163 000
+2019,35 000 , 39 999,Diesel,Renault,-,6 CV, Kénitra,Ouled Oujih,2020-03-23,20:10:10,123 000
+2007,150 000 , 159 999,Diesel,BMW,-,12 CV, Casablanca,2 Mars,2020-03-23,19:22:06,95 000
+2014,,,Diesel,-,-,8 CV, Fès,Centre,2020-03-23,19:19:07,114 000
+2009,,,Diesel,-,-,12 CV, Fès,Centre,2020-03-23,19:06:08,118 000
+2017,75 000 , 79 999,Diesel,Renault,-,6 CV, Marrakech,M'Hamid,2020-03-23,17:45:55,99 000
+2016,80 000 , 84 999,Diesel,Dacia,-,6 CV, Marrakech,M'Hamid,2020-03-23,17:45:34,81 000
+2011,170 000 , 179 999,Diesel,Chevrolet,Cruze,8 CV, Rabat,Guich Oudaya,2020-03-23,17:28:11,77 000
+2011,140 000 , 149 999,Diesel,Toyota,Prado,12 CV, Marrakech,Guéliz,2020-03-23,17:27:37,158 000
+2015,140 000 , 149 999,Diesel,Dacia,Duster,-, Fès,Route de Sefrou,2020-03-23,17:13:46,108 000
+2016,100 000 , 109 999,Diesel,Fiat,Doblo,-, Fès,Route de Sefrou,2020-03-23,17:13:24,74 000
+2015,65 000 , 69 999,Diesel,Nissan,Qashqai,-, Fès,Route de Sefrou,2020-03-23,17:12:45,215 000
+2014,130 000 , 139 999,Diesel,Dacia,Dokker,-, Fès,Route de Sefrou,2020-03-23,17:12:21,92 000
+2016,85 000 , 89 999,Diesel,Hyundai,Accent,6 CV, Rabat,Guich Oudaya,2020-03-23,16:38:12,103 000
+2016,90 000 , 94 999,Diesel,Renault,Kangoo,6 CV, Rabat,Autre secteur,2020-03-23,16:05:03,100 000
+2019,10 000 , 14 999,Diesel,Kia,Sorento,9 CV, Casablanca,Aïn Sebaâ,2020-03-23,15:49:46,400 000
+2011,160 000 , 169 999,Diesel,Volkswagen,Passat,6 CV, Marrakech,Massira 1,2020-03-23,15:06:24,150 000
+2017,95 000 , 99 999,Diesel,Jeep,Grand Cherokee,11 CV, Marrakech,Massira 1,2020-03-23,15:02:19,223 000
+2011,55 000 , 59 999,Essence,Fiat,500,6 CV, Marrakech,Massira 1,2020-03-23,15:01:27,80 000
+2009,170 000 , 179 999,Diesel,Volkswagen,-,8 CV, Rabat,Agdal,2020-03-23,14:47:59,142 000
+2014,130 000 , 139 999,Diesel,Seat,Toledo,6 CV, Rabat,Agdal,2020-03-23,14:03:03,119 000
+2013,110 000 , 119 999,Diesel,Nissan,Qashqai,6 CV, Rabat,Guich Oudaya,2020-03-23,12:16:48,96 000
+2011,0 , 4 999,Diesel,Renault,Kangoo,6 CV, Tanger,Centre ville,2020-03-23,11:24:55,95 000
+1997,450 000 , 499 999,Diesel,Citroen,C15,6 CV, Casablanca,Hay Hassani,2020-03-23,11:12:05,33 000
+2008,200 000 , 249 999,Diesel,Mercedes-Benz,300,12 CV, Tétouan,Centre ville,2020-03-23,11:08:21,127 000
+2014,100 000 , 109 999,Diesel,BMW,Serie 4 gran coupé,8 CV, Casablanca,Maarif,2020-03-23,10:54:14,240 000
+2011,200 000 , 249 999,Diesel,Audi,Q5,8 CV, Tanger,Souani,2020-03-23,10:49:55,225 000
+2018,75 000 , 79 999,Diesel,Peugeot,308,6 CV, Casablanca,Aïn Sebaâ,2020-03-23,10:39:04,137 000
+2017,110 000 , 119 999,Diesel,Hyundai,Accent,6 CV, Casablanca,2 Mars,2020-03-23,10:33:03,122 000
+2015,160 000 , 169 999,Diesel,Kia,Sportage,8 CV, Casablanca,2 Mars,2020-03-23,10:32:27,154 000
+2006,90 000 , 94 999,Essence,Peugeot,407,11 CV, Kénitra,Ouled Oujih,2020-03-23,10:31:40,45 000
+2017,95 000 , 99 999,Diesel,Dacia,Duster,6 CV, Casablanca,2 Mars,2020-03-23,10:29:13,131 000
+2018,55 000 , 59 999,Diesel,Alfa Romeo,Giulietta,8 CV, Casablanca,Aïn Sebaâ,2020-03-23,10:28:21,178 000
+2016,110 000 , 119 999,Essence,Hyundai,i 10,6 CV, Agadir,Hay Qods,2020-03-23,10:11:27,68 000
+2013,150 000 , 159 999,Diesel,Volvo,XC60,8 CV, Rabat,Autre secteur,2020-03-23,10:07:44,155 000
+2018,20 000 , 24 999,Diesel,Ford,Fusion,8 CV, Casablanca,Autre secteur,2020-03-23,10:07:33,193 000
+2018,30 000 , 34 999,Diesel,Citroen,C3,6 CV, Casablanca,Autre secteur,2020-03-23,10:07:23,138 000
+2018,0 , 4 999,Essence,Fiat,500,7 CV, Casablanca,Autre secteur,2020-03-23,10:07:15,120 000
+2014,140 000 , 149 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,Autre secteur,2020-03-23,09:48:55,195 000
+2016,50 000 , 54 999,Diesel,Jaguar,XE,8 CV, Marrakech,Autre secteur,2020-03-23,09:48:50,340 000
+2015,45 000 , 49 999,Diesel,mini,country man,6 CV, Marrakech,Autre secteur,2020-03-23,09:48:45,175 000
+2015,110 000 , 119 999,Diesel,Kia,Ceed,6 CV, Casablanca,Autre secteur,2020-03-23,09:48:43,105 000
+2016,10 000 , 14 999,Diesel,BMW,Serie 7,12 CV, Rabat,Autre secteur,2020-03-23,09:48:35,560 000
+2007,160 000 , 169 999,Diesel,Volkswagen,EOS,8 CV, Rabat,Autre secteur,2020-03-23,09:29:57,110 000
+2010,200 000 , 249 999,Diesel,Volvo,XC60,10 CV, Casablanca,Autre secteur,2020-03-23,09:27:20,125 000
+2015,100 000 , 109 999,Diesel,Citroen,Berlingo,6 CV, Casablanca,Autre secteur,2020-03-23,09:27:16,108 000
+2015,60 000 , 64 999,Diesel,Peugeot,208,6 CV, Casablanca,Autre secteur,2020-03-23,09:27:12,105 000
+2015,85 000 , 89 999,Diesel,Volkswagen,GOLF 7,8 CV, Rabat,Autre secteur,2020-03-23,09:27:08,155 000
+2018,75 000 , 79 999,Diesel,Renault,Megane,6 CV, Casablanca,Autre secteur,2020-03-23,09:27:07,168 000
+2014,65 000 , 69 999,Diesel,Fiat,500L,6 CV, Casablanca,Autre secteur,2020-03-23,09:27:02,115 000
+2015,110 000 , 119 999,Diesel,Audi,A3,6 CV, Casablanca,Autre secteur,2020-03-23,09:26:57,200 000
+2015,95 000 , 99 999,Diesel,Hyundai,ix 35,8 CV, Casablanca,Autre secteur,2020-03-23,09:26:52,160 000
+2016,85 000 , 89 999,Diesel,Fiat,500L,5 CV, Casablanca,Autre secteur,2020-03-23,09:26:47,125 000
+2013,95 000 , 99 999,Diesel,Ford,Focus,6 CV, Casablanca,Autre secteur,2020-03-23,09:26:40,122 000
+2010,110 000 , 119 999,Diesel,Mercedes-Benz,Classe E,9 CV, Casablanca,Autre secteur,2020-03-23,09:26:36,199 000
+2015,40 000 , 44 999,Diesel,Renault,Clio,6 CV, Casablanca,Autre secteur,2020-03-23,09:26:23,95 000
+2018,55 000 , 59 999,Diesel,Renault,Megane Sedan,8 CV, Tanger,Autre secteur,2020-03-23,09:26:11,156 000
+2010,250 000 , 299 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,Autre secteur,2020-03-23,09:25:46,110 000
+2017,130 000 , 139 999,Diesel,BMW,X5,8 CV, Marrakech,Autre secteur,2020-03-23,09:25:29,440 000
+2013,130 000 , 139 999,Diesel,Citroen,C4,6 CV, Casablanca,Autre secteur,2020-03-23,09:25:13,105 000
+2017,120 000 , 129 999,Diesel,Mercedes-Benz,Classe C,9 CV, Casablanca,Autre secteur,2020-03-23,09:25:03,345 000
+2016,85 000 , 89 999,Diesel,Renault,Clio,6 CV, Casablanca,Autre secteur,2020-03-23,09:23:31,92 000
+2011,95 000 , 99 999,Diesel,Audi,A7,12 CV, Marrakech,Autre secteur,2020-03-23,09:23:24,255 000
+2012,130 000 , 139 999,Diesel,Mercedes-Benz,CLASSE ML,9 CV, Casablanca,Autre secteur,2020-03-23,09:22:48,265 000
+2010,180 000 , 189 999,Diesel,Audi,Q5,12 CV, Casablanca,Autre secteur,2020-03-23,09:22:42,155 000
+2015,60 000 , 64 999,Diesel,Renault,Captur,6 CV, Casablanca,Autre secteur,2020-03-23,08:18:56,140 000
+2018,50 000 , 54 999,Diesel,Land Rover,Range Rover Evoque,8 CV, Casablanca,Anfa,2020-03-22,21:35:24,369 000
+2018,100 000 , 109 999,Diesel,Volkswagen,Caddy,6 CV, Agadir,Agadir Oufella,2020-03-22,18:43:09,30 000
+2001,400 000 , 449 999,Diesel,Mercedes-Benz,Vito,10 CV, Oujda,Centre Ville,2020-03-22,18:31:38,102 000
+2015,95 000 , 99 999,Diesel,Mitsubishi,L200,-, Casablanca,Oulfa,2020-03-22,18:17:41,119 000
+2015,100 000 , 109 999,Diesel,Volkswagen,PASSAT CC,8 CV, Casablanca,Laimoune,2020-03-22,17:00:40,198 000
+2015,95 000 , 99 999,Diesel,Fiat,Doblo,5 CV, Kénitra,Ouled Oujih,2020-03-22,16:24:26,88 000
+2006,200 000 , 249 999,Diesel,Mercedes-Benz,other,-, Rabat,Yacoub El Mansour,2020-03-22,16:13:43,85 000
+2015,70 000 , 74 999,Diesel,Peugeot,-,6 CV, Fès,Hay Atlas,2020-03-22,15:32:43,77 000
+2018,35 000 , 39 999,Diesel,Land Rover,Range Rover Evoque,8 CV, Casablanca,Maarif,2020-03-22,15:05:34,78 000
+2008,160 000 , 169 999,Essence,Dacia,Logan,8 CV, Rabat,Hay el Fath,2020-03-22,13:19:08,46 000
+2018,40 000 , 44 999,Diesel,Toyota,Corolla,5 CV, Casablanca,Hay Hassani,2020-03-22,13:00:52,168 000
+2008,200 000 , 249 999,Diesel,BMW,X5,12 CV, Casablanca,Les Princesses,2020-03-22,12:37:22,58 000
+2012,140 000 , 149 999,Diesel,BMW,Serie 3,8 CV, Tétouan,Centre ville,2020-03-22,12:06:21,180 000
+2014,100 000 , 109 999,Diesel,Ford,C-Max,6 CV, Tétouan,Centre ville,2020-03-22,12:06:01,129 000
+2018,70 000 , 74 999,Diesel,Seat,Leon,8 CV, Tétouan,Centre ville,2020-03-22,12:05:24,285 000
+2009,200 000 , 249 999,Diesel,Peugeot,Partner,7 CV, Rabat,Autre secteur,2020-03-22,10:58:56,46 000
+2016,110 000 , 119 999,Diesel,Kia,-,8 CV, Casablanca,Oulfa,2020-03-22,10:51:09,160 000
+2017,40 000 , 44 999,Essence,Kia,-,11 CV, Casablanca,Oulfa,2020-03-22,10:50:54,108 000
+2016,110 000 , 119 999,Diesel,Land Rover,-,12 CV, Casablanca,Oulfa,2020-03-22,10:50:38,550 000
+2015,50 000 , 54 999,Diesel,Kia,Sportage,7 CV, Agadir,Hay Massira,2020-03-22,10:43:16,155 000
+2016,130 000 , 139 999,Diesel,Peugeot,301,6 CV, Agadir,Hay Massira,2020-03-22,10:42:57,100 000
+2016,60 000 , 64 999,Diesel,Ford,Fiesta,6 CV, Marrakech,Massira,2020-03-22,10:38:09,98 000
+2018,75 000 , 79 999,Diesel,Seat,-,8 CV, Fès,Narjis,2020-03-22,10:35:20,195 000
+2011,180 000 , 189 999,Diesel,Audi,Q5,11 CV, Casablanca,Sidi Moumen,2020-03-22,09:16:53,155 000
+2014,120 000 , 129 999,Diesel,Toyota,Auris,5 CV, Casablanca,Sidi Moumen,2020-03-22,09:16:11,109 000
+2012,190 000 , 199 999,Diesel,Land Rover,Range Rover Sport,12 CV, Casablanca,Sidi Moumen,2020-03-22,09:15:34,175 000
+2009,180 000 , 189 999,Essence,Hyundai,Tucson,11 CV, Casablanca,Sidi Moumen,2020-03-22,09:14:52,75 000
+2013,140 000 , 149 999,Diesel,Land Rover,Range Rover,17 CV, Casablanca,Hay Hassani,2020-03-22,09:04:44,400 000
+2010,90 000 , 94 999,Diesel,Renault,Latitude,8 CV, Casablanca,Hay Hassani,2020-03-22,08:34:54,118 000
+2014,150 000 , 159 999,Diesel,Peugeot,508,6 CV, Casablanca,Hay Hassani,2020-03-22,08:33:57,129 000
+2013,110 000 , 119 999,Diesel,Renault,Kangoo,6 CV, Rabat,Autre secteur,2020-03-21,22:59:08,16 000
+2013,140 000 , 149 999,Diesel,Ford,-,8 CV, Tanger,Mozart,2020-03-21,20:01:53,145 000
+2016,75 000 , 79 999,Diesel,Volvo,S60,6 CV, Fès,Centre,2020-03-21,18:28:46,165 000
+2016,160 000 , 169 999,Diesel,Volkswagen,Tiguan,8 CV, Fès,Agdal,2020-03-21,18:03:29,110 000
+2010,200 000 , 249 999,Diesel,BMW,-,8 CV, Tanger,Mozart,2020-03-21,17:56:17,120 000
+2012,55 000 , 59 999,Essence,Kia,-,6 CV, Tanger,Al Amal,2020-03-21,17:51:44,66 000
+2015,120 000 , 129 999,Diesel,Volkswagen,Tiguan,8 CV, Tanger,Centre ville,2020-03-21,17:50:15,275 000
+2016,80 000 , 84 999,Diesel,Ford,-,6 CV, Marrakech,M'Hamid,2020-03-21,17:37:41,91 000
+2005,200 000 , 249 999,Diesel,Toyota,Prado,12 CV, Tétouan,Safir,2020-03-21,17:13:53,98 000
+2009,130 000 , 139 999,Essence,Audi,A3,8 CV, Casablanca,2 Mars,2020-03-21,17:01:36,79 000
+2016,100 000 , 109 999,Diesel,Volkswagen,Touran,8 CV, Casablanca,Aïn Chock,2020-03-21,16:30:16,260 000
+2017,55 000 , 59 999,Diesel,Nissan,Qashqai,6 CV, El Jadida,Najd,2020-03-21,16:15:37,32 000
+2018,40 000 , 44 999,Essence,Hyundai,i 10,6 CV, Rabat,Massira,2020-03-21,14:17:40,85 000
+2015,100 000 , 109 999,Diesel,Ford,Focus,6 CV, Rabat,Massira,2020-03-21,14:17:13,163 000
+2016,75 000 , 79 999,Diesel,Volkswagen,Caddy,6 CV, Casablanca,Belvédère,2020-03-21,14:10:20,100 000
+2018,60 000 , 64 999,Diesel,Fiat,TIPO,5 CV, Rabat,Massira,2020-03-21,13:53:27,109 000
+2018,45 000 , 49 999,Diesel,Peugeot,301,6 CV, Rabat,Hay el Fath,2020-03-21,13:26:01,105 000
+2018,60 000 , 64 999,Diesel,Fiat,TIPO,5 CV, Rabat,Hay el Fath,2020-03-21,13:25:34,109 000
+2019,10 000 , 14 999,Diesel,Citroen,C3,6 CV, Casablanca,Aïn Sebaâ,2020-03-21,13:18:35,156 000
+2019,20 000 , 24 999,Diesel,Dacia,Sandero,6 CV, Casablanca,Al Qods,2020-03-21,13:08:29,109 000
+2012,85 000 , 89 999,Essence,Suzuki,Grand Vitara,9 CV, Rabat,Yacoub El Mansour,2020-03-21,12:55:30,72 000
+2012,55 000 , 59 999,Essence,Suzuki,Grand Vitara,9 CV, Rabat,Hay el Fath,2020-03-21,12:22:40,75 000
+2015,90 000 , 94 999,Diesel,Skoda,Superb,8 CV, Casablanca,Bourgogne,2020-03-21,12:03:21,143 000
+2010,85 000 , 89 999,Essence,Porsche,Panamera,-, Casablanca,Anfa,2020-03-21,10:47:50,275 000
+2018,35 000 , 39 999,Diesel,Renault,Clio,6 CV, Marrakech,Massira 1,2020-03-21,09:35:54,130 000
+2019,40 000 , 44 999,Diesel,Renault,Clio,6 CV, Marrakech,Massira 1,2020-03-21,09:31:21,122 000
+2012,110 000 , 119 999,Diesel,Ford,Fiesta,6 CV, Tanger,Centre ville,2020-03-21,09:30:42,83 000
+2014,80 000 , 84 999,Diesel,Peugeot,-,-, Casablanca,Aïn Sebaâ,2020-03-21,09:25:31,117 000
+2019,20 000 , 24 999,Diesel,Renault,Megane,-, Casablanca,Aïn Sebaâ,2020-03-21,09:24:50,217 000
+2020,0 , 4 999,Diesel,Dacia,Lodgy,-, Casablanca,Aïn Sebaâ,2020-03-21,09:24:23,127 000
+2016,70 000 , 74 999,Diesel,Renault,Talisman,-, Casablanca,Aïn Sebaâ,2020-03-21,09:24:10,189 000
+2018,30 000 , 34 999,Diesel,Renault,Clio,-, Casablanca,Aïn Sebaâ,2020-03-21,09:23:21,149 000
+2019,0 , 4 999,Diesel,Renault,Kadjar,-, Casablanca,Aïn Sebaâ,2020-03-21,09:23:10,249 000
+2018,85 000 , 89 999,Diesel,Renault,Kadjar,-, Casablanca,Aïn Sebaâ,2020-03-21,09:22:55,215 000
+2019,25 000 , 29 999,Diesel,Dacia,Duster,-, Casablanca,Aïn Sebaâ,2020-03-21,09:22:30,171 000
+2013,0 , 4 999,Electrique,Renault,Twizy,-, Casablanca,Aïn Sebaâ,2020-03-21,09:21:04,60 000
+2019,20 000 , 24 999,Diesel,Dacia,Duster,-, Casablanca,Aïn Sebaâ,2020-03-21,09:20:50,169 000
+2018,20 000 , 24 999,Diesel,Renault,Talisman,-, Casablanca,Aïn Sebaâ,2020-03-21,09:20:09,268 000
+2018,20 000 , 24 999,Diesel,Renault,Koleos,-, Casablanca,Aïn Sebaâ,2020-03-21,09:19:59,292 000
+2013,25 000 , 29 999,Electrique,Renault,Twizy,-, Casablanca,Aïn Sebaâ,2020-03-21,09:18:42,65 000
+2019,20 000 , 24 999,Diesel,Renault,Megane,-, Casablanca,Aïn Sebaâ,2020-03-21,09:18:28,219 000
+2019,20 000 , 24 999,Diesel,Dacia,Duster,-, Casablanca,Aïn Sebaâ,2020-03-21,09:18:13,170 000
+2017,0 , 4 999,Electrique,Renault,Kangoo Express,-, Casablanca,Aïn Sebaâ,2020-03-21,09:18:02,125 000
+2016,60 000 , 64 999,Diesel,Renault,Kadjar,-, Casablanca,Aïn Sebaâ,2020-03-21,09:17:34,180 000
+2017,65 000 , 69 999,Diesel,Alfa Romeo,Giulietta,8 CV, Casablanca,Roches Noires,2020-03-21,08:36:07,148 000
+2013,170 000 , 179 999,Diesel,Opel,Corsa,6 CV, Marrakech,Massira 1,2020-03-20,21:28:34,83 000
+2014,100 000 , 109 999,Diesel,BMW,X3,8 CV, Rabat,Hay el Fath,2020-03-20,19:33:04,235 000
+2016,80 000 , 84 999,Diesel,Fiat,Doblo,5 CV, Casablanca,Ben M'sick,2020-03-20,18:35:24,79 000
+2015,160 000 , 169 999,Diesel,Mitsubishi,outlander,8 CV, Marrakech,Hay Izdihar,2020-03-20,18:03:27,145 000
+2008,150 000 , 159 999,Essence,BMW,Serie 1,11 CV, Marrakech,Hay Izdihar,2020-03-20,18:03:14,68 000
+2018,75 000 , 79 999,Diesel,Volkswagen,Polo,5 CV, Marrakech,Hay Izdihar,2020-03-20,18:03:03,128 000
+2017,90 000 , 94 999,Diesel,Citroen,C3,6 CV, Marrakech,Hay Izdihar,2020-03-20,18:02:55,87 000
+2010,160 000 , 169 999,Diesel,Audi,-,12 CV, Casablanca,Anfa,2020-03-20,17:42:11,159 000
+2016,95 000 , 99 999,Diesel,Volkswagen,Jetta,6 CV, Casablanca,Anfa,2020-03-20,17:41:52,145 000
+2015,65 000 , 69 999,Essence,mini,cooper,9 CV, Tétouan,Safir,2020-03-20,16:53:24,155 000
+2014,180 000 , 189 999,Diesel,Volkswagen,GOLF 7,8 CV, Tétouan,Safir,2020-03-20,16:52:24,245 000
+2018,75 000 , 79 999,Diesel,Citroen,Berlingo,6 CV, Tétouan,Safir,2020-03-20,16:51:49,125 000
+2014,90 000 , 94 999,Diesel,Hyundai,ix 35,-, Tanger,Drissia,2020-03-20,15:57:33, 
+2015,100 000 , 109 999,Diesel,Renault,Clio,6 CV, Kénitra,Autre secteur,2020-03-20,15:08:47,100 000
+2015,100 000 , 109 999,Diesel,Renault,Clio,6 CV, Kénitra,Autre secteur,2020-03-20,15:00:56, 
+2014,110 000 , 119 999,Diesel,Ford,-,7 CV, Tanger,Girari,2020-03-20,14:29:53,88 000
+2015,110 000 , 119 999,Diesel,Renault,-,7 CV, Tanger,Girari,2020-03-20,14:29:28,98 000
+2003,200 000 , 249 999,Diesel,Renault,-,6 CV, Tanger,Girari,2020-03-20,14:29:10,65 000
+2008,130 000 , 139 999,Essence,Suzuki,Alto,5 CV, Tanger,Makhoukha,2020-03-20,14:28:45,35 000
+2010,200 000 , 249 999,Diesel,Citroen,-,7 CV, Tanger,Charf,2020-03-20,14:28:28,108 000
+2013,100 000 , 109 999,Diesel,Dacia,-,6 CV, Tanger,Girari,2020-03-20,14:27:47,80 000
+2014,130 000 , 139 999,Diesel,Fiat,-,7 CV, Tanger,Al Amal,2020-03-20,14:27:36,76 000
+2015,130 000 , 139 999,Diesel,Peugeot,-,7 CV, Tanger,Santa,2020-03-20,14:27:25,85 000
+2015,120 000 , 129 999,Essence,Hyundai,-,6 CV, Tanger,Al Amal,2020-03-20,14:27:15,75 000
+2012,150 000 , 159 999,Diesel,Renault,-,7 CV, Tanger,Centre ville,2020-03-20,14:26:52,83 000
+2011,250 000 , 299 999,Diesel,Dacia,Duster,6 CV, Tanger,Al Amal,2020-03-20,14:26:41,95 000
+2009,130 000 , 139 999,Diesel,Toyota,-,6 CV, Tanger,Girari,2020-03-20,14:26:29,66 000
+2017,80 000 , 84 999,Essence,Hyundai,-,8 CV, Tanger,Al Amal,2020-03-20,14:26:17,76 000
+2008,200 000 , 249 999,Diesel,Citroen,-,7 CV, Tanger,Centre ville,2020-03-20,14:26:07,72 000
+2015,85 000 , 89 999,Diesel,Peugeot,-,-, Tanger,Al Amal,2020-03-20,14:25:55,113 000
+2005,160 000 , 169 999,Essence,Volkswagen,GOLF 5,9 CV, Rabat,Guich Oudaya,2020-03-20,13:54:27,65 000
+2018,45 000 , 49 999,Diesel,Kia,-,9 CV, Rabat,Hay el Fath,2020-03-20,13:20:48,240 000
+2015,120 000 , 129 999,Essence,Ford,Fiesta,7 CV, Fès,Narjis,2020-03-20,12:01:13,79 000
+2017,100 000 , 109 999,Diesel,Renault,Clio,6 CV, Fès,Narjis,2020-03-20,12:00:57,104 000
+2018,80 000 , 84 999,Diesel,Dacia,Logan,-, Fès,Narjis,2020-03-20,11:55:10,92 500
+2014,100 000 , 109 999,Diesel,Volkswagen,Golf,8 CV, Fès,Mont fleuri,2020-03-20,11:35:25,270 000
+2015,90 000 , 94 999,Diesel,Dacia,Logan,6 CV, Rabat,Autre secteur,2020-03-20,11:28:19,83 000
+2016,75 000 , 79 999,Essence,Hyundai,Grand i10,7 CV, Rabat,Guich Oudaya,2020-03-20,11:26:33,89 000
+2011,150 000 , 159 999,Diesel,Audi,Q5,12 CV, Fès,Fès Médina,2020-03-20,11:00:07,180 000
+2015,60 000 , 64 999,Diesel,Opel,Astra,8 CV, Agadir,Hay Massira,2020-03-20,10:40:17,150 000
+2009,140 000 , 149 999,Diesel,Kia,Ceed,6 CV, Agadir,Hay Salam,2020-03-20,10:28:38,87 000
+2010,65 000 , 69 999,Essence,Suzuki,Celerio,6 CV, Tétouan,Centre ville,2020-03-20,10:24:10,54 000
+2016,70 000 , 74 999,Diesel,Kia,Rio,6 CV, Agadir,Hay Salam,2020-03-20,10:23:46,105 000
+2017,100 000 , 109 999,Diesel,Dacia,Sandero,6 CV, Agadir,Hay Salam,2020-03-20,10:14:23,85 000
+2010,110 000 , 119 999,Diesel,Volkswagen,GOLF 6,6 CV, Agadir,Hay Salam,2020-03-20,10:10:52,140 000
+2011,200 000 , 249 999,Diesel,Volkswagen,Touareg,12 CV, Agadir,Hay Salam,2020-03-20,10:06:22,130 000
+2017,90 000 , 94 999,Diesel,Renault,Megane,6 CV, Agadir,Hay Salam,2020-03-20,09:56:48,160 000
+2016,65 000 , 69 999,Diesel,Land Rover,Range Rover Sport,11 CV, Casablanca,Anfa,2020-03-20,09:55:25,520 000
+2005,170 000 , 179 999,Diesel,Peugeot,406,8 CV, Casablanca,Hay Mohammadi,2020-03-20,09:55:22,47 000
+2014,100 000 , 109 999,Diesel,Volkswagen,GOLF 7,-, Mohammedia,La Colline,2020-03-20,09:48:33,188 000
+2016,120 000 , 129 999,Essence,Hyundai,i 10,6 CV, Agadir,Hay Salam,2020-03-20,09:47:26,67 000
+2012,120 000 , 129 999,Diesel,Seat,Leon,6 CV, Fès,Route de Sefrou,2020-03-20,09:46:21,103 000
+2012,190 000 , 199 999,Diesel,Volkswagen,Touareg,11 CV, Rabat,Guich Oudaya,2020-03-20,09:26:04,160 000
+2019,5 000 , 9 999,Diesel,Kia,Ceed,6 CV, Casablanca,Aïn Sebaâ,2020-03-20,09:03:57,289 000
+2001,0 , 4 999,Diesel,Volvo,passat,8 CV, Tanger,Centre ville,2020-03-20,08:12:21, 
+2018,55 000 , 59 999,Diesel,Hyundai,Elantra,6 CV, Casablanca,Aïn Sebaâ,2020-03-20,07:38:08,159 000
+2009,160 000 , 169 999,Diesel,Opel,Astra,5 CV, Agadir,Le centre-ville,2020-03-19,20:44:10,85 000
+2015,100 000 , 109 999,Diesel,Skoda,Octavia,6 CV, Agadir,Le centre-ville,2020-03-19,20:43:10,147 000
+2016,15 000 , 19 999,Essence,Mercedes-Benz,Classe GLE,31 CV, Casablanca,Anfa,2020-03-19,18:54:47,55 000
+2017,90 000 , 94 999,Diesel,BMW,Serie 5,11 CV, Casablanca,Anfa,2020-03-19,18:08:53,360 000
+2014,120 000 , 129 999,Diesel,Peugeot,301,6 CV, Fès,Agdal,2020-03-19,17:48:35,78 000
+2009,20 000 , 24 999,Essence,Hyundai,H,5 CV, El Jadida,Autre secteur,2020-03-19,17:14:31,50 000
+2008,170 000 , 179 999,Diesel,Volvo,XC70,10 CV, Casablanca,Roches Noires,2020-03-19,16:48:09,78 000
+2012,100 000 , 109 999,Diesel,Kia,Sportage,8 CV, Casablanca,Roches Noires,2020-03-19,16:29:39,118 000
+2013,90 000 , 94 999,Diesel,Peugeot,Bipper,6 CV, Casablanca,Roches Noires,2020-03-19,16:28:33, 
+2010,150 000 , 159 999,Diesel,Toyota,Corolla verso,9 CV, Casablanca,Roches Noires,2020-03-19,16:03:11,87 000
+2018,85 000 , 89 999,Diesel,Dacia,Duster,6 CV, Marrakech,Massira 1,2020-03-19,16:03:07,142 000
+2015,75 000 , 79 999,Diesel,Dacia,Duster,6 CV, Casablanca,Roches Noires,2020-03-19,16:00:04,113 000
+2017,70 000 , 74 999,Diesel,Renault,-,6 CV, Marrakech,M'Hamid,2020-03-19,14:39:05,106 000
+2018,50 000 , 54 999,Diesel,Citroen,C3,6 CV, Casablanca,Oulfa,2020-03-19,14:31:53,125 000
+2015,90 000 , 94 999,Diesel,Dacia,-,6 CV, Marrakech,M'Hamid,2020-03-19,14:29:44,78 000
+2011,150 000 , 159 999,Essence,Peugeot,-,6 CV, Marrakech,M'Hamid,2020-03-19,14:25:08,56 000
+2018,10 000 , 14 999,Electrique,Renault,other,7 CV, Casablanca,Lissasfa,2020-03-19,14:00:02,199 000
+2015,130 000 , 139 999,Diesel,Dacia,Sandero,6 CV, Fès,Narjis,2020-03-19,13:42:29,84 000
+2017,80 000 , 84 999,Diesel,Ford,Fiesta,6 CV, Fès,Narjis,2020-03-19,13:41:23,108 000
+2014,170 000 , 179 999,Essence,Dacia,Logan,8 CV, Fès,Narjis,2020-03-19,13:40:59,55 000
+2015,120 000 , 129 999,Diesel,Ford,Ranger,8 CV, Casablanca,Maarif,2020-03-19,13:31:52,195 000
+2015,110 000 , 119 999,Diesel,Dacia,Logan,-, Fès,Route de Sefrou,2020-03-19,13:18:50,82 000
+2016,150 000 , 159 999,Diesel,Volkswagen,Caddy,6 CV, Fès,Saies,2020-03-19,13:18:18,137 000
+2016,95 000 , 99 999,Diesel,Fiat,Doblo,5 CV, Fès,Route de Sefrou,2020-03-19,13:17:42,87 000
+2014,90 000 , 94 999,Diesel,Mercedes-Benz,Classe E,8 CV, Casablanca,Maarif,2020-03-19,13:05:58,265 000
+2012,85 000 , 89 999,Essence,Maserati,Quattroporte,28 CV, Casablanca,Maarif,2020-03-19,13:05:33,290 000
+2016,75 000 , 79 999,Diesel,Dacia,Duster,7 CV, Tétouan,Safir,2020-03-19,12:56:29,128 000
+2016,110 000 , 119 999,Essence,Hyundai,i 10,5 CV, Tétouan,Safir,2020-03-19,12:49:46,68 000
+2011,180 000 , 189 999,Diesel,Volkswagen,GOLF 6,6 CV, Tétouan,Safir,2020-03-19,12:41:50,108 000
+2012,80 000 , 84 999,Diesel,Citroen,Berlingo,6 CV, Tanger,Val Fleuri,2020-03-19,12:27:02,98 000
+2013,190 000 , 199 999,Diesel,Hyundai,ix 35,8 CV, Tanger,Centre ville,2020-03-19,12:16:13,139 000
+2018,60 000 , 64 999,Diesel,Audi,other,6 CV, Casablanca,Maarif,2020-03-19,12:13:36,282 000
+2009,90 000 , 94 999,Essence,Mercedes-Benz,Classe CL,29 CV, Casablanca,Maarif,2020-03-19,12:02:49,210 000
+2016,100 000 , 109 999,Diesel,Ford,Focus,6 CV, Casablanca,Maarif,2020-03-19,12:00:30,128 000
+2015,60 000 , 64 999,Diesel,Dacia,Dokker Van,6 CV, Tanger,Val Fleuri,2020-03-19,11:59:44,82 000
+2016,130 000 , 139 999,Diesel,Jeep,Grand Cherokee,12 CV, Casablanca,Maarif,2020-03-19,11:59:06,195 000
+2014,130 000 , 139 999,Diesel,Nissan,Qashqai,6 CV, Tanger,Val Fleuri,2020-03-19,11:58:57,155 000
+2015,80 000 , 84 999,Diesel,Toyota,Corolla,5 CV, Tanger,Val Fleuri,2020-03-19,11:58:25,138 000
+2013,140 000 , 149 999,Diesel,Land Rover,Range Rover Evoque,8 CV, Casablanca,Maarif,2020-03-19,11:57:39,235 000
+2017,60 000 , 64 999,Diesel,Volkswagen,GOLF 7,8 CV, Casablanca,Maarif,2020-03-19,11:57:31,178 000
+2018,70 000 , 74 999,Diesel,Hyundai,Accent,6 CV, Casablanca,Maarif,2020-03-19,11:56:49,122 000
+2014,140 000 , 149 999,Diesel,Mercedes-Benz,Classe C,9 CV, Tanger,Val Fleuri,2020-03-19,11:55:17,340 000
+2016,100 000 , 109 999,Diesel,Dacia,Logan,6 CV, Tanger,Val Fleuri,2020-03-19,11:54:35,88 000
+2016,95 000 , 99 999,Diesel,Ford,Focus,6 CV, Casablanca,Bernoussi,2020-03-19,11:53:12,146 000
+2013,170 000 , 179 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,Maarif,2020-03-19,11:52:01,133 000
+2010,190 000 , 199 999,Diesel,Renault,Latitude,8 CV, Casablanca,Oasis,2020-03-19,11:18:22,80 000
+2018,45 000 , 49 999,Diesel,Citroen,C3,7 CV, Casablanca,Aïn Chock,2020-03-19,11:10:31,62 000
+2016,65 000 , 69 999,Diesel,Land Rover,Range Rover Evoque,8 CV, Casablanca,Maarif,2020-03-19,11:08:32,300 000
+2015,100 000 , 109 999,Diesel,Hyundai,Accent,6 CV, Fès,Narjis,2020-03-19,11:00:02,94 000
+2011,180 000 , 189 999,Essence,Peugeot,-,6 CV, Rabat,Guich Oudaya,2020-03-19,10:21:04,50 000
+2007,190 000 , 199 999,Diesel,Dacia,Logan,7 CV, Rabat,Hay Riad,2020-03-19,09:59:10,53 000
+2015,85 000 , 89 999,Diesel,Ford,Focus,6 CV, Casablanca,Aïn Chock,2020-03-19,09:49:24,190 000
+2012,170 000 , 179 999,Diesel,Toyota,Avensis,8 CV, Rabat,Hay Riad,2020-03-19,09:48:00,97 000
+2013,120 000 , 129 999,Diesel,Volkswagen,Passat,8 CV, Casablanca,Hay Hassani,2020-03-19,09:47:17,175 000
+2002,190 000 , 199 999,Diesel,Fiat,Punto,8 CV, Rabat,Hay Riad,2020-03-19,09:39:43,37 000
+2016,160 000 , 169 999,Diesel,Renault,-,7 CV, Tanger,Girari,2020-03-19,09:34:17,85 000
+2013,85 000 , 89 999,Diesel,Dacia,-,7 CV, Tanger,Girari,2020-03-19,09:32:44,78 000
+2014,100 000 , 109 999,Diesel,Dacia,Dokker,7 CV, Tanger,Al Amal,2020-03-19,09:28:58,105 000
+2017,90 000 , 94 999,Diesel,Volkswagen,GOLF 7,8 CV, Kénitra,Ouled Oujih,2020-03-19,09:13:26,350 000
+2008,170 000 , 179 999,Essence,Mazda,CX-9,20 CV, Casablanca,Autre secteur,2020-03-19,09:11:45,59 000
+2012,190 000 , 199 999,Diesel,Skoda,Octavia,8 CV, Casablanca,Autre secteur,2020-03-19,09:09:56,108 000
+2017,15 000 , 19 999,Diesel,BMW,Serie 3,8 CV, Casablanca,Autre secteur,2020-03-19,09:09:14,285 000
+2014,120 000 , 129 999,Diesel,Volkswagen,Tiguan,8 CV, Casablanca,Autre secteur,2020-03-19,09:07:37,175 000
+2011,150 000 , 159 999,Diesel,BMW,X1,8 CV, Casablanca,Autre secteur,2020-03-19,09:06:36,140 000
+2016,35 000 , 39 999,Diesel,BMW,Serie 4 coupé,8 CV, Casablanca,Autre secteur,2020-03-19,09:05:53,325 000
+2015,120 000 , 129 999,Diesel,Volkswagen,PASSAT CC,8 CV, Casablanca,Autre secteur,2020-03-19,09:04:55,190 000
+2010,200 000 , 249 999,Essence,BMW,Serie 3,11 CV, Casablanca,Autre secteur,2020-03-19,09:04:33,110 000
+2018,50 000 , 54 999,Essence,Fiat,Panda,7 CV, Casablanca,Roches Noires,2020-03-19,07:27:20,83 000
+2017,70 000 , 74 999,Diesel,Peugeot,Tepee,6 CV, Casablanca,Roches Noires,2020-03-19,07:22:33,108 000
+2016,70 000 , 74 999,Diesel,Peugeot,5008,6 CV, Casablanca,Roches Noires,2020-03-19,07:19:28,135 000
+2017,60 000 , 64 999,Diesel,Renault,Clio,6 CV, Casablanca,Roches Noires,2020-03-19,07:19:28,95 000
+2014,120 000 , 129 999,Diesel,Peugeot,301,6 CV, Casablanca,Roches Noires,2020-03-19,07:19:27,83 000
+2010,180 000 , 189 999,Diesel,Renault,Kangoo,6 CV, Casablanca,Roches Noires,2020-03-19,07:19:27,65 000
+2013,75 000 , 79 999,Essence,Peugeot,206+,6 CV, Tanger,Centre ville,2020-03-18,23:53:02,58 000
+2019,0 , 4 999,Essence,Kia,Picanto,6 CV, Tanger,Centre ville,2020-03-18,23:52:10,96 000
+2006,95 000 , 99 999,Essence,Honda,Civic,9 CV, Casablanca,Belvédère,2020-03-18,22:17:52,59 000
+2011,150 000 , 159 999,Diesel,Volkswagen,-,8 CV, Casablanca,Ben M'sick,2020-03-18,21:28:42,143 000
+2013,100 000 , 109 999,Diesel,Ford,Focus,7 CV, Tétouan,Safir,2020-03-18,20:34:54,125 000
+2013,60 000 , 64 999,Diesel,Dacia,Lodgy,7 CV, Tétouan,Safir,2020-03-18,19:18:33,115 000
+2017,60 000 , 64 999,Diesel,Renault,Clio,7 CV, Tétouan,Safir,2020-03-18,19:14:56,148 000
+2010,170 000 , 179 999,Diesel,Seat,Exeo,8 CV, Tétouan,Safir,2020-03-18,18:42:04,95 000
+2016,120 000 , 129 999,Diesel,Volkswagen,Tiguan,9 CV, Tétouan,Safir,2020-03-18,18:39:13,370 000
+2016,170 000 , 179 999,Diesel,Volkswagen,Touran,8 CV, Tétouan,Safir,2020-03-18,18:36:12,268 000
+2014,130 000 , 139 999,Diesel,Volkswagen,Passat,9 CV, Tétouan,Safir,2020-03-18,18:33:45,225 000
+2014,150 000 , 159 999,Diesel,Volkswagen,SHARAN,8 CV, Tétouan,Safir,2020-03-18,18:31:00,215 000
+2016,80 000 , 84 999,Diesel,Renault,Captur,7 CV, Tétouan,Safir,2020-03-18,18:26:31,145 000
+2015,130 000 , 139 999,Diesel,Renault,Kangoo,7 CV, Tétouan,Safir,2020-03-18,18:22:18,122 000
+2016,95 000 , 99 999,Diesel,Hyundai,ix 35,8 CV, Fès,Route Ain Chkaf,2020-03-18,18:16:36,165 000
+2017,65 000 , 69 999,Diesel,Ford,Fiesta,6 CV, Casablanca,Oulfa,2020-03-18,18:13:13,119 000
+2012,110 000 , 119 999,Diesel,Ford,Focus,6 CV, Fès,Route d'Immouzere,2020-03-18,18:09:45,137 000
+2016,45 000 , 49 999,Diesel,Fiat,500,5 CV, Rabat,Hay el Fath,2020-03-18,16:48:39,100 000
+1996,180 000 , 189 999,Essence,Peugeot,-,8 CV, Temara,Centre Ville,2020-03-18,16:43:51,25 000
+2007,190 000 , 199 999,Diesel,Renault,-,8 CV, Temara,Centre Ville,2020-03-18,16:41:12,47 000
+2014,110 000 , 119 999,Diesel,Volkswagen,CC,8 CV, Casablanca,Belvédère,2020-03-18,16:41:02,175 000
+2016,25 000 , 29 999,Diesel,Nissan,Juke,6 CV, Fès,Route de Sefrou,2020-03-18,16:25:34,149 000
+2010,160 000 , 169 999,Diesel,Dacia,Logan,7 CV, Tétouan,Centre ville,2020-03-18,16:23:36,68 000
+2015,100 000 , 109 999,Diesel,Dacia,Sandero,6 CV, Casablanca,Sidi Othmane,2020-03-18,16:04:37,86 000
+1999,250 000 , 299 999,Diesel,Volkswagen,GOLF 4,8 CV, Tétouan,Centre ville,2020-03-18,16:02:44,65 000
+2010,150 000 , 159 999,Diesel,Ford,Mondeo,8 CV, Tétouan,Centre ville,2020-03-18,15:59:26,88 000
+2011,170 000 , 179 999,Diesel,Mercedes-Benz,Classe C,9 CV, Fès,Saies,2020-03-18,15:16:59,215 000
+2018,25 000 , 29 999,Diesel,Citroen,C4 CACTUS,6 CV, Casablanca,Aïn Sebaâ,2020-03-18,15:02:45,170 000
+2016,60 000 , 64 999,Diesel,Alfa Romeo,Giulietta,8 CV, Casablanca,Aïn Sebaâ,2020-03-18,14:59:53,163 000
+2019,10 000 , 14 999,Diesel,Peugeot,2008,6 CV, Casablanca,Aïn Sebaâ,2020-03-18,14:59:22,177 000
+2012,170 000 , 179 999,Diesel,Volkswagen,Tiguan,8 CV, Fès,Saies,2020-03-18,14:41:08,205 000
+2006,180 000 , 189 999,Diesel,Kia,Sorento,8 CV, Casablanca,Belvédère,2020-03-18,14:36:14,65 000
+2012,110 000 , 119 999,Diesel,Volkswagen,Touran,8 CV, Fès,Saies,2020-03-18,14:30:09,185 000
+2014,200 000 , 249 999,Diesel,Volkswagen,Passat,8 CV, Fès,Saies,2020-03-18,14:26:37,178 000
+2013,190 000 , 199 999,Diesel,Volkswagen,Passat,6 CV, Fès,Saies,2020-03-18,14:14:11,175 000
+2019,35 000 , 39 999,Essence,Toyota,Yaris,-, Casablanca,Anfa,2020-03-18,14:12:28,105 000
+2013,130 000 , 139 999,Diesel,Hyundai,Santa Fe,9 CV, Fès,Saies,2020-03-18,14:12:14,175 000
+2012,160 000 , 169 999,Diesel,Hyundai,i 30,6 CV, Fès,Saies,2020-03-18,14:09:30,102 000
+2019,35 000 , 39 999,Essence,Toyota,Yaris,6 CV, Casablanca,Anfa,2020-03-18,14:08:54,104 000
+2004,200 000 , 249 999,Diesel,Mercedes-Benz,Classe C,9 CV, Fès,Saies,2020-03-18,14:00:45,89 000
+1995,200 000 , 249 999,Diesel,Mercedes-Benz,Classe E,9 CV, Fès,Saies,2020-03-18,13:38:26,63 000
+2018,50 000 , 54 999,Diesel,Dacia,Lodgy,6 CV, Fès,Route de Sefrou,2020-03-18,13:35:18,137 000
+2016,90 000 , 94 999,Diesel,Dacia,Dokker,5 CV, Fès,Route de Sefrou,2020-03-18,13:33:44,92 000
+2015,55 000 , 59 999,Diesel,Renault,Clio,-, Fès,Route de Sefrou,2020-03-18,13:32:56,118 000
+2016,95 000 , 99 999,Diesel,Kia,Sportage,8 CV, Casablanca,Centre Ville,2020-03-18,13:00:09,155 000
+2015,70 000 , 74 999,Essence,Kia,Picanto,6 CV, Casablanca,Centre Ville,2020-03-18,12:57:52,68 000
+2015,90 000 , 94 999,Diesel,Dacia,Duster,6 CV, Casablanca,Centre Ville,2020-03-18,12:49:42,108 000
+2014,85 000 , 89 999,Diesel,BMW,Serie 3,8 CV, Casablanca,Centre Ville,2020-03-18,12:41:22,185 000
+2008,190 000 , 199 999,Diesel,BMW,Serie 3,8 CV, Casablanca,Ben M'sick,2020-03-18,12:40:07,85 000
+2008,170 000 , 179 999,Diesel,Kia,Carens,8 CV, Kénitra,Al Maghrib Al Arabi,2020-03-18,12:14:41,73 000
+2001,200 000 , 249 999,Diesel,Volkswagen,GOLF 4,8 CV, Casablanca,Autre secteur,2020-03-18,12:12:40,66 000
+2017,45 000 , 49 999,Diesel,Kia,Ceed,6 CV, Rabat,Hay el Fath,2020-03-18,12:02:47,153 000
+2015,110 000 , 119 999,Diesel,Volkswagen,Tiguan,8 CV, Oujda,Centre Ville,2020-03-18,11:55:30, 
+2006,190 000 , 199 999,Diesel,Volkswagen,GOLF 5,8 CV, Casablanca,Autre secteur,2020-03-18,11:55:08,87 000
+2004,250 000 , 299 999,Diesel,Mercedes-Benz,220,9 CV, Casablanca,Zone Industrielle,2020-03-18,11:54:42,86 000
+2017,140 000 , 149 999,Diesel,Volkswagen,Tiguan,8 CV, Casablanca,Maarif,2020-03-18,11:51:57,295 000
+2014,100 000 , 109 999,Diesel,Mitsubishi,L200,10 CV, Tétouan,Centre ville,2020-03-18,11:11:05,55 000
+2014,150 000 , 159 999,Diesel,Peugeot,508,8 CV, Casablanca,Autre secteur,2020-03-18,10:55:09,145 000
+2018,10 000 , 14 999,Diesel,Peugeot,3008,8 CV, Casablanca,Aïn Sebaâ,2020-03-18,10:51:46,285 000
+2005,110 000 , 119 999,Essence,BMW,Z4,14 CV, Casablanca,Autre secteur,2020-03-18,10:48:27,129 000
+2016,60 000 , 64 999,Diesel,Dacia,Duster,6 CV, Rabat,Autre secteur,2020-03-18,10:43:29,127 000
+2014,120 000 , 129 999,Diesel,Renault,Megane 3,6 CV, Casablanca,Autre secteur,2020-03-18,10:42:08,102 000
+2007,45 000 , 49 999,Essence,BMW,-,17 CV, Casablanca,Autre secteur,2020-03-18,10:41:58,129 000
+2009,120 000 , 129 999,Essence,Honda,Legend,17 CV, Casablanca,Autre secteur,2020-03-18,10:40:36,49 000
+2010,100 000 , 109 999,Essence,Volvo,S80,14 CV, Casablanca,Autre secteur,2020-03-18,10:26:25,79 000
+2009,180 000 , 189 999,Diesel,Porsche,Cayenne,12 CV, Casablanca,Autre secteur,2020-03-18,10:25:49,159 000
+2015,80 000 , 84 999,Diesel,Fiat,Doblo,5 CV, Fès,Centre,2020-03-18,10:10:57,84 000
+1993,160 000 , 169 999,Diesel,Mercedes-Benz,190,8 CV, Fès,Centre,2020-03-18,10:09:00,59 000
+2004,170 000 , 179 999,Diesel,Mercedes-Benz,Classe E,13 CV, Fès,Centre,2020-03-18,09:59:01,58 000
+2011,170 000 , 179 999,Diesel,Hyundai,H-1,9 CV, Marrakech,Massar,2020-03-18,09:57:17,105 000
+2014,75 000 , 79 999,Diesel,Nissan,Qashqai,6 CV, Fès,Centre,2020-03-18,09:44:55,158 000
+2012,110 000 , 119 999,Diesel,BMW,X5,12 CV, Fès,Centre,2020-03-18,09:40:36,235 000
+2015,75 000 , 79 999,Diesel,Dacia,Duster,6 CV, Fès,Centre,2020-03-18,09:38:20,112 000
+2008,150 000 , 159 999,Diesel,Mitsubishi,pajero,12 CV, Fès,Centre,2020-03-18,09:31:01,88 000
+2006,150 000 , 159 999,Diesel,Toyota,Prado,12 CV, Fès,Centre,2020-03-18,09:30:11,132 000
+2016,75 000 , 79 999,Diesel,Peugeot,2008,6 CV, Rabat,Hay Riad,2020-03-18,09:29:08,136 000
+2015,130 000 , 139 999,Diesel,Hyundai,Accent,6 CV, Casablanca,Ben M'sick,2020-03-18,09:28:55,87 000
+2008,140 000 , 149 999,Diesel,Kia,Sorento,9 CV, Fès,Centre,2020-03-18,09:22:27,78 000
+2018,25 000 , 29 999,Essence,Toyota,-,-, Casablanca,Aïn Sebaâ,2020-03-18,09:07:03,173 000
+2016,45 000 , 49 999,Diesel,Citroen,DS5,8 CV, Casablanca,Autre secteur,2020-03-18,08:55:45,180 000
+2017,120 000 , 129 999,Diesel,Mitsubishi,L200,10 CV, Casablanca,Hay Mohammadi,2020-03-18,08:24:45,155 000
+2014,0 , 4 999,Diesel,Citroen,C3,6 CV, Tanger,Centre ville,2020-03-18,08:05:24,86 000
+2014,90 000 , 94 999,Diesel,Ford,Kuga,8 CV, Laâyoune,Toute la ville,2020-03-17,22:54:32,158 000
+2016,120 000 , 129 999,Diesel,Volkswagen,Touran,8 CV, Fès,Agdal,2020-03-17,19:16:02,40 000
+2015,150 000 , 159 999,Diesel,Hyundai,-,7 CV, Rabat,Hay Riad,2020-03-17,18:36:21,220 000
+2018,70 000 , 74 999,Diesel,Audi,A6,8 CV, Casablanca,Aïn Sebaâ,2020-03-17,18:18:51,315 000
+2018,70 000 , 74 999,Diesel,Dacia,Duster,6 CV, Casablanca,Anfa,2020-03-17,18:01:40,145 000
+2016,85 000 , 89 999,Diesel,Renault,-,7 CV, Demnate,Toute la ville,2020-03-17,17:46:09,114 000
+2011,85 000 , 89 999,Essence,mini,cooper,9 CV, Rabat,Massira,2020-03-17,17:17:52,225 000
+2016,60 000 , 64 999,Diesel,Audi,Q7,12 CV, Casablanca,Maarif,2020-03-17,16:42:19,600 000
+2010,170 000 , 179 999,Diesel,Audi,A3,6 CV, Kénitra,Ouled Oujih,2020-03-17,16:39:04,145 000
+2017,35 000 , 39 999,Diesel,Mercedes-Benz,Classe A,7 CV, Casablanca,Maarif,2020-03-17,16:30:09,235 000
+2013,180 000 , 189 999,Diesel,Dacia,range_rover_evoque,6 CV, Casablanca,Autre secteur,2020-03-17,16:18:12,67 000
+2011,180 000 , 189 999,Diesel,Volkswagen,Tiguan,8 CV, Fès,Narjis,2020-03-17,15:34:44,210 000
+2005,130 000 , 139 999,Essence,Infiniti,FX35,20 CV, Casablanca,Autre secteur,2020-03-17,15:24:53,69 000
+2012,110 000 , 119 999,Essence,Peugeot,107,6 CV, Casablanca,Belvédère,2020-03-17,15:10:24,61 500
+2014,0 , 4 999,Essence,Mazda,MX-5,11 CV, Tanger,Autre secteur,2020-03-17,15:00:22,235 000
+2013,50 000 , 54 999,Essence,Chevrolet,Spark,6 CV, Casablanca,Belvédère,2020-03-17,14:57:11,59 500
+2016,75 000 , 79 999,Diesel,Hyundai,Santa Fe,9 CV, Casablanca,Autre secteur,2020-03-17,14:44:38,260 000
+2017,100 000 , 109 999,Diesel,Mercedes-Benz,Classe E,9 CV, Casablanca,Maarif,2020-03-17,14:22:32,345 000
+2018,75 000 , 79 999,Diesel,Mercedes-Benz,Classe CLA,9 CV, Casablanca,Maarif,2020-03-17,14:17:03,360 000
+2009,190 000 , 199 999,Diesel,Kia,Mohave,12 CV, Casablanca,Oulfa,2020-03-17,14:04:48,75 000
+2015,100 000 , 109 999,Diesel,Audi,Q5,-, Casablanca,Aïn Chock,2020-03-17,13:47:50,85 000
+2006,15 000 , 19 999,Diesel,Citroen,C4,6 CV, Agadir,Autre secteur,2020-03-17,13:03:21,70 000
+2015,95 000 , 99 999,Diesel,BMW,X5,8 CV, Kénitra,Ouled Oujih,2020-03-17,12:47:24,330 000
+2012,150 000 , 159 999,Diesel,Hyundai,ix 35,8 CV, Tanger,Autre secteur,2020-03-17,12:33:47,128 000
+2020,0 , 4 999,Diesel,Mercedes-Benz,Classe CLA,-, Tanger,Centre ville,2020-03-17,12:20:56,650 000
+2005,80 000 , 84 999,Essence,Kia,-,6 CV, Tanger,Val Fleuri,2020-03-17,12:13:59,49 000
+2019,15 000 , 19 999,Essence,Audi,RS3,-, Tanger,Centre ville,2020-03-17,12:12:58,670 000
+2009,160 000 , 169 999,Diesel,Honda,Accord,9 CV, Rabat,Autre secteur,2020-03-17,12:07:49,103 000
+2014,110 000 , 119 999,Diesel,Ford,Fiesta,6 CV, Tanger,Autre secteur,2020-03-17,11:46:43,88 000
+2013,45 000 , 49 999,Essence,Nissan,Juke,9 CV, Casablanca,Autre secteur,2020-03-17,11:38:15,122 000
+2018,25 000 , 29 999,Diesel,Peugeot,2008,6 CV, Agadir,Hay Zaytoun,2020-03-17,11:30:33,160 000
+2017,35 000 , 39 999,Diesel,Peugeot,301,6 CV, Fès,Hay Mohammedi,2020-03-17,11:23:01,90 000
+2018,25 000 , 29 999,Diesel,Renault,Megane,-, Casablanca,Aïn Sebaâ,2020-03-17,10:52:03,192 000
+2018,60 000 , 64 999,Diesel,Renault,Megane,6 CV, Rabat,Hay el Fath,2020-03-17,10:50:29,153 000
+2016,80 000 , 84 999,Diesel,BMW,X6,12 CV, Casablanca,Maarif,2020-03-17,10:24:24,400 000
+2006,160 000 , 169 999,Essence,Renault,Megane,9 CV, Rabat,Hay el Fath,2020-03-17,10:10:14,52 000
+2017,65 000 , 69 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,Autre secteur,2020-03-17,10:09:02,260 000
+2016,80 000 , 84 999,Diesel,Toyota,Hilux,10 CV, Rabat,Hay el Fath,2020-03-17,10:07:02,178 000
+2017,55 000 , 59 999,Diesel,Renault,Clio,6 CV, Rabat,Hay el Fath,2020-03-17,10:04:00,128 000
+2018,45 000 , 49 999,Diesel,Peugeot,301,6 CV, Rabat,Yacoub El Mansour,2020-03-17,09:59:00,105 000
+2015,100 000 , 109 999,Diesel,Honda,Accord,9 CV, Rabat,Hay el Fath,2020-03-17,09:58:47,149 000
+2013,130 000 , 139 999,Diesel,Jaguar,XF,8 CV, Casablanca,Autre secteur,2020-03-17,09:31:53,179 000
+2014,100 000 , 109 999,Diesel,Hyundai,ix 35,7 CV, Salé,El Qaria,2020-03-17,08:57:47,38 000
+2019,5 000 , 9 999,Diesel,Ford,Fiesta,7 CV, Casablanca,Bernoussi,2020-03-17,08:56:50,145 000
+2018,20 000 , 24 999,Diesel,Ford,Ecosport,6 CV, Casablanca,Bernoussi,2020-03-17,08:56:10,153 000
+2016,110 000 , 119 999,Diesel,Hyundai,Accent,6 CV, Casablanca,Aïn Sebaâ,2020-03-17,08:09:28,112 000
+2017,55 000 , 59 999,Essence,Peugeot,108,6 CV, Casablanca,Aïn Sebaâ,2020-03-17,08:07:52,79 000
+2012,120 000 , 129 999,Diesel,Alfa Romeo,Giulietta,8 CV, Rabat,Yacoub El Mansour,2020-03-16,22:00:44,117 000
+2011,160 000 , 169 999,Diesel,Renault,Latitude,8 CV, Marrakech,Massira 1,2020-03-16,21:06:10,102 000
+2014,60 000 , 64 999,Diesel,Audi,A4,12 CV, Tanger,Souani,2020-03-16,20:27:23,254 000
+2017,90 000 , 94 999,Diesel,Citroen,C3,6 CV, Tanger,Souani,2020-03-16,20:25:19,98 000
+1997,0 , 4 999,Diesel,Renault,Express,6 CV, Marrakech,Daoudiate,2020-03-16,19:48:04,30 000
+2003,200 000 , 249 999,Diesel,Peugeot,Partner,7 CV, Rabat,Autre secteur,2020-03-16,18:55:29,45 000
+2013,100 000 , 109 999,Diesel,Opel,Astra,7 CV, Marrakech,Hay Charaf,2020-03-16,18:31:40,118 000
+2018,35 000 , 39 999,Diesel,Hyundai,i 30,6 CV, Rabat,Massira,2020-03-16,18:13:07,165 000
+2018,50 000 , 54 999,Diesel,Peugeot,-,6 CV, Fès,Narjis,2020-03-16,17:36:00,124 000
+2012,130 000 , 139 999,Diesel,Renault,Kangoo,6 CV, Rabat,Guich Oudaya,2020-03-16,17:15:27,89 000
+2016,70 000 , 74 999,Essence,Fiat,Panda,6 CV, Rabat,Guich Oudaya,2020-03-16,17:14:55,69 000
+2011,80 000 , 84 999,Essence,mini,cooper,9 CV, Rabat,Yacoub El Mansour,2020-03-16,17:03:48,78 000
+2015,150 000 , 159 999,Diesel,Toyota,RAV 4,8 CV, Tétouan,Safir,2020-03-16,16:57:24,165 000
+2017,55 000 , 59 999,Diesel,Volkswagen,EOS,8 CV, Casablanca,Maarif,2020-03-16,16:38:36,67 000
+2019,10 000 , 14 999,Hybride,Toyota,-,10 CV, Larache,Toute la ville,2020-03-16,16:25:03,219 000
+2007,200 000 , 249 999,Essence,Dacia,Logan,8 CV, Rabat,Autre secteur,2020-03-16,15:55:17,43 000
+2011,180 000 , 189 999,Diesel,Audi,Q5,12 CV, Casablanca,Belvédère,2020-03-16,15:17:33,12 000
+2000,150 000 , 159 999,Diesel,Mercedes-Benz,280,11 CV, Agadir,Le centre-ville,2020-03-16,15:12:09,40 000
+2011,150 000 , 159 999,Diesel,Renault,Kangoo,6 CV, Agadir,Le centre-ville,2020-03-16,15:11:47,70 000
+2015,140 000 , 149 999,Diesel,Volkswagen,Touareg,11 CV, Agadir,El Houda,2020-03-16,15:11:00,180 000
+2017,70 000 , 74 999,Diesel,Renault,Kangoo,7 CV, Rabat,Hay el Fath,2020-03-16,14:51:20,50 000
+2016,90 000 , 94 999,Diesel,Fiat,Punto,5 CV, Casablanca,Oulfa,2020-03-16,14:43:51,87 000
+2014,80 000 , 84 999,Diesel,Hyundai,ix 35,6 CV, Rabat,Guich Oudaya,2020-03-16,14:30:39,163 000
+2019,15 000 , 19 999,Diesel,Kia,Sportage,8 CV, Casablanca,Aïn Sebaâ,2020-03-16,13:34:25,219 000
+2016,130 000 , 139 999,Diesel,Audi,Q7,12 CV, Tanger,Autre secteur,2020-03-16,12:51:14,445 000
+2017,40 000 , 44 999,Diesel,Renault,Megane Sedan,6 CV, Tanger,Val Fleuri,2020-03-16,12:42:34,182 000
+2017,85 000 , 89 999,Diesel,BMW,Serie 1,7 CV, Rabat,Hay el Fath,2020-03-16,12:31:35,335 000
+2015,60 000 , 64 999,Diesel,Dacia,Dokker,6 CV, Tanger,Val Fleuri,2020-03-16,12:31:06,98 000
+2019,30 000 , 34 999,Diesel,Ford,Fiesta,6 CV, Rabat,Yacoub El Mansour,2020-03-16,12:29:45,138 000
+2015,100 000 , 109 999,Diesel,Peugeot,308,6 CV, Casablanca,Autre secteur,2020-03-16,12:19:31,128 000
+2007,200 000 , 249 999,Diesel,Land Rover,Range Rover Sport,11 CV, Casablanca,Mers Sultan,2020-03-16,12:18:03,125 000
+2012,120 000 , 129 999,Essence,Renault,Megane Coupe,11 CV, Casablanca,Mers Sultan,2020-03-16,12:17:40,160 000
+2006,150 000 , 159 999,Diesel,Land Rover,Range Rover Sport,11 CV, Casablanca,Mers Sultan,2020-03-16,12:17:16,140 000
+2012,110 000 , 119 999,Diesel,Porsche,Cayenne,12 CV, Casablanca,Mers Sultan,2020-03-16,12:16:52,340 000
+2013,140 000 , 149 999,Diesel,Volvo,XC60,8 CV, Casablanca,Mers Sultan,2020-03-16,12:16:31,135 000
+2010,200 000 , 249 999,Diesel,Land Rover,Range Rover Sport,12 CV, Casablanca,Mers Sultan,2020-03-16,12:16:07,148 000
+2015,120 000 , 129 999,Diesel,Ford,Ranger,9 CV, Kénitra,Ouled Oujih,2020-03-16,12:05:15,65 000
+2015,140 000 , 149 999,Diesel,BMW,Serie 7,12 CV, Rabat,Yacoub El Mansour,2020-03-16,11:50:05,33 000
+1991,190 000 , 199 999,Diesel,Renault,Clio,7 CV, Casablanca,Belvédère,2020-03-16,11:25:43,37 000
+2014,160 000 , 169 999,Diesel,Mercedes-Benz,220,9 CV, Agadir,Hay Qods,2020-03-16,11:13:35,320 000
+2015,90 000 , 94 999,Diesel,Renault,Clio,6 CV, Casablanca,Belvédère,2020-03-16,10:44:35,60 000
+2018,40 000 , 44 999,Diesel,Renault,Clio,6 CV, Fès,Agdal,2020-03-16,10:43:01,108 000
+2015,140 000 , 149 999,Diesel,Volkswagen,-,6 CV, Fès,Route de Sefrou,2020-03-16,10:32:30,172 000
+2018,65 000 , 69 999,Diesel,Volkswagen,GOLF 7,9 CV, Tanger,Iberie,2020-03-16,10:27:10,358 000
+2016,90 000 , 94 999,Diesel,Volkswagen,Polo,6 CV, Agadir,Hay Dakhla,2020-03-16,10:25:28,95 000
+2011,120 000 , 129 999,Diesel,Audi,A3,7 CV, Tanger,Centre ville,2020-03-16,10:11:32,125 000
+2011,150 000 , 159 999,Diesel,Dacia,Duster,6 CV, Rabat,Autre secteur,2020-03-16,09:20:44,97 000
+2014,130 000 , 139 999,Diesel,Land Rover,Range Rover,12 CV, Tanger,Centre ville,2020-03-16,08:56:45,420 000
+2015,85 000 , 89 999,Diesel,Toyota,Yaris,5 CV, Casablanca,Sidi Bernoussi,2020-03-16,08:36:28,110 000
+2012,80 000 , 84 999,Essence,Toyota,Aygo,6 CV, Casablanca,Sidi Bernoussi,2020-03-16,08:35:30,60 000
+2016,50 000 , 54 999,Diesel,Renault,Clio,6 CV, Casablanca,Autre secteur,2020-03-16,08:35:04,128 000
+2012,130 000 , 139 999,Diesel,Ford,Fiesta,6 CV, Casablanca,Sidi Bernoussi,2020-03-16,08:34:04,89 000
+2011,110 000 , 119 999,Essence,Peugeot,107,6 CV, Casablanca,Sidi Bernoussi,2020-03-16,08:33:28,58 000
+2018,15 000 , 19 999,Essence,Chevrolet,Corvette,6 CV, Temara,Maghreb Arabi,2020-03-15,19:58:13,48 000
+2018,25 000 , 29 999,Diesel,Mercedes-Benz,Classe GLC,9 CV, Tanger,Souani,2020-03-15,19:57:25,659 000
+2017,95 000 , 99 999,Diesel,Fiat,Punto,5 CV, Marrakech,Massira 1,2020-03-15,19:53:35,87 000
+2018,40 000 , 44 999,Essence,Hyundai,i 10,6 CV, Fès,Route d'Immouzere,2020-03-15,18:44:30,79 000
+2009,200 000 , 249 999,Diesel,Mercedes-Benz,CLASSE GLK,12 CV, Tanger,Souani,2020-03-15,18:07:01,142 000
+2018,10 000 , 14 999,Essence,Maserati,other,17 CV, Casablanca,Anfa,2020-03-15,18:04:15,850 000
+2015,120 000 , 129 999,Diesel,Kia,Sportage,7 CV, Rabat,Massira,2020-03-15,17:34:41,158 000
+2015,120 000 , 129 999,Diesel,Hyundai,Santa Fe,9 CV, Rabat,Massira,2020-03-15,17:03:13,67 000
+2019,40 000 , 44 999,Diesel,Volkswagen,Touareg,-, Casablanca,Les Princesses,2020-03-15,14:42:44,495 000
+2011,70 000 , 74 999,Essence,Peugeot,508,9 CV, Casablanca,Autre secteur,2020-03-15,14:30:17,98 000
+2012,120 000 , 129 999,Diesel,Hyundai,Accent,6 CV, Rabat,Massira,2020-03-15,14:27:00,105 000
+2011,150 000 , 159 999,Essence,Hyundai,i 10,6 CV, Rabat,Massira,2020-03-15,14:17:58,63 000
+2013,120 000 , 129 999,Diesel,Opel,Corsa,5 CV, Rabat,Massira,2020-03-15,14:17:28,98 000
+2006,130 000 , 139 999,Diesel,Ssangyong,Rexton,12 CV, Casablanca,Hay Hassani,2020-03-15,14:10:23,65 000
+2012,140 000 , 149 999,Diesel,BMW,Serie 3,8 CV, Marrakech,Massar,2020-03-15,13:32:15,25 000
+2007,70 000 , 74 999,Essence,Chery,QQ,5 CV, Salé,Hay Karima,2020-03-15,13:07:16,31 000
+2012,110 000 , 119 999,Diesel,Dacia,Duster,6 CV, Rabat,Hay el Fath,2020-03-15,13:07:00,105 000
+2006,170 000 , 179 999,Diesel,Mazda,B 2500,10 CV, Sidi Taibi,Toute la ville,2020-03-15,13:05:12,95 000
+1996,110 000 , 119 999,Diesel,Peugeot,406,-, Sidi Taibi,Toute la ville,2020-03-15,13:03:01,47 000
+2017,80 000 , 84 999,Diesel,Toyota,Corolla,5 CV, Rabat,Riyad,2020-03-15,12:34:38,45 000
+2005,200 000 , 249 999,Diesel,Toyota,Corolla,8 CV, Rabat,Autre secteur,2020-03-15,12:20:36,56 000
+1989,200 000 , 249 999,Essence,Renault,19,6 CV, Rabat,Autre secteur,2020-03-15,12:20:08,27 000
+2006,200 000 , 249 999,Essence,Dacia,Logan,8 CV, Rabat,Autre secteur,2020-03-15,12:19:58,38 000
+2008,200 000 , 249 999,Diesel,Hyundai,Accent,6 CV, Kénitra,Al Maghrib Al Arabi,2020-03-15,12:06:09,64 000
+2014,160 000 , 169 999,Diesel,Skoda,Octavia,8 CV, Agadir,Centre Ville,2020-03-15,11:49:52,145 000
+2017,65 000 , 69 999,Diesel,Hyundai,Accent,6 CV, Casablanca,Aïn Sebaâ,2020-03-15,11:49:08,142 000
+2014,170 000 , 179 999,Diesel,Skoda,Octavia,8 CV, Agadir,Hay Massira,2020-03-15,10:30:09,145 000
+2017,80 000 , 84 999,Diesel,Dacia,Dokker,6 CV, Marrakech,Massira 1,2020-03-15,09:48:53,92 000
+2016,90 000 , 94 999,Essence,Ford,Fiesta,7 CV, Marrakech,Massira 1,2020-03-15,09:48:38,83 000
+2018,40 000 , 44 999,Diesel,Hyundai,Accent,6 CV, Marrakech,Massira 1,2020-03-15,09:35:37,115 000
+2015,110 000 , 119 999,Diesel,Volkswagen,Touran,8 CV, Tanger,Centre ville,2020-03-15,08:49:01,240 000
+2013,140 000 , 149 999,Diesel,Audi,-,8 CV, Tanger,Centre ville,2020-03-15,08:46:24,310 000
+2013,140 000 , 149 999,Diesel,Citroen,C4,6 CV, Casablanca,Aïn Sebaâ,2020-03-15,08:45:33,107 000
+2019,0 , 4 999,Diesel,Renault,Kadjar,-, Casablanca,Aïn Sebaâ,2020-03-15,06:42:17,220 000
+2018,25 000 , 29 999,Diesel,Renault,Megane,-, Casablanca,Aïn Sebaâ,2020-03-15,06:42:07,214 000
+2009,120 000 , 129 999,Diesel,BMW,Serie 1,8 CV, Rabat,Yacoub El Mansour,2020-03-15,00:31:25,115 000
+2007,200 000 , 249 999,Essence,Honda,Civic,9 CV, Rabat,Yacoub El Mansour,2020-03-14,22:15:12,65 000
+2010,160 000 , 169 999,Diesel,Audi,-,8 CV, Temara,Centre Ville,2020-03-14,21:52:46,100 000
+2016,70 000 , 74 999,Diesel,Dacia,-,6 CV, Temara,Centre Ville,2020-03-14,21:48:07,83 000
+2008,180 000 , 189 999,Diesel,Mercedes-Benz,-,11 CV, Temara,Centre Ville,2020-03-14,21:44:24,69 000
+2017,55 000 , 59 999,Diesel,Volkswagen,Golf,8 CV, Casablanca,Hay Inara,2020-03-14,18:46:43,330 000
+2018,35 000 , 39 999,Diesel,Volkswagen,Caddy,8 CV, Casablanca,Aïn Chock,2020-03-14,18:45:35,200 000
+2007,150 000 , 159 999,Essence,Renault,Clio,7 CV, Agadir,Hay Zaytoun,2020-03-14,18:33:46,50 000
+2004,180 000 , 189 999,Diesel,Mercedes-Benz,Classe E,9 CV, Nador,El khattabi,2020-03-14,18:32:25,89 000
+2011,120 000 , 129 999,Essence,Kia,Picanto,6 CV, Agadir,Hay Zaytoun,2020-03-14,18:32:12,57 000
+2007,130 000 , 139 999,Diesel,Hyundai,Tucson,8 CV, Agadir,Hay Zaytoun,2020-03-14,18:31:51,92 000
+2009,110 000 , 119 999,Essence,Kia,Picanto,6 CV, Agadir,Hay Zaytoun,2020-03-14,18:31:17,52 000
+2005,200 000 , 249 999,Diesel,Hyundai,Tucson,8 CV, Rabat,Autre secteur,2020-03-14,18:24:38,65 000
+2014,90 000 , 94 999,Diesel,Hyundai,-,8 CV, Casablanca,Sidi Othmane,2020-03-14,17:18:57,35 000
+2014,120 000 , 129 999,Diesel,Hyundai,-,7 CV, Casablanca,2 Mars,2020-03-14,16:51:45,155 000
+2018,40 000 , 44 999,Diesel,Citroen,C3,6 CV, El Jadida,Najd,2020-03-14,15:41:32,68 000
+2011,55 000 , 59 999,Essence,Citroen,C1,6 CV, Agadir,Hay Dakhla,2020-03-14,14:42:07,35 000
+2008,140 000 , 149 999,Essence,BMW,Serie 1,17 CV, Casablanca,2 Mars,2020-03-14,14:37:01,115 000
+2012,100 000 , 109 999,Essence,Fiat,Punto,5 CV, Casablanca,Aïn Sebaâ,2020-03-14,14:09:47,49 000
+2008,200 000 , 249 999,Diesel,Hyundai,Tucson,8 CV, Marrakech,Massira 1,2020-03-14,13:58:53,72 000
+2009,160 000 , 169 999,Diesel,Mercedes-Benz,CLASSE ML,12 CV, Tanger,Val Fleuri,2020-03-14,13:36:11,140 000
+2016,60 000 , 64 999,Essence,Fiat,500,6 CV, Agadir,Hay Mohammadi,2020-03-14,13:31:49,107 000
+2015,35 000 , 39 999,Essence,lancia,Delta,8 CV, Rabat,Yacoub El Mansour,2020-03-14,13:19:24,120 000
+2015,85 000 , 89 999,Diesel,BMW,Serie 4 gran coupé,8 CV, Casablanca,Maarif,2020-03-14,13:19:04,280 000
+2011,140 000 , 149 999,Diesel,Hyundai,Santa Fe,9 CV, Rabat,Yacoub El Mansour,2020-03-14,13:11:20,120 000
+2016,150 000 , 159 999,Diesel,Ford,Ranger,9 CV, Rabat,Hay el Fath,2020-03-14,13:09:29,230 000
+2006,140 000 , 149 999,Essence,Peugeot,407,11 CV, Marrakech,Hay Charaf,2020-03-14,11:42:40,42 000
+2015,95 000 , 99 999,Diesel,Ford,-,6 CV, Fès,Route de Sefrou,2020-03-14,11:31:37,139 000
+2011,40 000 , 44 999,Essence,Porsche,Panamera,28 CV, Marrakech,Massar,2020-03-14,11:23:56,320 000
+2014,80 000 , 84 999,Diesel,Skoda,Octavia,8 CV, Rabat,Hay el Fath,2020-03-14,11:15:26,70 000
+2013,170 000 , 179 999,Diesel,Mercedes-Benz,Classe CLA,9 CV, Casablanca,Aïn Chock,2020-03-14,10:56:49,235 000
+2015,110 000 , 119 999,Diesel,Ford,Fiesta,6 CV, Agadir,Hay Massira,2020-03-14,10:41:22,103 000
+2020,0 , 4 999,Hybride,Porsche,Cayenne,17 CV, Casablanca,Maarif,2020-03-14,10:38:28,90 000
+2014,95 000 , 99 999,Diesel,Ford,Focus,6 CV, Rabat,Hay Riad,2020-03-14,10:31:23,100 000
+2019,60 000 , 64 999,Diesel,Dacia,Logan,6 CV, Fès,Hay Mohammedi,2020-03-14,10:06:47,91 000
+2018,30 000 , 34 999,Diesel,Citroen,C5,8 CV, Casablanca,Aïn Sebaâ,2020-03-14,09:58:41,135 000
+2008,170 000 , 179 999,Diesel,Kia,Sportage,8 CV, Casablanca,Sidi Moumen,2020-03-14,09:46:07,79 000
+2019,35 000 , 39 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,Hay Hassani,2020-03-14,09:34:14,420 000
+2015,190 000 , 199 999,Diesel,Dacia,Logan,5 CV, Casablanca,Bernoussi,2020-03-14,09:22:23,63 000
+2013,160 000 , 169 999,Diesel,Jaguar,XE,9 CV, Casablanca,Californie,2020-03-14,08:21:18,82 000
+2012,120 000 , 129 999,Essence,Hyundai,i 10,6 CV, Casablanca,Belvédère,2020-03-14,03:00:06,69 000
+2015,35 000 , 39 999,Essence,Hyundai,i 10,6 CV, Casablanca,Belvédère,2020-03-14,02:59:58,78 000
+2006,160 000 , 169 999,Diesel,Citroen,C4,6 CV, Fès,Narjis,2020-03-13,19:12:13,57 000
+2015,110 000 , 119 999,Diesel,Jeep,Grand Cherokee,12 CV, Rabat,Yacoub El Mansour,2020-03-13,18:21:50,115 000
+2013,100 000 , 109 999,Essence,Suzuki,Swift,7 CV, Marrakech,Massira 1,2020-03-13,18:20:10,80 000
+2007,200 000 , 249 999,Diesel,Hyundai,Accent,7 CV, Rabat,Autre secteur,2020-03-13,18:14:14,43 000
+2013,75 000 , 79 999,Diesel,Renault,Clio,-, Casablanca,Aïn Sebaâ,2020-03-13,17:51:59,95 000
+2017,55 000 , 59 999,Diesel,Renault,-,6 CV, Fès,Hay Saada,2020-03-13,17:28:18,160 000
+2018,35 000 , 39 999,Diesel,Renault,Clio,-, Casablanca,Aïn Sebaâ,2020-03-13,17:07:03,130 000
+2010,110 000 , 119 999,Diesel,Audi,Q7,12 CV, Rabat,Yacoub El Mansour,2020-03-13,17:01:17,155 000
+2014,160 000 , 169 999,Diesel,Skoda,Octavia,8 CV, Agadir,Centre Ville,2020-03-13,15:50:22,145 000
+2018,20 000 , 24 999,Diesel,Renault,Megane Sedan,-, Casablanca,Aïn Sebaâ,2020-03-13,15:37:00,215 000
+2008,90 000 , 94 999,Essence,Suzuki,Vitara,9 CV, Rabat,Guich Oudaya,2020-03-13,15:15:48,58 000
+2014,90 000 , 94 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,Belvédère,2020-03-13,14:40:10,30 000
+2017,60 000 , 64 999,Diesel,Mercedes-Benz,Classe E,-, Casablanca,Belvédère,2020-03-13,14:16:49,60 000
+1990,200 000 , 249 999,Diesel,Peugeot,309,7 CV, Agadir,Ben Serguaou,2020-03-13,13:57:15,30 000
+2016,30 000 , 34 999,Diesel,Toyota,Land Cruiser,10 CV, Fès,Agdal,2020-03-13,12:55:13,57 000
+2018,80 000 , 84 999,Diesel,Peugeot,208,6 CV, Tanger,Iberie,2020-03-13,12:50:16,127 000
+2007,180 000 , 189 999,Diesel,Ford,Fiesta,6 CV, Fès,Route de Meknes,2020-03-13,12:02:51,55 000
+2012,110 000 , 119 999,Diesel,Opel,Astra,8 CV, Fès,Centre,2020-03-13,11:40:09,23 000
+2015,95 000 , 99 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,Maarif,2020-03-13,10:26:11,250 000
+2015,110 000 , 119 999,Essence,Mazda,6,11 CV, Rabat,Yacoub El Mansour,2020-03-13,10:12:05,98 000
+2013,120 000 , 129 999,Diesel,Alfa Romeo,Giulietta,6 CV, Rabat,Hay el Fath,2020-03-13,09:46:36,123 000
+2014,140 000 , 149 999,Diesel,Skoda,RAPID,6 CV, Agadir,Hay Massira,2020-03-13,09:43:12,115 000
+2013,140 000 , 149 999,Essence,Hyundai,i 10,5 CV, Agadir,Hay Massira,2020-03-13,09:32:34,68 000
+2019,20 000 , 24 999,Diesel,Renault,Clio,-, Casablanca,Aïn Sebaâ,2020-03-13,09:01:35,155 000
+2013,140 000 , 149 999,Diesel,Nissan,Qashqai,6 CV, Rabat,Yacoub El Mansour,2020-03-13,08:17:13,122 000
+2015,150 000 , 159 999,Diesel,Mercedes-Benz,220,8 CV, Kénitra,Autre secteur,2020-03-13,08:13:42,310 000
+2010,190 000 , 199 999,Diesel,Volkswagen,Touareg,12 CV, Rabat,Yacoub El Mansour,2020-03-13,08:10:21,100 000
+2011,130 000 , 139 999,Diesel,Ford,Focus,7 CV, Rabat,Yacoub El Mansour,2020-03-13,08:01:22,88 000
+2011,140 000 , 149 999,Diesel,Audi,Q5,8 CV, Kénitra,Autre secteur,2020-03-13,07:51:50,200 000
+2017,40 000 , 44 999,Essence,Fiat,Panda,6 CV, Kénitra,Autre secteur,2020-03-13,07:51:40,72 000
+2017,45 000 , 49 999,Diesel,Renault,Megane Sedan,6 CV, Kénitra,Autre secteur,2020-03-13,07:51:30,146 000
+2018,75 000 , 79 999,Diesel,Ford,Fiesta,6 CV, Kénitra,Autre secteur,2020-03-13,07:51:17,110 000
+2007,250 000 , 299 999,Diesel,BMW,X5,12 CV, Kénitra,Autre secteur,2020-03-13,07:51:08,90 000
+2002,170 000 , 179 999,Diesel,Mercedes-Benz,220,-, Kénitra,Autre secteur,2020-03-13,07:50:57,88 000
+2017,90 000 , 94 999,Diesel,Renault,Kangoo,6 CV, Marrakech,Massira 1,2020-03-12,21:44:36,395 000
+2013,130 000 , 139 999,Essence,Peugeot,206,6 CV, Marrakech,Massira 1,2020-03-12,21:43:48,63 000
+2017,80 000 , 84 999,Diesel,Dacia,Logan,6 CV, Marrakech,Massira 1,2020-03-12,21:43:15,86 000
+2016,65 000 , 69 999,Essence,Skoda,Fabia,6 CV, Marrakech,Massira 1,2020-03-12,21:42:51,84 000
+2017,70 000 , 74 999,Essence,Fiat,500,6 CV, Marrakech,Massira 1,2020-03-12,21:42:18,104 000
+2018,100 000 , 109 999,Essence,Renault,Clio,6 CV, Marrakech,Massira 1,2020-03-12,21:41:56,90 000
+2002,100 000 , 109 999,Essence,Fiat,Palio,6 CV, Rabat,Guich Oudaya,2020-03-12,18:36:20,35 000
+2014,160 000 , 169 999,Diesel,Mercedes-Benz,Classe C,9 CV, Rabat,Hay Riad,2020-03-12,18:28:54,305 000
+2015,170 000 , 179 999,Diesel,Dacia,Logan,6 CV, Casablanca,Oasis,2020-03-12,17:30:59,80 000
+2016,100 000 , 109 999,Essence,Dacia,Logan,7 CV, Fès,Al Hadiqa,2020-03-12,16:21:30,63 000
+2014,90 000 , 94 999,Diesel,Toyota,Corolla,5 CV, Rabat,Yacoub El Mansour,2020-03-12,16:16:40,18 000
+2011,140 000 , 149 999,Diesel,Audi,Q7,12 CV, Rabat,Yacoub El Mansour,2020-03-12,16:15:03,163 000
+2007,300 000 , 349 999,Diesel,Audi,A8,12 CV, Rabat,Yacoub El Mansour,2020-03-12,16:14:45,82 000
+2014,120 000 , 129 999,Diesel,Hyundai,i 40,7 CV, Rabat,Yacoub El Mansour,2020-03-12,16:14:04,138 000
+2017,30 000 , 34 999,Essence,Opel,Corsa,8 CV, Rabat,Yacoub El Mansour,2020-03-12,16:12:29,109 000
+2013,100 000 , 109 999,Diesel,BMW,Serie 6,12 CV, Rabat,Yacoub El Mansour,2020-03-12,16:08:25,290 000
+2015,30 000 , 34 999,Diesel,Audi,A4,8 CV, Agadir,Centre Ville,2020-03-12,15:49:20,195 000
+2017,85 000 , 89 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,Maarif,2020-03-12,15:39:45,280 000
+2015,60 000 , 64 999,Diesel,Citroen,C3,6 CV, Casablanca,Autre secteur,2020-03-12,15:29:09,98 000
+2015,90 000 , 94 999,Diesel,Nissan,NOTE,6 CV, Marrakech,Massira,2020-03-12,15:14:48,90 000
+2001,200 000 , 249 999,Diesel,Renault,Laguna,7 CV, Fès,Ouled Tayeb,2020-03-12,15:06:38, 
+2017,80 000 , 84 999,Essence,Volkswagen,Polo,6 CV, Marrakech,Massira,2020-03-12,14:56:34,95 000
+2012,110 000 , 119 999,Essence,Ford,Fiesta,6 CV, Marrakech,Massira,2020-03-12,14:47:53,65 000
+2013,90 000 , 94 999,Essence,Alfa Romeo,159,14 CV, Casablanca,Autre secteur,2020-03-12,14:46:23,89 000
+2014,100 000 , 109 999,Diesel,Dacia,Duster,6 CV, Marrakech,Massira,2020-03-12,14:35:54,98 000
+2018,35 000 , 39 999,Essence,Skoda,Fabia,6 CV, Marrakech,Massira,2020-03-12,14:30:40,93 000
+2011,140 000 , 149 999,Diesel,Land Rover,Range Rover Sport,12 CV, Casablanca,Belvédère,2020-03-12,14:28:20,550 000
+2014,100 000 , 109 999,Diesel,Hyundai,i 30,6 CV, Fès,Route Ain Chkaf,2020-03-12,14:20:02,128 000
+2016,95 000 , 99 999,Diesel,BMW,Serie 3,8 CV, Rabat,Yacoub El Mansour,2020-03-12,14:10:52,52 000
+2015,85 000 , 89 999,Diesel,Renault,Clio,6 CV, Marrakech,Massira,2020-03-12,13:21:45,86 000
+2011,200 000 , 249 999,Diesel,Volkswagen,Touareg,-, Casablanca,2 Mars,2020-03-12,12:50:39,81 000
+2006,190 000 , 199 999,Diesel,BMW,Serie 7,11 CV, Rabat,Hay el Fath,2020-03-12,11:57:17,49 000
+2019,0 , 4 999,Diesel,Mercedes-Benz,Classe C,9 CV, Rabat,Hay el Fath,2020-03-12,11:07:49,12 000
+2018,60 000 , 64 999,Diesel,Audi,other,-, Casablanca,Les Princesses,2020-03-12,10:56:25,65 000
+2012,120 000 , 129 999,Diesel,Land Rover,Range Rover Sport,12 CV, Marrakech,Massar,2020-03-12,10:48:30,240 000
+2014,120 000 , 129 999,Essence,Ford,Fiesta,6 CV, Fès,Route de Meknes,2020-03-12,10:27:01,73 000
+2014,100 000 , 109 999,Diesel,Renault,Megane,7 CV, Tanger,Iberie,2020-03-12,10:21:53,139 000
+2012,90 000 , 94 999,Diesel,Hyundai,i 30,6 CV, Agadir,Hay Massira,2020-03-12,10:20:50,108 000
+2008,5 000 , 9 999,Essence,Chery,A113,7 CV, Ouarzazate,Toute la ville,2020-03-12,10:15:40,30 000
+2016,95 000 , 99 999,Essence,Volkswagen,Polo,6 CV, Tanger,Iberie,2020-03-12,09:58:07,103 000
+2019,0 , 4 999,Essence,Porsche,Macan,11 CV, Rabat,Hay el Fath,2020-03-12,09:16:48,38 000
+2008,140 000 , 149 999,Diesel,Dacia,Logan,-, Casablanca,Bernoussi,2020-03-12,07:58:03,55 000
+2012,170 000 , 179 999,Diesel,Volkswagen,Touran,8 CV, Rabat,Al Irfane,2020-03-12,01:24:45,143 000
+2018,70 000 , 74 999,Diesel,Renault,Clio,6 CV, Tanger,Centre ville,2020-03-11,23:24:20,30 000
+1986,0 , 4 999,Diesel,Mercedes-Benz,-,10 CV, Nador,Centre Ville,2020-03-11,18:53:07,29 000
+2018,65 000 , 69 999,Diesel,Kia,Rio,6 CV, Rabat,Agdal,2020-03-11,17:57:32,109 000
+2004,200 000 , 249 999,Diesel,Mercedes-Benz,Classe C,8 CV, Kénitra,Al Maghrib Al Arabi,2020-03-11,17:35:35,93 000
+2016,110 000 , 119 999,Diesel,Ford,Kuga,8 CV, Kénitra,Al Maghrib Al Arabi,2020-03-11,17:35:21,178 000
+2014,170 000 , 179 999,Diesel,Peugeot,Partner,6 CV, Kénitra,Al Maghrib Al Arabi,2020-03-11,17:35:10,103 000
+2015,5 000 , 9 999,Diesel,Renault,Kangoo,6 CV, Oujda,Autre secteur,2020-03-11,17:11:29,138 000
+2010,70 000 , 74 999,Essence,Hyundai,i 10,6 CV, Fès,Ben Souda,2020-03-11,16:49:58,57 000
+2018,50 000 , 54 999,Essence,Ford,Fiesta,7 CV, Marrakech,Massira 1,2020-03-11,16:37:22,93 000
+2014,150 000 , 159 999,Diesel,Skoda,Octavia,8 CV, Agadir,Centre Ville,2020-03-11,16:02:46,145 000
+2020,0 , 4 999,Hybride,Autres,Autres,-, Casablanca,Anfa,2020-03-11,15:34:29,35 000
+2018,65 000 , 69 999,Diesel,Renault,Clio,6 CV, Casablanca,Hay Mohammadi,2020-03-11,14:44:19,90 000
+2013,180 000 , 189 999,Diesel,Peugeot,308,6 CV, Casablanca,Belvédère,2020-03-11,14:35:52,89 000
+2014,95 000 , 99 999,Diesel,Ford,Fiesta,6 CV, Casablanca,Aïn Sebaâ,2020-03-11,14:34:43,97 000
+2011,170 000 , 179 999,Diesel,Land Rover,Freelander,8 CV, Casablanca,Belvédère,2020-03-11,14:31:48,115 000
+2008,140 000 , 149 999,Diesel,Fiat,GRANDE PUNTO,5 CV, Casablanca,Belvédère,2020-03-11,14:31:21,67 000
+2004,170 000 , 179 999,Essence,Honda,Jazz,8 CV, Casablanca,Belvédère,2020-03-11,14:30:53,50 000
+2008,160 000 , 169 999,Diesel,Peugeot,Partner,7 CV, Casablanca,Aïn Sebaâ,2020-03-11,14:30:27,59 000
+2013,190 000 , 199 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,Belvédère,2020-03-11,14:30:00,149 000
+2015,110 000 , 119 999,Diesel,Dacia,Logan,6 CV, Casablanca,Belvédère,2020-03-11,14:29:31,79 000
+2013,20 000 , 24 999,Essence,Citroen,C4,8 CV, Casablanca,Belvédère,2020-03-11,14:27:40,84 000
+2019,35 000 , 39 999,Diesel,Peugeot,3008,8 CV, Casablanca,Aïn Sebaâ,2020-03-11,14:03:37,287 000
+2015,65 000 , 69 999,Diesel,Citroen,Berlingo,6 CV, Casablanca,Aïn Sebaâ,2020-03-11,14:02:10,140 000
+2012,130 000 , 139 999,Diesel,BMW,Serie 5,12 CV, Casablanca,2 Mars,2020-03-11,13:42:41,255 000
+2017,60 000 , 64 999,Diesel,Dacia,Logan,6 CV, Tanger,Val Fleuri,2020-03-11,13:41:31,94 000
+2016,190 000 , 199 999,Diesel,Renault,Clio,7 CV, Tanger,Ben Dibane,2020-03-11,13:36:57,88 000
+2003,190 000 , 199 999,Diesel,Chrysler,-,9 CV, Tanger,Centre ville,2020-03-11,13:32:09,65 000
+2018,75 000 , 79 999,Diesel,Volvo,S60,8 CV, Casablanca,Anfa,2020-03-11,13:12:07,225 000
+2017,80 000 , 84 999,Diesel,BMW,Serie 4 coupé,8 CV, Casablanca,Maarif,2020-03-11,12:56:00,285 000
+2010,150 000 , 159 999,Diesel,Volkswagen,Polo,6 CV, Agadir,Autre secteur,2020-03-11,12:32:43,57 000
+2016,65 000 , 69 999,Diesel,Dacia,Logan,6 CV, Agadir,Hay Massira,2020-03-11,12:03:48,90 000
+2018,50 000 , 54 999,Diesel,Renault,Clio,6 CV, Rabat,Hay el Fath,2020-03-11,11:26:54,63 000
+2015,100 000 , 109 999,Diesel,Hyundai,Accent,6 CV, Casablanca,Oulfa,2020-03-11,11:09:02,99 000
+2015,100 000 , 109 999,Diesel,Fiat,Punto,5 CV, Casablanca,Hay Mohammadi,2020-03-11,11:03:49,72 000
+2017,0 , 4 999,Diesel,Nissan,NOTE,6 CV, Casablanca,Bernoussi,2020-03-11,10:47:08,110 000
+2019,5 000 , 9 999,Diesel,Land Rover,Range Rover,-, Tanger,Centre ville,2020-03-11,10:38:39,1 530 000
+2000,120 000 , 129 999,Diesel,Citroen,C15,7 CV, Rabat,Hay el Fath,2020-03-11,10:38:24,50 000
+2020,0 , 4 999,Diesel,Renault,Koleos,-, Casablanca,Aïn Sebaâ,2020-03-11,10:37:02,285 000
+1998,150 000 , 159 999,Diesel,Land Rover,Defender,10 CV, Marrakech,Sidi Ghanem,2020-03-11,10:30:37,280 000
+2019,25 000 , 29 999,Essence,Mercedes-Benz,Classe C,-, Tanger,Centre ville,2020-03-11,10:09:02,1 100 000
+2017,25 000 , 29 999,Diesel,Hyundai,-,9 CV, Tanger,Iberie,2020-03-11,10:05:50,330 000
+2007,250 000 , 299 999,Diesel,Toyota,Prado,12 CV, Tanger,Iberie,2020-03-11,10:05:23,135 000
+2015,70 000 , 74 999,Essence,Peugeot,301,6 CV, Marrakech,Massira,2020-03-11,10:03:00,68 000
+2009,200 000 , 249 999,Essence,Volkswagen,Polo,7 CV, Kénitra,Ouled Oujih,2020-03-11,09:42:33,61 000
+2017,70 000 , 74 999,Diesel,Peugeot,301,6 CV, Rabat,Autre secteur,2020-03-11,09:23:32,45 000
+2004,200 000 , 249 999,Essence,BMW,Serie 6,23 CV, Casablanca,Autre secteur,2020-03-11,09:11:58,89 000
+2015,200 000 , 249 999,Diesel,Dacia,Dokker,7 CV, Rabat,Hassan,2020-03-11,09:00:10,80 000
+2019,0 , 4 999,Diesel,Ssangyong,other,6 CV, Casablanca,Aïn Sebaâ,2020-03-11,08:05:34,169 500
+2017,70 000 , 74 999,Diesel,Peugeot,301,6 CV, Casablanca,Aïn Sebaâ,2020-03-11,08:00:33,89 000
+2019,0 , 4 999,Diesel,Ssangyong,other,6 CV, Casablanca,Aïn Sebaâ,2020-03-11,08:00:08,169 500
+2017,80 000 , 84 999,Diesel,Citroen,C-Elysée,6 CV, Casablanca,Aïn Sebaâ,2020-03-11,07:52:48,89 000
+2018,100 000 , 109 999,Diesel,Fiat,Punto,6 CV, Fès,Hay Mohammedi,2020-03-11,06:14:39,87 000
+2018,30 000 , 34 999,Diesel,Renault,Talisman,-, Casablanca,Aïn Sebaâ,2020-03-11,01:04:45,265 000
+2018,25 000 , 29 999,Diesel,Renault,Megane,-, Casablanca,Aïn Sebaâ,2020-03-11,01:04:30,210 000
+2015,0 , 4 999,Electrique,Renault,Twizy,-, Casablanca,Aïn Sebaâ,2020-03-11,01:04:15,79 000
+2017,20 000 , 24 999,Diesel,Renault,Kangoo,-, Casablanca,Aïn Sebaâ,2020-03-11,01:04:05,149 000
+2018,15 000 , 19 999,Diesel,Renault,Megane Sedan,-, Casablanca,Aïn Sebaâ,2020-03-11,01:03:50,213 000
+2017,35 000 , 39 999,Diesel,Renault,Megane,-, Casablanca,Aïn Sebaâ,2020-03-11,01:03:38,185 000
+2013,120 000 , 129 999,Diesel,Ford,Focus,6 CV, Rabat,Autre secteur,2020-03-10,23:18:19,30 000
+2009,350 000 , 399 999,Diesel,Volkswagen,Touareg,12 CV, Tétouan,Centre ville,2020-03-10,19:58:50,123 000
+2018,45 000 , 49 999,Essence,Fiat,Panda,6 CV, Marrakech,Massira,2020-03-10,18:32:53,60 000
+2016,90 000 , 94 999,Diesel,Maserati,other,12 CV, Casablanca,Anfa,2020-03-10,18:02:12,380 000
+2010,150 000 , 159 999,Diesel,Renault,Laguna,8 CV, Casablanca,Autre secteur,2020-03-10,17:11:58,142 000
+1992,180 000 , 189 999,Essence,BMW,-,9 CV, Tanger,Centre ville,2020-03-10,16:53:15,33 000
+2014,95 000 , 99 999,Diesel,Dacia,kangoo,6 CV, Rabat,Autre secteur,2020-03-10,16:17:09, 
+2019,10 000 , 14 999,Diesel,Nissan,Micra,6 CV, Casablanca,Bernoussi,2020-03-10,16:04:48,135 000
+2010,110 000 , 119 999,Essence,Suzuki,Celerio,6 CV, Marrakech,Massira 1,2020-03-10,15:43:55,48 000
+2018,40 000 , 44 999,Diesel,Nissan,Micra,6 CV, Casablanca,Bernoussi,2020-03-10,15:36:20,143 000
+1995,0 , 4 999,Diesel,Mercedes-Benz,250,8 CV, Marrakech,Massira 1,2020-03-10,15:26:13,55 000
+2007,180 000 , 189 999,Diesel,Ford,Galaxy,8 CV, Marrakech,Massira 1,2020-03-10,15:25:23,125 000
+2002,0 , 4 999,Diesel,Renault,19,7 CV, Marrakech,Massira 1,2020-03-10,15:24:26,48 000
+2015,100 000 , 109 999,Diesel,Nissan,Qashqai,6 CV, Marrakech,Massira 1,2020-03-10,15:23:46,165 000
+2006,300 000 , 349 999,Diesel,Mercedes-Benz,220,9 CV, Marrakech,Massira 1,2020-03-10,15:23:21,85 000
+2011,200 000 , 249 999,Diesel,Renault,Fluence,6 CV, Marrakech,Massira 1,2020-03-10,15:23:01,80 000
+2017,100 000 , 109 999,Diesel,Jeep,Grand Cherokee,12 CV, Marrakech,Massira 1,2020-03-10,15:22:33,240 000
+2008,200 000 , 249 999,Diesel,Volkswagen,GOLF 5,8 CV, Marrakech,Massira 1,2020-03-10,15:22:06,90 000
+2016,130 000 , 139 999,Diesel,Renault,Talisman,6 CV, Marrakech,Massira 1,2020-03-10,15:21:44,220 000
+2017,120 000 , 129 999,Diesel,Volkswagen,Polo,6 CV, Marrakech,Massira 1,2020-03-10,15:21:22,117 000
+2013,150 000 , 159 999,Diesel,Volkswagen,Touareg,12 CV, Marrakech,Massira 1,2020-03-10,15:21:03,150 000
+2015,120 000 , 129 999,Diesel,Nissan,NOTE,6 CV, Marrakech,Massira 1,2020-03-10,15:20:47,85 000
+2017,60 000 , 64 999,Diesel,Jaguar,XE,8 CV, Marrakech,Massira 1,2020-03-10,15:20:21,310 000
+2018,70 000 , 74 999,Diesel,Dacia,Duster,6 CV, Marrakech,Massira 1,2020-03-10,15:19:32,145 000
+2017,110 000 , 119 999,Diesel,Jeep,Renegade,8 CV, Mohammedia,La Colline,2020-03-10,15:17:50,198 000
+2018,25 000 , 29 999,Diesel,Citroen,DS3,6 CV, Casablanca,Aïn Sebaâ,2020-03-10,14:11:22,162 000
+2018,15 000 , 19 999,Essence,Citroen,C-Elysée,9 CV, Casablanca,Aïn Sebaâ,2020-03-10,14:05:28,138 000
+2018,15 000 , 19 999,Diesel,Citroen,DS4,6 CV, Casablanca,Aïn Sebaâ,2020-03-10,14:05:15,202 000
+2016,45 000 , 49 999,Diesel,Citroen,DS5,8 CV, Casablanca,Aïn Sebaâ,2020-03-10,14:04:52,215 000
+2019,0 , 4 999,Essence,Peugeot,108,6 CV, Casablanca,Aïn Sebaâ,2020-03-10,14:02:49,103 000
+2019,10 000 , 14 999,Diesel,Peugeot,508,8 CV, Casablanca,Aïn Sebaâ,2020-03-10,14:02:29,408 000
+2020,0 , 4 999,Electrique,Autres,Autres,-, Casablanca,Centre Ville,2020-03-10,14:01:40,128 000
+2011,110 000 , 119 999,Diesel,Ford,CONNECT,7 CV, Sidi Bennour,Toute la ville,2020-03-10,13:16:04,87 000
+2014,150 000 , 159 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,Autre secteur,2020-03-10,13:14:12,205 000
+2011,160 000 , 169 999,Essence,Opel,Astra,8 CV, Casablanca,Autre secteur,2020-03-10,12:29:41,85 000
+2013,95 000 , 99 999,Diesel,Jaguar,XF,9 CV, Casablanca,Autre secteur,2020-03-10,12:26:03,185 000
+2017,65 000 , 69 999,Diesel,Fiat,500,6 CV, Casablanca,Maarif,2020-03-10,11:52:05,100 000
+2013,200 000 , 249 999,Diesel,Land Rover,Range Rover,18 CV, Rabat,Autre secteur,2020-03-10,11:44:38,450 000
+2013,140 000 , 149 999,Diesel,Peugeot,208,6 CV, Agadir,Hay Massira,2020-03-10,11:16:01,83 000
+2017,95 000 , 99 999,Diesel,Fiat,Punto,5 CV, Marrakech,Massira 1,2020-03-10,10:57:28,87 000
+2013,120 000 , 129 999,Diesel,Land Rover,Range Rover Sport,11 CV, Kénitra,Ouled Oujih,2020-03-10,10:48:05,250 000
+2006,250 000 , 299 999,Diesel,Mercedes-Benz,Classe E,9 CV, Kénitra,Ouled Oujih,2020-03-10,10:32:21,110 000
+2016,130 000 , 139 999,Diesel,Dacia,Duster,6 CV, Rabat,Hay el Fath,2020-03-10,10:31:51,120 000
+2011,100 000 , 109 999,Diesel,Audi,Q5,-, Casablanca,Belvédère,2020-03-10,09:34:57,78 000
+2010,140 000 , 149 999,Diesel,Ford,Focus,6 CV, Fès,Ben Souda,2020-03-10,08:50:46,87 000
+2013,120 000 , 129 999,Diesel,Hyundai,ix 35,7 CV, Casablanca,Maarif,2020-03-10,08:16:35,168 000
+2004,190 000 , 199 999,Diesel,Mercedes-Benz,270,11 CV, Casablanca,Aïn Chock,2020-03-10,07:26:04,56 000
+2013,110 000 , 119 999,Diesel,Peugeot,Bipper,6 CV, Casablanca,Californie,2020-03-10,07:25:04,57 000
+1995,30 000 , 34 999,Diesel,Pontiac,other,22 CV, Rabat,Hay el Fath,2020-03-10,06:41:16,50 000
+2015,100 000 , 109 999,Diesel,Mitsubishi,L200,10 CV, Rabat,Hay el Fath,2020-03-10,06:39:50,125 000
+2003,350 000 , 399 999,Diesel,Toyota,Prado,-, Rabat,Hay el Fath,2020-03-10,06:39:22,95 000
+2011,200 000 , 249 999,Diesel,Renault,Kangoo,5 CV, Tinghir,Toute la ville,2020-03-09,20:48:03,65 000
+2016,55 000 , 59 999,Diesel,Citroen,C3,6 CV, Fès,Narjis,2020-03-09,19:25:51,96 000
+2017,70 000 , 74 999,Diesel,Audi,Q5,8 CV, Agadir,Autre secteur,2020-03-09,18:53:42,47 000
+2018,55 000 , 59 999,Diesel,Volkswagen,Polo,6 CV, Marrakech,Massira 1,2020-03-09,18:19:50,67 000
+2011,150 000 , 159 999,Diesel,Dodge,Avenger,8 CV, Casablanca,Anfa,2020-03-09,18:10:10,72 000
+2016,80 000 , 84 999,Diesel,Dacia,Sandero,6 CV, Rabat,Autre secteur,2020-03-09,17:44:05,53 000
+2009,110 000 , 119 999,Diesel,Volkswagen,Passat,-, Casablanca,Aïn Sebaâ,2020-03-09,17:42:10,92 000
+2011,100 000 , 109 999,Diesel,Ssangyong,Kyron,8 CV, Rabat,Massira,2020-03-09,17:34:29,108 000
+2014,160 000 , 169 999,Diesel,Volkswagen,Tiguan,8 CV, Rabat,Massira,2020-03-09,17:33:46,175 000
+2012,130 000 , 139 999,Diesel,Hyundai,ix 35,8 CV, Rabat,Massira,2020-03-09,17:33:14,158 000
+2010,65 000 , 69 999,Essence,Nissan,370Z,21 CV, Casablanca,Autre secteur,2020-03-09,17:30:30,140 000
+2015,130 000 , 139 999,Diesel,Mercedes-Benz,Classe C,9 CV, Casablanca,Autre secteur,2020-03-09,17:24:53,255 000
+2015,60 000 , 64 999,Diesel,Volkswagen,Tiguan,8 CV, Casablanca,Aïn Chock,2020-03-09,17:23:12,280 000
+2016,110 000 , 119 999,Diesel,Mercedes-Benz,Classe E,9 CV, Rabat,Autre secteur,2020-03-09,17:20:19,285 000
+2016,75 000 , 79 999,Diesel,Peugeot,308,6 CV, Casablanca,Autre secteur,2020-03-09,17:16:06,135 000
+2013,180 000 , 189 999,Diesel,Mercedes-Benz,Classe C,9 CV, Casablanca,Autre secteur,2020-03-09,17:13:46,180 000
+2017,50 000 , 54 999,Diesel,Volkswagen,GOLF 7,8 CV, Casablanca,Autre secteur,2020-03-09,17:06:59,175 000
+2017,35 000 , 39 999,Diesel,Audi,Q5,-, Rabat,Autre secteur,2020-03-09,14:36:22,100 000
+2015,75 000 , 79 999,Diesel,Mercedes-Benz,Classe C,9 CV, Casablanca,Autre secteur,2020-03-09,14:25:49,360 000
+2010,180 000 , 189 999,Diesel,Volkswagen,Caddy,8 CV, Rabat,Autre secteur,2020-03-09,13:52:51,135 000
+2015,85 000 , 89 999,Diesel,Volkswagen,GOLF 7,6 CV, Casablanca,2 Mars,2020-03-09,12:23:10,220 000
+2018,60 000 , 64 999,Diesel,Volkswagen,Caddy,8 CV, Casablanca,2 Mars,2020-03-09,12:22:25,270 000
+2014,90 000 , 94 999,Diesel,Volkswagen,Caddy,6 CV, Casablanca,2 Mars,2020-03-09,12:21:54,220 000
+2014,80 000 , 84 999,Diesel,Volkswagen,Caddy,7 CV, Casablanca,2 Mars,2020-03-09,12:21:27,200 000
+2016,75 000 , 79 999,Diesel,Volkswagen,Caddy,8 CV, Casablanca,2 Mars,2020-03-09,12:21:03,230 000
+2015,100 000 , 109 999,Diesel,Volkswagen,Tiguan,8 CV, Casablanca,2 Mars,2020-03-09,12:20:41,305 000
+2015,85 000 , 89 999,Diesel,Volkswagen,GOLF 7,8 CV, Casablanca,2 Mars,2020-03-09,12:20:18,230 000
+1999,35 000 , 39 999,Diesel,Fiat,Siena,7 CV, Mrir't,Toute la ville,2020-03-09,11:42:14,33 000
+2017,50 000 , 54 999,Diesel,Mercedes-Benz,Classe C,-, Casablanca,Maarif,2020-03-09,09:52:05,32 000
+2008,130 000 , 139 999,Essence,Chevrolet,Captiva,17 CV, Marrakech,Massira 1,2020-03-09,09:50:27,53 000
+2003,450 000 , 499 999,Diesel,Mercedes-Benz,Classe E,11 CV, Kénitra,Ouled Oujih,2020-03-09,09:28:34,65 000
+2009,50 000 , 54 999,Essence,Maserati,4200 GT,34 CV, Marrakech,Massar,2020-03-09,08:48:28,290 000
+2012,110 000 , 119 999,Essence,Ford,F150,34 CV, Casablanca,Maarif,2020-03-09,08:48:01,390 000
+2016,95 000 , 99 999,Essence,lancia,Delta,17 CV, Casablanca,Maarif,2020-03-09,08:46:41,195 000
+2019,5 000 , 9 999,Diesel,Renault,Clio,-, Casablanca,Aïn Sebaâ,2020-03-09,07:52:02,148 000
+2014,100 000 , 109 999,Diesel,Audi,Q5,-, Casablanca,Belvédère,2020-03-08,21:25:58,26 000
+2008,95 000 , 99 999,Essence,Suzuki,Vitara,9 CV, Rabat,Guich Oudaya,2020-03-08,21:14:52,56 000
+2017,35 000 , 39 999,Essence,Hyundai,i 10,6 CV, Marrakech,Azli,2020-03-08,19:15:05,51 000
+2017,140 000 , 149 999,Diesel,Mercedes-Benz,Vito,9 CV, Marrakech,Autre secteur,2020-03-08,18:39:06,280 000
+2001,190 000 , 199 999,Diesel,Renault,Clio,7 CV, Agadir,Hay Zaytoun,2020-03-08,18:33:15,47 000
+2012,180 000 , 189 999,Diesel,BMW,Serie 5,8 CV, Marrakech,Autre secteur,2020-03-08,18:26:17,195 000
+2005,200 000 , 249 999,Essence,mini,cooper,9 CV, Agadir,Autre secteur,2020-03-08,17:58:01,55 000
+2010,190 000 , 199 999,Diesel,BMW,Serie 3,8 CV, Marrakech,Autre secteur,2020-03-08,17:56:04,115 000
+2015,50 000 , 54 999,Diesel,Mercedes-Benz,Classe GLC,9 CV, Rabat,Autre secteur,2020-03-08,17:43:35,470 000
+2012,130 000 , 139 999,Diesel,Seat,Leon,6 CV, Agadir,Autre secteur,2020-03-08,16:38:53,120 000
+2008,190 000 , 199 999,Diesel,Land Rover,Freelander,9 CV, Rabat,Hay el Fath,2020-03-08,15:51:23,88 000
+2015,110 000 , 119 999,Diesel,Peugeot,508,8 CV, Rabat,Hay Nahda,2020-03-08,14:10:12,155 000
+2014,160 000 , 169 999,Diesel,Dacia,Duster,6 CV, Marrakech,Massira 1,2020-03-08,12:50:51,140 000
+2012,140 000 , 149 999,Diesel,BMW,Serie 5,8 CV, Rabat,Autre secteur,2020-03-08,12:30:26,220 000
+2013,200 000 , 249 999,Diesel,Toyota,Avensis,8 CV, Rabat,Autre secteur,2020-03-08,12:17:56,95 000
+2015,85 000 , 89 999,Diesel,Mercedes-Benz,Classe B,6 CV, Casablanca,Autre secteur,2020-03-08,11:46:41,185 000
+2015,140 000 , 149 999,Diesel,Renault,Clio,6 CV, Marrakech,Massira,2020-03-08,11:14:07,97 000
+2008,200 000 , 249 999,Diesel,Volkswagen,Touareg,12 CV, Agadir,Autre secteur,2020-03-08,11:13:54,87 000
+2017,80 000 , 84 999,Essence,Hyundai,i 10,6 CV, Marrakech,Massira 3,2020-03-08,11:13:28,71 000
+2016,90 000 , 94 999,Diesel,Dacia,Duster,6 CV, Marrakech,Massira,2020-03-08,11:03:35,120 000
+2014,150 000 , 159 999,Diesel,Renault,Megane 3,6 CV, Marrakech,Massira,2020-03-08,11:02:54,115 000
+2007,250 000 , 299 999,Diesel,Audi,Q7,12 CV, Agadir,Autre secteur,2020-03-08,10:36:03,93 000
+2019,10 000 , 14 999,Diesel,Renault,Clio,6 CV, Agadir,Hay Massira,2020-03-08,10:03:31,155 000
+2014,100 000 , 109 999,Diesel,Land Rover,Range Rover,12 CV, Fès,Agdal,2020-03-08,10:03:18,500 000
+2009,150 000 , 159 999,Essence,Honda,Accord,13 CV, Kénitra,Ouled Oujih,2020-03-08,09:59:45,78 000
+2015,100 000 , 109 999,Diesel,Volkswagen,Caddy,6 CV, Agadir,Agadir Oufella,2020-03-08,09:49:24,89 500
+2000,10 000 , 14 999,Diesel,Renault,Clio,6 CV, Souk El Arbaa,Toute la ville,2020-03-07,23:39:01,40 000
+2016,100 000 , 109 999,Diesel,Dacia,Duster,7 CV, Tétouan,Centre ville,2020-03-07,17:48:02,122 000
+2008,70 000 , 74 999,Essence,Mercedes-Benz,Classe S,31 CV, Casablanca,Anfa,2020-03-07,17:38:34,190 000
+2018,15 000 , 19 999,Hybride,Porsche,Panamera,17 CV, Casablanca,Maarif,2020-03-07,17:29:04,1 280 000
+2018,65 000 , 69 999,Diesel,Audi,Q7,17 CV, Casablanca,Maarif,2020-03-07,16:15:01,40 000
+2017,130 000 , 139 999,Diesel,Toyota,Yaris,-, Tanger,Médina,2020-03-07,15:38:18,130 000
+2015,70 000 , 74 999,Diesel,Renault,Scenic,-, Tanger,Médina,2020-03-07,14:59:15,50 000
+2014,100 000 , 109 999,Diesel,Renault,Scenic,6 CV, Fès,Route de Sefrou,2020-03-07,13:20:31,130 000
+2017,50 000 , 54 999,Diesel,Opel,-,7 CV, Rabat,Hay el Fath,2020-03-07,12:55:31,172 000
+2020,0 , 4 999,Diesel,Audi,Q8,12 CV, Casablanca,Gauthier,2020-03-07,12:20:24,29 000
+2016,95 000 , 99 999,Diesel,Hyundai,-,10 CV, Rabat,Hay el Fath,2020-03-07,11:14:03,73 000
+2015,95 000 , 99 999,Diesel,Land Rover,Range Rover,12 CV, Casablanca,Oasis,2020-03-07,11:03:36,80 000
+2010,150 000 , 159 999,Diesel,Citroen,-,8 CV, Rabat,Hay el Fath,2020-03-07,10:56:24,85 000
+2011,150 000 , 159 999,Essence,Porsche,-,21 CV, Rabat,Hay el Fath,2020-03-07,10:41:31,268 000
+2013,90 000 , 94 999,Essence,Ford,-,11 CV, Rabat,Hay el Fath,2020-03-07,10:35:09,76 000
+2017,90 000 , 94 999,Essence,Peugeot,108,6 CV, Kénitra,Ouled Oujih,2020-03-07,10:35:03,85 000
+2017,50 000 , 54 999,Essence,Opel,-,7 CV, Rabat,Hay el Fath,2020-03-07,10:24:44,98 000
+2017,80 000 , 84 999,Diesel,Volkswagen,Touareg,12 CV, Rabat,Autre secteur,2020-03-07,10:16:47,240 000
+1987,190 000 , 199 999,Diesel,Mitsubishi,pajero,8 CV, El Jadida,Centre,2020-03-07,10:12:53,40 000
+2017,90 000 , 94 999,Diesel,Toyota,Prado,12 CV, Casablanca,Zone Industrielle,2020-03-06,21:36:13,340 000
+2018,55 000 , 59 999,Diesel,Peugeot,208,6 CV, Casablanca,Zone Industrielle,2020-03-06,21:35:34,98 000
+2004,170 000 , 179 999,Essence,Jaguar,XJ6,16 CV, Tétouan,Safir,2020-03-06,21:26:51,35 000
+2018,55 000 , 59 999,Diesel,Land Rover,Range Rover Evoque,8 CV, Casablanca,Derb Ghallef,2020-03-06,18:46:58,27 000
+2018,65 000 , 69 999,Diesel,Dacia,-,6 CV, Casablanca,Aïn Chock,2020-03-06,18:45:31,155 000
+2016,100 000 , 109 999,Diesel,Land Rover,Range Rover Sport,12 CV, Casablanca,Sidi Bernoussi,2020-03-06,17:36:41,14 000
+2017,65 000 , 69 999,Diesel,Renault,Clio,6 CV, El Jadida,Najd,2020-03-06,16:44:39,200 000
+2008,200 000 , 249 999,Diesel,BMW,Serie 3,8 CV, Casablanca,Sidi Othmane,2020-03-06,16:19:10,85 000
+2017,200 000 , 249 999,Diesel,Nissan,EVALIA,6 CV, Marrakech,Massira 1,2020-03-06,15:43:29,130 000
+2004,250 000 , 299 999,Diesel,Ssangyong,Rexton,10 CV, Casablanca,Oulfa,2020-03-06,15:29:53,55 000
+2016,120 000 , 129 999,Diesel,Seat,Ibiza,6 CV, Salé,Tabriquet,2020-03-06,15:12:46,110 000
+2017,50 000 , 54 999,Essence,Hyundai,i 10,6 CV, Mohammedia,La Colline,2020-03-06,14:47:16,74 000
+2012,110 000 , 119 999,Diesel,Mercedes-Benz,Classe E,8 CV, Casablanca,Maarif,2020-03-06,12:28:46,45 000
+2018,25 000 , 29 999,Diesel,Renault,Kadjar,-, Casablanca,Aïn Sebaâ,2020-03-06,12:07:03,222 000
+2016,50 000 , 54 999,Diesel,mini,CLUBMAN,6 CV, Casablanca,Lissasfa,2020-03-06,11:15:17,104 000
+2012,200 000 , 249 999,Essence,Hyundai,i 10,6 CV, Marrakech,Massira,2020-03-06,08:01:56,60 000
+2017,30 000 , 34 999,Diesel,Dacia,Duster,6 CV, Mohammedia,La Colline,2020-03-06,07:41:22,135 000
+2008,10 000 , 14 999,Diesel,Dacia,Logan,7 CV, Tanger,Ben Dibane,2020-03-05,21:59:25,55 000
+2004,180 000 , 189 999,Diesel,Mercedes-Benz,220,9 CV, Fès,Bad Boujloud,2020-03-05,20:00:02,89 000
+2016,170 000 , 179 999,Diesel,Volkswagen,Caddy,6 CV, Agadir,Autre secteur,2020-03-05,19:16:56,47 000
+2009,150 000 , 159 999,Essence,Kia,Picanto,6 CV, Marrakech,Azzouzia,2020-03-05,18:04:45,62 000
+2017,90 000 , 94 999,Diesel,Dacia,Duster,6 CV, Rabat,Hay el Fath,2020-03-05,15:52:55,104 000
+2003,200 000 , 249 999,Diesel,Toyota,Prado,12 CV, Tanger,Centre ville,2020-03-05,15:29:13,60 000
+2016,70 000 , 74 999,Essence,Hyundai,i 10,5 CV, Casablanca,Aïn Chock,2020-03-05,15:08:02,76 000
+2014,190 000 , 199 999,Diesel,Audi,Q5,12 CV, Salé,Tabriquet,2020-03-05,13:33:02,33 000
+2014,120 000 , 129 999,Diesel,Citroen,C4,6 CV, Fès,Route de Sefrou,2020-03-05,13:15:53,108 000
+2011,130 000 , 139 999,Essence,Kia,Picanto,6 CV, Casablanca,Oulfa,2020-03-05,11:38:11,25 000
+2015,140 000 , 149 999,Diesel,Dacia,Logan,6 CV, Casablanca,Hay Mohammadi,2020-03-05,11:02:54,68 000
+2012,120 000 , 129 999,Diesel,Hyundai,ix 35,8 CV, Agadir,Hay Zaytoun,2020-03-05,11:01:42,50 000
+2012,180 000 , 189 999,Diesel,Audi,A3,6 CV, Agadir,Hay Zaytoun,2020-03-05,10:55:17,44 000
+2018,35 000 , 39 999,Diesel,Renault,Kadjar,-, Casablanca,Aïn Sebaâ,2020-03-05,10:20:59,205 000
+2015,0 , 4 999,Diesel,Renault,Kangoo,6 CV, Casablanca,Aïn Sebaâ,2020-03-05,10:14:38,109 000
+2014,100 000 , 109 999,Diesel,Dacia,Duster,6 CV, Agadir,Hay Dakhla,2020-03-05,10:14:03,75 000
+2011,100 000 , 109 999,Diesel,Ford,Fiesta,6 CV, Agadir,Hay Massira,2020-03-05,10:07:32,93 000
+2011,160 000 , 169 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,Quartier des Hôpitaux,2020-03-05,10:02:06,67 000
+2015,80 000 , 84 999,Diesel,Jeep,Wrangler,11 CV, Casablanca,Bourgogne,2020-03-05,09:56:27,269 000
+2012,140 000 , 149 999,Diesel,Honda,CR-V,9 CV, Casablanca,Bourgogne,2020-03-05,09:56:01,138 000
+2011,140 000 , 149 999,Essence,Renault,Latitude,11 CV, Casablanca,Al Qods,2020-03-05,08:49:21,63 000
+2015,75 000 , 79 999,Diesel,Volkswagen,Touran,8 CV, Casablanca,2 Mars,2020-03-05,08:41:05,230 000
+2019,10 000 , 14 999,Diesel,Mercedes-Benz,Classe GLC,8 CV, Casablanca,2 Mars,2020-03-05,08:38:22,780 000
+2018,60 000 , 64 999,Diesel,Peugeot,208,6 CV, Casablanca,Zone Industrielle,2020-03-05,08:28:04,98 000
+2014,150 000 , 159 999,Essence,Peugeot,301,6 CV, Agadir,Le centre-ville,2020-03-04,18:49:19,59 000
+2014,100 000 , 109 999,Diesel,Mitsubishi,L200,10 CV, Tanger,Centre ville,2020-03-04,17:27:18,69 000
+1998,200 000 , 249 999,Essence,Honda,Civic,9 CV, Casablanca,Sbata,2020-03-04,16:34:32,34 000
+2015,140 000 , 149 999,Diesel,Dacia,Sandero,6 CV, Marrakech,Massira,2020-03-04,16:04:36,80 000
+2014,100 000 , 109 999,Diesel,Dacia,Sandero,6 CV, Marrakech,Massira,2020-03-04,15:56:13,85 000
+2015,70 000 , 74 999,Diesel,Mercedes-Benz,Classe C,-, Casablanca,Les Princesses,2020-03-04,15:20:11,58 000
+2013,100 000 , 109 999,Essence,Chevrolet,Aveo,-, Fès,Ancienne Médina,2020-03-04,14:56:48,50 000
+2017,75 000 , 79 999,Diesel,Dacia,-,6 CV, Tanger,Iberie,2020-03-04,12:19:13,155 000
+2015,80 000 , 84 999,Diesel,BMW,Serie 4 coupé,8 CV, Rabat,Hay Riad,2020-03-04,12:18:08,285 000
+2015,90 000 , 94 999,Diesel,Volkswagen,SHARAN,8 CV, Tanger,Iberie,2020-03-04,12:17:52,265 000
+2016,85 000 , 89 999,Diesel,Dacia,Duster,-, Casablanca,2 Mars,2020-03-04,11:50:02,72 000
+2017,50 000 , 54 999,Essence,Hyundai,i 10,4 CV, Agadir,Hay Qods,2020-03-04,10:33:28,83 000
+1999,0 , 4 999,Diesel,Mercedes-Benz,-,11 CV, Nador,Centre Ville,2020-03-04,10:10:13,28 000
+2010,110 000 , 119 999,Essence,Renault,Clio,11 CV, Kénitra,Ouled Oujih,2020-03-04,09:57:17,75 000
+2002,170 000 , 179 999,Diesel,Citroen,-,7 CV, Rabat,Autre secteur,2020-03-04,08:40:31,68 000
+2001,190 000 , 199 999,Essence,Fiat,-,6 CV, Rabat,Autre secteur,2020-03-04,08:38:29,32 000
+2012,85 000 , 89 999,Diesel,Peugeot,-,6 CV, Rabat,Autre secteur,2020-03-04,08:35:45,83 000
+2013,170 000 , 179 999,Essence,Volkswagen,-,6 CV, Rabat,Autre secteur,2020-03-04,08:32:41,88 000
+2008,45 000 , 49 999,Essence,Jaguar,XK8,28 CV, Marrakech,Massar,2020-03-04,08:11:54,260 000
+2017,70 000 , 74 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,Maarif,2020-03-04,08:11:24,265 000
+2008,190 000 , 199 999,Diesel,Toyota,Prado,11 CV, Casablanca,Maarif,2020-03-04,08:10:42,115 000
+2015,95 000 , 99 999,Diesel,Land Rover,Range Rover,12 CV, Rabat,Hay Riad,2020-03-03,19:29:08,102 000
+2017,40 000 , 44 999,Diesel,Peugeot,Partner,6 CV, Rabat,Autre secteur,2020-03-03,17:32:19,130 000
+2007,250 000 , 299 999,Diesel,Volkswagen,Touran,8 CV, Nador,Centre Ville,2020-03-03,17:26:38,115 000
+2013,150 000 , 159 999,Diesel,Audi,A3,8 CV, Casablanca,Maarif,2020-03-03,16:35:48,97 000
+2019,0 , 4 999,Essence,Volkswagen,Polo,6 CV, Casablanca,Maarif,2020-03-03,14:56:09,32 000
+2013,100 000 , 109 999,Diesel,Peugeot,Tepee,8 CV, Kénitra,El Haddada,2020-03-03,14:33:36,107 000
+2014,90 000 , 94 999,Essence,Ford,Fiesta,6 CV, Rabat,Autre secteur,2020-03-03,13:37:06,37 000
+1992,120 000 , 129 999,Essence,Renault,R4,6 CV, Kénitra,Bab Fès,2020-03-03,12:54:57,30 000
+2014,95 000 , 99 999,Diesel,Land Rover,Range Rover Evoque,9 CV, Casablanca,Autre secteur,2020-03-03,11:41:25,255 000
+2015,110 000 , 119 999,Diesel,Volkswagen,Tiguan,8 CV, Oujda,Centre Ville,2020-03-03,11:27:26,260 000
+2017,95 000 , 99 999,Diesel,Ford,Kuga,8 CV, Oujda,Centre Ville,2020-03-03,11:27:15,173 000
+2015,140 000 , 149 999,Diesel,Dacia,Dokker,6 CV, Chefchaouen,Toute la ville,2020-03-03,10:29:52,99 000
+2013,150 000 , 159 999,Diesel,Hyundai,-,9 CV, Tanger,Centre ville,2020-03-03,10:10:08,170 000
+2011,160 000 , 169 999,Essence,Volkswagen,Polo,7 CV, Rabat,Autre secteur,2020-03-03,10:04:08,75 000
+2012,120 000 , 129 999,Diesel,Land Rover,Range Rover Evoque,8 CV, Rabat,Hay el Fath,2020-03-03,10:01:52,270 000
+2010,150 000 , 159 999,Diesel,Hyundai,i 30,6 CV, Rabat,Hay Riad,2020-03-03,09:45:09,87 000
+2016,95 000 , 99 999,Diesel,Porsche,Cayenne,12 CV, Tanger,Tanger City Center,2020-03-03,08:49:24,560 000
+2014,45 000 , 49 999,Diesel,Citroen,Nemo,6 CV, Casablanca,Al Qods,2020-03-02,20:51:44,62 000
+2011,110 000 , 119 999,Essence,Mazda,2,8 CV, Meknès,Zitoune,2020-03-02,18:49:32,42 000
+2012,140 000 , 149 999,Diesel,Hyundai,Accent,6 CV, Rabat,Hay el Fath,2020-03-02,16:24:51,34 000
+2008,160 000 , 169 999,Diesel,Volkswagen,Passat,8 CV, Kénitra,Ouled Oujih,2020-03-02,14:18:40,120 000
+2009,150 000 , 159 999,Essence,Kia,Picanto,5 CV, Agadir,Hay Massira,2020-03-02,12:08:48,64 000
+2011,140 000 , 149 999,Diesel,Ford,Focus,6 CV, Casablanca,Belvédère,2020-03-02,11:51:47,100 000
+2016,75 000 , 79 999,Diesel,Mercedes-Benz,Classe C,6 CV, Casablanca,Maarif,2020-03-02,11:04:56,35 000
+2015,60 000 , 64 999,Diesel,Peugeot,301,6 CV, Chtouka,Toute la ville,2020-03-02,10:55:15,90 000
+2019,20 000 , 24 999,Diesel,Renault,Megane,-, Casablanca,Aïn Sebaâ,2020-03-02,10:51:00,204 000
+2010,190 000 , 199 999,Diesel,Volkswagen,Touareg,-, Casablanca,Maarif,2020-03-02,10:36:12,66 000
+2013,95 000 , 99 999,Diesel,Renault,Clio,-, Casablanca,Aïn Sebaâ,2020-03-02,10:20:59,104 000
+2005,190 000 , 199 999,Diesel,Mercedes-Benz,Classe B,8 CV, Casablanca,Aïn Sebaâ,2020-03-02,09:00:19,78 000
+2016,120 000 , 129 999,Diesel,Fiat,Punto,6 CV, Essaouira,Toute la ville,2020-03-02,00:15:10,65 000
+2018,25 000 , 29 999,Diesel,Land Rover,Range Rover,12 CV, Rabat,Agdal,2020-03-01,16:46:38,50 000
+2012,200 000 , 249 999,Diesel,Volvo,XC60,8 CV, Kénitra,Al Maghrib Al Arabi,2020-03-01,11:39:05,115 000
+2012,80 000 , 84 999,Essence,Land Rover,Range Rover Evoque,11 CV, Marrakech,Autre secteur,2020-03-01,11:34:10,200 000
+2016,70 000 , 74 999,Diesel,BMW,X3,8 CV, Casablanca,Autre secteur,2020-03-01,11:32:46,298 000
+2012,130 000 , 139 999,Diesel,Volvo,XC60,8 CV, Casablanca,Autre secteur,2020-03-01,11:32:16,155 000
+2018,50 000 , 54 999,Diesel,Audi,A3,6 CV, Casablanca,Autre secteur,2020-03-01,11:29:34,235 000
+2015,120 000 , 129 999,Diesel,Volkswagen,PASSAT CC,8 CV, Casablanca,Autre secteur,2020-03-01,11:26:57,220 000
+2015,85 000 , 89 999,Diesel,Ford,Fusion,8 CV, Casablanca,Autre secteur,2020-03-01,11:21:25,190 000
+2016,50 000 , 54 999,Diesel,Mercedes-Benz,Classe C,9 CV, Rabat,Autre secteur,2020-03-01,11:20:39,400 000
+2016,75 000 , 79 999,Diesel,Mercedes-Benz,Classe CLA,9 CV, Marrakech,Autre secteur,2020-03-01,11:15:45,300 000
+2016,60 000 , 64 999,Diesel,Renault,Kadjar,6 CV, Casablanca,Autre secteur,2020-03-01,09:38:10,169 000
+2004,200 000 , 249 999,Diesel,Mercedes-Benz,270,11 CV, Nador,Centre Ville,2020-02-29,17:14:11,56 000
+2008,170 000 , 179 999,Diesel,Toyota,Corolla,5 CV, Casablanca,Aïn Sebaâ,2020-02-29,15:36:05,80 000
+2016,65 000 , 69 999,Essence,mini,cooper,9 CV, Rabat,Hay Riad,2020-02-29,15:13:57,72 000
+2009,100 000 , 109 999,Diesel,Volkswagen,GOLF 6,-, Agadir,Hay Qods,2020-02-29,13:10:01,57 000
+2015,95 000 , 99 999,Diesel,Dacia,Duster,6 CV, Fès,Narjis,2020-02-29,11:47:11,100 000
+2012,130 000 , 139 999,Diesel,Mitsubishi,pajero sport,10 CV, Fès,Narjis,2020-02-29,11:46:34,105 000
+2017,65 000 , 69 999,Diesel,Hyundai,Santa Fe,9 CV, Casablanca,Lissasfa,2020-02-29,11:26:22,22 000
+2018,90 000 , 94 999,Diesel,Land Rover,Velar,8 CV, Casablanca,Maarif,2020-02-29,10:51:19,90 000
+2016,100 000 , 109 999,Diesel,Citroen,C4 CACTUS,6 CV, Rabat,Hay el Fath,2020-02-29,10:05:34,88 000
+1980 ou plus ancien,25 000 , 29 999,Essence,Jeep,other,13 CV, Casablanca,Aïn Sebaâ,2020-02-29,08:05:52,270 000
+2012,120 000 , 129 999,Diesel,BMW,Serie 5,8 CV, Casablanca,Autre secteur,2020-02-28,17:13:15,35 000
+2016,100 000 , 109 999,Diesel,Citroen,C4 CACTUS,6 CV, Kénitra,Al Maghrib Al Arabi,2020-02-28,16:47:42,148 000
+2012,160 000 , 169 999,Diesel,Mercedes-Benz,Classe C,9 CV, Tanger,Val Fleuri,2020-02-28,16:17:44,235 000
+2013,100 000 , 109 999,Diesel,Volkswagen,Caddy,-, Casablanca,Aïn Chock,2020-02-28,15:04:43,157 000
+2009,180 000 , 189 999,Essence,Mazda,CX-9,21 CV, Tanger,Centre ville,2020-02-28,13:56:30,75 000
+2012,190 000 , 199 999,Diesel,Mercedes-Benz,Classe C,9 CV, Rabat,Autre secteur,2020-02-28,13:03:56,190 000
+1999,200 000 , 249 999,Diesel,Ssangyong,FAMILY,10 CV, Nador,Al aroui,2020-02-28,12:29:55,55 000
+2011,100 000 , 109 999,Diesel,Peugeot,206,6 CV, Fès,Route de Meknes,2020-02-28,11:23:55, 
+2019,0 , 4 999,Diesel,Renault,Kadjar,-, Casablanca,Aïn Sebaâ,2020-02-28,11:06:00,193 500
+2008,15 000 , 19 999,Diesel,Dacia,Logan,6 CV, Marrakech,M'Hamid,2020-02-28,11:05:36,48 000
+2015,160 000 , 169 999,Diesel,Renault,Clio,6 CV, Marrakech,Autre secteur,2020-02-28,10:19:27,100 000
+2016,80 000 , 84 999,Diesel,Renault,Clio,6 CV, Marrakech,Autre secteur,2020-02-28,09:03:21,95 000
+1994,20 000 , 24 999,Diesel,Peugeot,306,8 CV, Khemisset,Toute la ville,2020-02-27,23:57:48,110 000
+2010,100 000 , 109 999,Diesel,BMW,Serie 5,12 CV, Casablanca,Autre secteur,2020-02-27,17:45:45,155 000
+2014,60 000 , 64 999,Diesel,Dacia,Duster,6 CV, Casablanca,Autre secteur,2020-02-27,17:31:13,110 000
+2016,95 000 , 99 999,Essence,Hyundai,i 10,6 CV, Tanger,Val Fleuri,2020-02-27,16:34:17,69 000
+2018,20 000 , 24 999,Diesel,Peugeot,2008,6 CV, Casablanca,Aïn Sebaâ,2020-02-27,16:17:37,173 000
+2017,60 000 , 64 999,Diesel,Dacia,Duster,6 CV, Fès,Centre,2020-02-27,15:05:48,63 000
+2011,160 000 , 169 999,Diesel,Dacia,Logan,6 CV, Kénitra,Ouled Oujih,2020-02-27,15:00:26,69 000
+2014,100 000 , 109 999,Diesel,Land Rover,Range Rover Sport,12 CV, Rabat,Agdal,2020-02-27,13:05:46, 
+2015,95 000 , 99 999,Diesel,Chevrolet,Cruze,8 CV, Casablanca,Autre secteur,2020-02-27,12:00:34,100 000
+2010,65 000 , 69 999,Essence,Ferrari,California,-, Casablanca,Maarif,2020-02-27,10:55:20,45 000
+2013,60 000 , 64 999,Essence,Mazda,6,11 CV, Casablanca,Autre secteur,2020-02-27,10:10:04,105 000
+2014,130 000 , 139 999,Diesel,Audi,A4,8 CV, Rabat,Autre secteur,2020-02-27,10:09:14,185 000
+2011,80 000 , 84 999,Essence,Fiat,500,8 CV, Marrakech,Autre secteur,2020-02-27,10:07:29,85 000
+2019,25 000 , 29 999,Diesel,Dacia,Duster,6 CV, Marrakech,Azli,2020-02-27,08:39:24,59 000
+2016,90 000 , 94 999,Diesel,Honda,Civic,6 CV, Rabat,Autre secteur,2020-02-26,21:46:55,57 000
+2016,95 000 , 99 999,Diesel,Audi,Q7,12 CV, Casablanca,Derb Ghallef,2020-02-26,17:22:24,155 000
+2018,5 000 , 9 999,Diesel,Peugeot,2008,6 CV, Casablanca,Aïn Sebaâ,2020-02-26,16:11:58,173 000
+2017,70 000 , 74 999,Diesel,BMW,Serie 5,8 CV, Casablanca,Derb Ghallef,2020-02-26,13:53:30,90 000
+2007,170 000 , 179 999,Diesel,Renault,-,7 CV, Tétouan,Centre ville,2020-02-26,13:40:46,76 000
+2008,140 000 , 149 999,Diesel,Kia,Sportage,8 CV, Rabat,Yacoub El Mansour,2020-02-26,12:59:42,85 000
+2002,80 000 , 84 999,Essence,Porsche,Boxster,15 CV, Casablanca,Mers Sultan,2020-02-26,12:50:47,148 000
+2012,140 000 , 149 999,Diesel,BMW,Serie 6,12 CV, Casablanca,Route d'El Jadida,2020-02-26,11:44:01,20 000
+2012,140 000 , 149 999,Diesel,Audi,A6,8 CV, Casablanca,Autre secteur,2020-02-26,11:03:39,92 000
+2020,0 , 4 999,Diesel,Audi,Q8,-, Rabat,Agdal,2020-02-26,10:25:56,130 000
+2004,250 000 , 299 999,Diesel,Volkswagen,Polo,8 CV, Rabat,Autre secteur,2020-02-26,10:09:34,42 000
+2006,120 000 , 129 999,Diesel,Jeep,Cherokee,11 CV, Casablanca,Laimoune,2020-02-26,09:52:05,85 000
+2013,35 000 , 39 999,Essence,Ford,Fiesta,6 CV, Tétouan,Safir,2020-02-26,09:36:52,53 000
+2013,160 000 , 169 999,Diesel,Ford,C-Max,6 CV, El Jadida,Hay Essalam,2020-02-26,07:24:30,115 000
+2020,0 , 4 999,Diesel,Land Rover,Range Rover Sport,-, Casablanca,Aïn Chock,2020-02-25,20:43:43,35 000
+2014,95 000 , 99 999,Diesel,Dacia,Logan,6 CV, Rabat,Autre secteur,2020-02-25,17:25:41,120 000
+2012,140 000 , 149 999,Diesel,Mercedes-Benz,Classe E,9 CV, Casablanca,Sidi Bernoussi,2020-02-25,14:24:54,185 000
+2015,140 000 , 149 999,Diesel,Dacia,Logan,6 CV, Casablanca,Aïn Diab,2020-02-25,14:17:27,72 000
+2014,95 000 , 99 999,Essence,Fiat,Punto,7 CV, Rabat,Autre secteur,2020-02-25,13:50:03,75 000
+2019,40 000 , 44 999,Diesel,Ford,Focus,8 CV, Casablanca,Maarif,2020-02-25,10:27:09,88 000
+2016,100 000 , 109 999,Diesel,Renault,Clio,6 CV, Marrakech,Centre Ville,2020-02-25,10:22:54,103 000
+1991,300 000 , 349 999,Diesel,Toyota,Land Cruiser,10 CV, Marrakech,Centre Ville,2020-02-25,10:21:26,46 000
+2013,85 000 , 89 999,Diesel,Peugeot,Bipper,6 CV, Casablanca,Aïn Chock,2020-02-25,08:26:52,57 000
+1983,5 000 , 9 999,Diesel,Mercedes-Benz,240,10 CV, Casablanca,Bournazil,2020-02-24,23:08:29,45 000
+2019,25 000 , 29 999,Diesel,Ford,-,6 CV, Rabat,Hay Riad,2020-02-24,17:15:27,20 000
+2014,85 000 , 89 999,Diesel,BMW,X1,8 CV, Rabat,Hay el Fath,2020-02-24,16:10:38,27 000
+2015,80 000 , 84 999,Diesel,Mercedes-Benz,220,8 CV, Rabat,Autre secteur,2020-02-24,15:38:14,55 000
+2015,95 000 , 99 999,Diesel,Peugeot,-,6 CV, Tanger,Iberie,2020-02-24,15:08:53,145 000
+2014,120 000 , 129 999,Diesel,Dacia,Logan,6 CV, Berrechid,Toute la ville,2020-02-24,13:52:56,85 000
+2009,180 000 , 189 999,Essence,Kia,Picanto,5 CV, Agadir,Hay Massira,2020-02-24,11:01:38,55 000
+2010,140 000 , 149 999,Diesel,Opel,Insignia,8 CV, Casablanca,Autre secteur,2020-02-24,10:19:03,88 000
+2011,110 000 , 119 999,Essence,Hyundai,Genesis,11 CV, Rabat,Autre secteur,2020-02-24,09:36:30,80 000
+2014,100 000 , 109 999,Diesel,Peugeot,3008,6 CV, Tétouan,Autre secteur,2020-02-23,23:42:25,112 000
+1997,120 000 , 129 999,Essence,Autres,Autres,-, Sidi Kacem,Toute la ville,2020-02-23,20:01:19, 
+1991,60 000 , 64 999,Diesel,Ford,other,7 CV, Chefchaouen,Toute la ville,2020-02-23,16:41:35,25 000
+2017,100 000 , 109 999,Essence,Dacia,Logan,6 CV, Marrakech,Hay Al Bahja,2020-02-23,12:30:54,92 000
+2018,75 000 , 79 999,Diesel,Hyundai,Accent,6 CV, Rabat,Autre secteur,2020-02-23,10:56:24,49 000
+2017,55 000 , 59 999,Diesel,Citroen,C3,6 CV, Agadir,Hay Massira,2020-02-23,09:56:34,133 000
+2011,170 000 , 179 999,Diesel,Opel,Astra,7 CV, Casablanca,Autre secteur,2020-02-23,09:09:56,97 000
+2012,120 000 , 129 999,Diesel,Land Rover,Range Rover Sport,12 CV, Casablanca,Maarif,2020-02-22,15:51:44, 
+2019,0 , 4 999,Diesel,Dacia,Sandero,6 CV, Khouribga,Toute la ville,2020-02-22,14:12:29,32 000
+2013,100 000 , 109 999,Essence,Alfa Romeo,Brera,12 CV, Rabat,Hay el Fath,2020-02-22,13:18:28,96 000
+2014,100 000 , 109 999,Diesel,Fiat,Punto,5 CV, Béni Mellal,Toute la ville,2020-02-22,12:48:25,72 000
+2018,45 000 , 49 999,Diesel,Renault,Megane,8 CV, Casablanca,Maarif,2020-02-22,11:33:13,55 000
+2005,0 , 4 999,Diesel,Fiat,Palio,6 CV, Mohammedia,El Alia,2020-02-22,11:03:25,40 000
+2017,110 000 , 119 999,Diesel,Dacia,elantra,6 CV, Agadir,Hay Zaytoun,2020-02-22,10:38:12,29 000
+2018,35 000 , 39 999,Diesel,Volkswagen,COCCINELLE,8 CV, Casablanca,Laimoune,2020-02-22,09:17:00,228 000
+2014,100 000 , 109 999,Diesel,Volkswagen,GOLF 7,8 CV, Rabat,Hay Nahda,2020-02-22,08:32:48,145 000
+2001,190 000 , 199 999,Diesel,Renault,Megane,7 CV, Fès,Zouagha,2020-02-21,19:43:35,53 000
+2011,200 000 , 249 999,Diesel,Mercedes-Benz,Classe C,8 CV, Tanger,Centre ville,2020-02-21,19:12:32,175 000
+2019,40 000 , 44 999,Diesel,Ford,Transit,9 CV, Casablanca,Oulfa,2020-02-21,18:57:47,275 000
+2020,0 , 4 999,Hybride,Porsche,Cayenne,-, Rabat,Agdal,2020-02-21,17:20:04,30 000
+2011,170 000 , 179 999,Diesel,Porsche,Cayenne,12 CV, Meknès,Hamria,2020-02-21,17:04:57,175 000
+2012,150 000 , 159 999,Diesel,Dacia,Duster,6 CV, Tétouan,Centre ville,2020-02-21,13:19:02,102 000
+2008,200 000 , 249 999,Diesel,Mercedes-Benz,Classe C,9 CV, Casablanca,Aïn Chock,2020-02-21,12:21:57,150 000
+2018,50 000 , 54 999,Diesel,Nissan,Micra,6 CV, Rabat,Hay el Fath,2020-02-21,11:46:25,128 000
+2000,190 000 , 199 999,Essence,Mercedes-Benz,CLASSE ML,20 CV, Fès,Agdal,2020-02-21,06:59:26,49 000
+2014,190 000 , 199 999,Diesel,Mercedes-Benz,Sprinter,9 CV, Tétouan,Safir,2020-02-21,00:03:21,34 000
+2018,110 000 , 119 999,Diesel,Renault,Talisman,-, Oujda,Centre Ville,2020-02-20,18:55:02,240 000
+2016,70 000 , 74 999,Diesel,BMW,Serie 1,8 CV, Rabat,Hay el Fath,2020-02-20,17:06:29,39 000
+2017,95 000 , 99 999,Diesel,Renault,Clio,6 CV, Casablanca,Anfa,2020-02-20,16:22:36,100 000
+2017,85 000 , 89 999,Diesel,Volkswagen,Caddy,6 CV, Casablanca,Aïn Chock,2020-02-20,15:38:11,140 000
+2015,95 000 , 99 999,Diesel,Audi,A3,8 CV, Rabat,Yacoub El Mansour,2020-02-20,13:47:17,108 000
+2010,130 000 , 139 999,Diesel,Land Rover,Range Rover,-, Rabat,Hay el Fath,2020-02-20,12:58:26,110 000
+2018,70 000 , 74 999,Diesel,Renault,Clio,6 CV, Casablanca,Hay Mohammadi,2020-02-20,10:40:49,55 000
+1993,300 000 , 349 999,Diesel,Toyota,Corolla,8 CV, Oujda,Centre Ville,2020-02-20,10:33:56,29 000
+2017,80 000 , 84 999,Diesel,Peugeot,Partner,6 CV, Casablanca,Autre secteur,2020-02-20,10:01:25,130 000
+2017,110 000 , 119 999,Diesel,Fiat,Punto,6 CV, Marrakech,Massira 1,2020-02-20,09:06:27,88 000
+2014,95 000 , 99 999,Diesel,Peugeot,308,6 CV, Rabat,Autre secteur,2020-02-19,21:03:29,40 000
+2009,180 000 , 189 999,Diesel,Volkswagen,Touareg,11 CV, Casablanca,Beauséjour,2020-02-19,18:40:53,30 000
+2014,35 000 , 39 999,Diesel,Land Rover,Range Rover Evoque,8 CV, Fès,Route d'Immouzere,2020-02-19,17:23:08,22 000
+2017,50 000 , 54 999,Diesel,Hyundai,Accent,6 CV, Fès,Centre,2020-02-19,14:33:01,18 000
+2012,130 000 , 139 999,Diesel,Renault,Megane 3,6 CV, Tanger,Centre ville,2020-02-19,14:23:27,100 000
+2013,65 000 , 69 999,Diesel,Dacia,Logan,6 CV, Agadir,Autre secteur,2020-02-19,10:46:41,58 000
+2015,110 000 , 119 999,Diesel,Ford,C-Max,6 CV, Mohammedia,Belle Vue,2020-02-19,10:34:50,133 000
+2013,180 000 , 189 999,Diesel,Volkswagen,PASSAT CC,8 CV, Casablanca,Aïn Chock,2020-02-19,09:38:08,150 000
+1996,0 , 4 999,Diesel,Fiat,Uno,-, Casablanca,Aïn Sebaâ,2020-02-18,20:48:33,28 000
+2019,30 000 , 34 999,Diesel,Dacia,Dokker,-, Casablanca,Belvédère,2020-02-18,17:47:14,120 000
+2012,200 000 , 249 999,Diesel,Mazda,3,6 CV, Fès,Hay Saada,2020-02-18,17:34:31,119 000
+2013,100 000 , 109 999,Diesel,Chevrolet,Captiva,9 CV, Casablanca,Belvédère,2020-02-18,16:42:48,138 000
+2000,150 000 , 159 999,Diesel,Mercedes-Benz,250,9 CV, Agadir,Le centre-ville,2020-02-18,16:20:05,60 000
+2010,300 000 , 349 999,Diesel,Volvo,S40,6 CV, Rabat,Hay Riad,2020-02-18,15:07:11,69 000
+2014,100 000 , 109 999,Diesel,Jeep,Grand Cherokee,12 CV, Casablanca,Mers Sultan,2020-02-18,12:46:55,240 000
+2010,190 000 , 199 999,Diesel,Skoda,Superb,8 CV, Marrakech,Targa,2020-02-18,12:24:15,138 000
+2013,55 000 , 59 999,Diesel,Peugeot,Bipper,6 CV, Casablanca,2 Mars,2020-02-18,11:35:27,57 000
+2005,180 000 , 189 999,Diesel,BMW,Serie 5,10 CV, Mohammedia,El Alia,2020-02-18,11:30:37,90 000
+2013,100 000 , 109 999,Diesel,Peugeot,Bipper,6 CV, Casablanca,Beauséjour,2020-02-18,11:09:12,57 000
+2014,90 000 , 94 999,Diesel,Citroen,Nemo,6 CV, Casablanca,2 Mars,2020-02-18,09:46:34,62 000
+2013,60 000 , 64 999,Diesel,Peugeot,Bipper,5 CV, Casablanca,Alsace Lorraine,2020-02-18,08:43:53,57 000
+1989,10 000 , 14 999,Diesel,Renault,19,7 CV, Casablanca,Hay Almassira 1,2020-02-18,08:04:18,40 000
+2014,90 000 , 94 999,Diesel,Citroen,Nemo,6 CV, Casablanca,2 Mars,2020-02-17,19:01:37,62 000
+2013,90 000 , 94 999,Diesel,Peugeot,Bipper,6 CV, Casablanca,2 Mars,2020-02-17,18:31:14,57 000
+2014,80 000 , 84 999,Diesel,Citroen,Nemo,6 CV, Casablanca,Belvédère,2020-02-17,18:01:39,62 000
+2013,120 000 , 129 999,Diesel,Peugeot,Bipper,6 CV, Casablanca,La Gare,2020-02-17,17:16:35,57 000
+2013,110 000 , 119 999,Diesel,Mercedes-Benz,Classe C,9 CV, Casablanca,Autre secteur,2020-02-17,15:16:33,190 000
+2016,110 000 , 119 999,Diesel,Dacia,Duster,6 CV, Khouribga,Toute la ville,2020-02-17,14:25:48,55 000
+2013,100 000 , 109 999,Diesel,Peugeot,Bipper,6 CV, Casablanca,Gauthier,2020-02-17,14:01:55,57 000
+2014,80 000 , 84 999,Diesel,Citroen,Nemo,6 CV, Casablanca,Beauséjour,2020-02-17,13:06:58,62 000
+2015,140 000 , 149 999,Diesel,BMW,Serie 5,-, Casablanca,Les Princesses,2020-02-17,12:36:26,40 000
+2013,110 000 , 119 999,Diesel,Peugeot,Bipper,6 CV, Casablanca,C.I.L,2020-02-17,12:07:04,57 000
+-,,,-,-,-,-, Agadir,Hay Qods,2020-02-17,11:44:15,180 000
+1989,250 000 , 299 999,Diesel,Renault,R25,8 CV, Casablanca,Sbata,2020-02-17,11:41:57,30 000
+2006,180 000 , 189 999,Diesel,BMW,Serie 5,12 CV, Casablanca,Maarif,2020-02-17,09:33:10,95 000
+2018,60 000 , 64 999,Diesel,Land Rover,Range Rover Sport,12 CV, Casablanca,Les Princesses,2020-02-17,08:49:10,68 000
+2015,90 000 , 94 999,Diesel,Hyundai,Santa Fe,9 CV, Casablanca,Sidi Maarouf,2020-02-16,18:29:00,17 000
+2004,190 000 , 199 999,Diesel,BMW,Serie 5,12 CV, Tanger,Ahlane,2020-02-16,16:56:54,68 000
+2014,170 000 , 179 999,Diesel,Peugeot,Partner,6 CV, Casablanca,Autre secteur,2020-02-16,16:07:25,95 000
+2016,75 000 , 79 999,Diesel,Audi,Q5,12 CV, Rabat,Agdal,2020-02-16,15:14:26,57 000
+2007,170 000 , 179 999,Diesel,Honda,Accord,-, Rabat,Hay el Fath,2020-02-16,12:21:49,49 000
+2013,140 000 , 149 999,Diesel,Audi,A6,12 CV, Casablanca,Autre secteur,2020-02-16,12:16:03,210 000
+2016,100 000 , 109 999,Diesel,Mercedes-Benz,Classe E,9 CV, Marrakech,Autre secteur,2020-02-16,09:52:24,260 000
+2016,50 000 , 54 999,Diesel,Honda,CR-V,6 CV, Marrakech,Autre secteur,2020-02-16,09:52:07, 
+2015,120 000 , 129 999,Diesel,Jeep,Grand Cherokee,12 CV, Marrakech,Autre secteur,2020-02-16,09:11:46,175 000
+2011,180 000 , 189 999,Diesel,Volkswagen,Tiguan,8 CV, Casablanca,Autre secteur,2020-02-16,08:57:10,150 000
+2018,60 000 , 64 999,Diesel,Peugeot,308,6 CV, Casablanca,Aïn Sebaâ,2020-02-16,08:41:19,159 000
+1994,450 000 , 499 999,Diesel,Volkswagen,Passat,6 CV, Laâyoune,Toute la ville,2020-02-15,19:25:14,46 000
+2014,200 000 , 249 999,Diesel,Mercedes-Benz,Classe GLA,-, Agadir,Autre secteur,2020-02-15,18:44:34,320 000
+2014,150 000 , 159 999,Diesel,Skoda,Octavia,8 CV, Agadir,Centre Ville,2020-02-15,18:43:51,150 000
+2013,95 000 , 99 999,Essence,Volkswagen,GOLF 6,9 CV, Tanger,Centre ville,2020-02-15,17:40:42,83 000
+2014,200 000 , 249 999,Diesel,Mercedes-Benz,Classe GLA,-, Rabat,Yacoub El Mansour,2020-02-15,17:01:07,55 000
+2020,0 , 4 999,Hybride,Porsche,Cayenne,-, Rabat,Agdal,2020-02-15,13:55:13,70 000
+2016,95 000 , 99 999,Diesel,Audi,A3,8 CV, Fès,Agdal,2020-02-15,11:50:19,59 000
+2020,0 , 4 999,Hybride,Porsche,Cayenne,-, Rabat,Agdal,2020-02-15,10:09:16,110 000
+2017,90 000 , 94 999,Essence,Ford,Fiesta,7 CV, Marrakech,Massira 1,2020-02-15,09:30:28,84 000
+2009,20 000 , 24 999,Diesel,Jeep,Compass,8 CV, Marrakech,Guéliz,2020-02-14,23:24:02,82 000
+2009,95 000 , 99 999,Diesel,Renault,Megane,7 CV, Marrakech,Massira 1,2020-02-14,17:35:50,31 000
+2019,0 , 4 999,Essence,Ford,Fiesta,7 CV, Casablanca,Bernoussi,2020-02-14,17:27:45,104 000
+2015,190 000 , 199 999,Diesel,Audi,A6,8 CV, Casablanca,Sidi Bernoussi,2020-02-14,14:53:47,152 000
+2017,25 000 , 29 999,Diesel,BMW,X4,12 CV, Casablanca,Aïn Sebaâ,2020-02-14,12:02:38,90 000
+2017,40 000 , 44 999,Essence,Hyundai,i 10,7 CV, Casablanca,Aïn Diab,2020-02-14,11:34:10,79 000
+2004,180 000 , 189 999,Diesel,Mercedes-Benz,270,11 CV, Agadir,Hay Dakhla,2020-02-14,10:59:17,34 000
+2015,100 000 , 109 999,Diesel,Toyota,Auris,5 CV, Casablanca,Belvédère,2020-02-14,10:04:48,22 000
+2015,140 000 , 149 999,Diesel,Dacia,Logan,6 CV, Marrakech,Azli,2020-02-13,19:57:24,75 000
+2003,200 000 , 249 999,Diesel,Mercedes-Benz,Classe C,9 CV, Agadir,Hay Dakhla,2020-02-13,18:24:39,280 000
+2020,0 , 4 999,Diesel,Audi,A6,-, Rabat,Agdal,2020-02-13,15:40:15, 
+2015,90 000 , 94 999,Diesel,Dacia,Duster,6 CV, Casablanca,Lissasfa,2020-02-13,13:27:41,33 000
+2011,180 000 , 189 999,Diesel,Porsche,Cayenne,12 CV, Casablanca,Hay Mohammadi,2020-02-13,11:57:35,82 000
+2011,200 000 , 249 999,Diesel,Seat,Leon,8 CV, Casablanca,Autre secteur,2020-02-13,11:03:33,103 000
+2015,95 000 , 99 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,Autre secteur,2020-02-13,09:52:39,210 000
+2012,180 000 , 189 999,Diesel,Jaguar,XF,9 CV, Marrakech,Autre secteur,2020-02-13,09:51:02,160 000
+2013,100 000 , 109 999,Essence,Suzuki,Swift,6 CV, Kénitra,Ouled Oujih,2020-02-13,09:48:01,78 000
+1988,80 000 , 84 999,Diesel,Renault,R9,6 CV, Casablanca,Sidi Bernoussi,2020-02-12,20:04:12,28 000
+2006,300 000 , 349 999,Diesel,Citroen,XSARA,-, Fès,Mont Fleuri 2,2020-02-12,19:51:19,40 000
+2013,150 000 , 159 999,Diesel,Land Rover,Range Rover Sport,12 CV, Casablanca,Maarif,2020-02-12,18:31:48,68 000
+2009,100 000 , 109 999,Essence,Dacia,Logan,8 CV, Agadir,Amsernate,2020-02-12,14:54:50,51 000
+2015,190 000 , 199 999,Diesel,Mercedes-Benz,Classe C,8 CV, Rabat,Hay Riad,2020-02-12,11:23:45,370 000
+2015,140 000 , 149 999,Diesel,Audi,Q5,8 CV, Rabat,Hay Riad,2020-02-12,11:23:18,276 000
+2017,90 000 , 94 999,Diesel,Mercedes-Benz,Classe E,-, Casablanca,Belvédère,2020-02-12,10:17:55,75 000
+2011,180 000 , 189 999,Diesel,Renault,Laguna Coupe,8 CV, Casablanca,Autre secteur,2020-02-11,20:01:46,105 000
+2017,70 000 , 74 999,Diesel,Volkswagen,Tiguan,9 CV, Tétouan,Wilaya,2020-02-11,17:36:44,415 000
+2014,120 000 , 129 999,Diesel,Mercedes-Benz,Classe A,9 CV, Tétouan,Wilaya,2020-02-11,17:26:36,250 000
+2008,140 000 , 149 999,Essence,Chevrolet,Captiva,17 CV, Marrakech,Massira 1,2020-02-11,15:05:28,53 000
+2014,140 000 , 149 999,Diesel,Seat,Ibiza,6 CV, Casablanca,Autre secteur,2020-02-11,13:32:47,105 000
+2015,70 000 , 74 999,Diesel,Mercedes-Benz,Classe C,9 CV, Casablanca,Maarif,2020-02-11,10:56:18,45 000
+2016,120 000 , 129 999,Diesel,Volvo,XC90,12 CV, Casablanca,Maarif,2020-02-11,10:54:15,70 000
+2009,120 000 , 129 999,Diesel,Audi,A5,12 CV, Casablanca,Maarif,2020-02-11,10:08:35,55 000
+2016,100 000 , 109 999,Diesel,Dacia,Dokker Van,-, Casablanca,Aïn Sebaâ,2020-02-11,09:33:54,76 000
+2012,120 000 , 129 999,Diesel,Volkswagen,Touran,8 CV, Casablanca,2 Mars,2020-02-11,08:42:40,175 000
+2015,75 000 , 79 999,Diesel,Volkswagen,Caddy,6 CV, Casablanca,2 Mars,2020-02-11,08:41:51,180 000
+2012,150 000 , 159 999,Essence,Dacia,Sandero,-, Agadir,Hay Salam,2020-02-11,02:26:13,73 000
+2016,35 000 , 39 999,Diesel,Ford,Focus,6 CV, Casablanca,Bernoussi,2020-02-10,16:59:53,153 000
+2016,85 000 , 89 999,Diesel,Ford,Focus,7 CV, Casablanca,Bernoussi,2020-02-10,16:52:55,154 000
+2015,70 000 , 74 999,Diesel,Nissan,Qashqai,6 CV, Casablanca,Bernoussi,2020-02-10,16:49:11,158 000
+2014,110 000 , 119 999,Diesel,Audi,A4,8 CV, Rabat,Hay Riad,2020-02-10,15:28:40,200 000
+2016,50 000 , 54 999,Essence,Opel,ADAM,7 CV, Casablanca,Belvédère,2020-02-10,13:00:38,108 000
+2013,170 000 , 179 999,Diesel,Jaguar,XF,9 CV, Casablanca,2 Mars,2020-02-10,11:32:30,115 000
+2014,140 000 , 149 999,Diesel,Nissan,EVALIA,6 CV, Casablanca,Aïn Sebaâ,2020-02-10,10:05:55,107 000
+2016,100 000 , 109 999,Diesel,Ford,Focus,6 CV, Agadir,Hay Dakhla,2020-02-10,08:38:44,95 000
+2004,180 000 , 189 999,Diesel,Mercedes-Benz,220,9 CV, Al Hoceima,Toute la ville,2020-02-09,22:20:34,105 000
+2016,85 000 , 89 999,Diesel,Land Rover,Range Rover Sport,12 CV, Casablanca,Belvédère,2020-02-09,21:21:35,75 000
+2010,190 000 , 199 999,Diesel,Volkswagen,Passat,8 CV, Rabat,Autre secteur,2020-02-09,17:15:49,125 000
+2017,130 000 , 139 999,Diesel,Volkswagen,Tiguan,-, Agadir,Autre secteur,2020-02-09,15:38:11,11 000
+2016,150 000 , 159 999,Diesel,Volkswagen,Touran,8 CV, Fès,Agdal,2020-02-09,14:28:51,50 000
+2015,100 000 , 109 999,Diesel,BMW,Serie 4,-, Casablanca,Belvédère,2020-02-09,10:16:34,25 000
+2019,0 , 4 999,Diesel,Mitsubishi,-,10 CV, Casablanca,Bernoussi,2020-02-09,09:38:05,290 000
+2014,100 000 , 109 999,Diesel,Volkswagen,Polo,5 CV, Casablanca,Al Qods,2020-02-09,09:23:52,100 000
+2017,5 000 , 9 999,Diesel,Hyundai,Accent,7 CV, Rabat,Hassan,2020-02-08,15:51:43,52 000
+2015,110 000 , 119 999,Diesel,Citroen,Berlingo,6 CV, Fquih Ben Saleh,Toute la ville,2020-02-08,15:36:32,115 000
+2016,20 000 , 24 999,Diesel,Volkswagen,Touran,-, Casablanca,Sidi Bernoussi,2020-02-08,15:27:22,213 000
+2012,190 000 , 199 999,Diesel,Volkswagen,Touran,Plus de 41 CV, Martil,Toute la ville,2020-02-08,15:08:00,165 000
+2020,0 , 4 999,Diesel,Mercedes-Benz,Classe GLC,-, Rabat,Agdal,2020-02-08,13:47:02,34 000
+2016,120 000 , 129 999,Diesel,Volkswagen,Tiguan,8 CV, Fquih Ben Saleh,Toute la ville,2020-02-08,11:24:23,300 000
+2016,60 000 , 64 999,Diesel,Mercedes-Benz,AMG GT,8 CV, Marrakech,Massira 1,2020-02-08,11:22:46,380 000
+2020,0 , 4 999,Diesel,Audi,A3,-, Rabat,Agdal,2020-02-08,10:41:49,11 000
+2016,95 000 , 99 999,Diesel,Dacia,Duster,6 CV, Agadir,Hay Zaytoun,2020-02-08,06:58:12,55 000
+2012,110 000 , 119 999,Diesel,Opel,Insignia,8 CV, Casablanca,Aïn Sebaâ,2020-02-07,16:26:27,15 000
+2018,45 000 , 49 999,Diesel,Dacia,Logan,6 CV, Fès,Centre,2020-02-07,16:10:36,66 000
+2019,15 000 , 19 999,Diesel,Ford,C-Max,6 CV, Casablanca,Bernoussi,2020-02-07,15:28:32,177 000
+2014,85 000 , 89 999,Diesel,Mercedes-Benz,220,-, Tanger,Drissia,2020-02-07,15:15:29,175 000
+2016,60 000 , 64 999,Diesel,Dacia,Dokker,6 CV, Fès,Centre,2020-02-07,14:29:44,29 000
+2019,10 000 , 14 999,Diesel,Nissan,Micra,6 CV, Casablanca,Bernoussi,2020-02-07,11:46:30,135 000
+2014,40 000 , 44 999,Essence,mini,cooper,8 CV, Rabat,Hay Riad,2020-02-07,10:46:41,148 000
+2011,60 000 , 64 999,Diesel,mini,country man,8 CV, Casablanca,2 Mars,2020-02-07,10:24:52,220 000
+1985,5 000 , 9 999,Diesel,Volkswagen,GOLF 2,6 CV, Al Hoceima,Toute la ville,2020-02-07,00:21:43,36 000
+2015,120 000 , 129 999,Diesel,Kia,Rio,6 CV, Agadir,Hay Dakhla,2020-02-06,19:13:57,73 000
+2016,85 000 , 89 999,Diesel,Mercedes-Benz,Classe A,8 CV, Casablanca,Maarif,2020-02-06,16:58:37,35 000
+2015,100 000 , 109 999,Essence,Mercedes-Benz,Classe S,31 CV, Rabat,Hay Riad,2020-02-06,16:50:46,890 000
+2011,190 000 , 199 999,Diesel,Volkswagen,Tiguan,-, Casablanca,Sidi Bernoussi,2020-02-06,14:49:43,92 000
+2019,0 , 4 999,Essence,Porsche,Cayenne,17 CV, Rabat,Hay el Fath,2020-02-06,14:21:47,134 000
+2015,95 000 , 99 999,Diesel,Renault,Captur,6 CV, Marrakech,Massira,2020-02-06,12:10:28,220 000
+2012,95 000 , 99 999,Diesel,Mercedes-Benz,-,9 CV, Rabat,Hay el Fath,2020-02-06,12:04:02,230 000
+2015,160 000 , 169 999,Diesel,Fiat,Punto,-, Rabat,Hay Riad,2020-02-06,11:56:06,75 000
+2010,180 000 , 189 999,Diesel,Land Rover,Range Rover Sport,15 CV, Casablanca,Maarif,2020-02-06,10:54:42,20 000
+2015,120 000 , 129 999,Diesel,Peugeot,308,6 CV, Casablanca,2 Mars,2020-02-06,10:44:39,120 000
+2017,30 000 , 34 999,Diesel,Land Rover,Discovery Sport,8 CV, Casablanca,2 Mars,2020-02-06,10:41:35,340 000
+2014,120 000 , 129 999,Diesel,Ford,Kuga,8 CV, Casablanca,Bernoussi,2020-02-06,09:21:09,155 000
+2018,25 000 , 29 999,Diesel,Ford,Ecosport,6 CV, Casablanca,Bernoussi,2020-02-06,09:15:23,177 000
+2019,10 000 , 14 999,Diesel,Hyundai,Santa Fe,8 CV, Casablanca,2 Mars,2020-02-05,16:56:12,415 000
+2017,55 000 , 59 999,Diesel,Audi,Q5,-, Agadir,Autre secteur,2020-02-05,13:57:21,58 000
+2018,45 000 , 49 999,Diesel,Land Rover,Range Rover Evoque,12 CV, Casablanca,Belvédère,2020-02-05,11:56:56,25 000
+2011,110 000 , 119 999,Diesel,BMW,X1,-, Casablanca,Belvédère,2020-02-05,10:18:55,53 000
+2017,120 000 , 129 999,Diesel,Volkswagen,Jetta,8 CV, Agadir,Hay Salam,2020-02-05,09:29:16,95 000
+2015,70 000 , 74 999,Diesel,Fiat,Doblo,5 CV, Casablanca,Sbata,2020-02-05,08:40:56,112 000
+2016,95 000 , 99 999,Essence,Kia,Picanto,4 CV, Casablanca,La Gironde,2020-02-04,22:07:20,69 500
+1991,200 000 , 249 999,Essence,Honda,Civic,8 CV, El Jadida,Mouilha,2020-02-04,18:43:30,10 000
+2014,130 000 , 139 999,Diesel,Renault,Scenic,5 CV, Rabat,Hay el Fath,2020-02-04,14:04:46,55 000
+2016,50 000 , 54 999,Essence,Fiat,500,6 CV, Khouribga,Toute la ville,2020-02-04,11:24:41,29 000
+2016,110 000 , 119 999,Diesel,Audi,A4,8 CV, Rabat,Riyad,2020-02-04,10:18:19,10 000
+2019,5 000 , 9 999,Diesel,Dacia,Lodgy,-, Casablanca,Aïn Sebaâ,2020-02-04,09:02:57,139 000
+2008,130 000 , 139 999,Essence,Chevrolet,Captiva,17 CV, Marrakech,Massira 1,2020-02-04,08:15:22,54 000
+2007,30 000 , 34 999,Diesel,Hyundai,H-1,-, Salé,Sala el Jadida,2020-02-03,21:28:51,75 000
+2011,190 000 , 199 999,Diesel,BMW,X5,12 CV, Tanger,Centre ville,2020-02-03,18:28:58, 
+2017,70 000 , 74 999,Diesel,Renault,Clio,6 CV, Rabat,Hay Riad,2020-02-03,16:23:21,108 000
+2020,0 , 4 999,Diesel,Fiat,TIPO,5 CV, Casablanca,Maarif,2020-02-03,16:09:19,140 900
+2018,20 000 , 24 999,Diesel,Ford,C-Max,-, Casablanca,Bernoussi,2020-02-03,16:00:49,162 000
+2015,95 000 , 99 999,Diesel,Dacia,Dokker,6 CV, Rabat,Hassan,2020-02-03,14:27:40,28 000
+2015,120 000 , 129 999,Diesel,Ford,Fusion,8 CV, Casablanca,Bernoussi,2020-02-03,13:55:48,160 000
+2014,120 000 , 129 999,Diesel,Audi,Q5,12 CV, Rabat,Agdal,2020-02-03,11:13:15,63 000
+2018,30 000 , 34 999,Essence,Hyundai,-,6 CV, Rabat,Hay el Fath,2020-02-03,10:52:44,105 000
+2017,40 000 , 44 999,Diesel,Nissan,Micra,6 CV, Casablanca,Bernoussi,2020-02-03,09:52:07,130 000
+2012,130 000 , 139 999,Diesel,Land Rover,Range Rover,-, Casablanca,Les Princesses,2020-02-02,16:43:44,25 000
+1993,250 000 , 299 999,Essence,Honda,Civic,9 CV, Kénitra,Ouled Oujih,2020-02-02,15:49:32,22 000
+2014,85 000 , 89 999,Diesel,Land Rover,Range Rover Sport,12 CV, Marrakech,Guéliz,2020-02-02,14:59:47,55 000
+2017,100 000 , 109 999,Diesel,Hyundai,Elantra,6 CV, Fès,Agdal,2020-02-02,12:49:24,139 000
+2015,100 000 , 109 999,Diesel,Jeep,Renegade,6 CV, Rabat,Hay el Fath,2020-02-02,12:01:12,52 000
+2017,60 000 , 64 999,Essence,Fiat,Panda,7 CV, Rabat,Hay el Fath,2020-02-02,11:02:29,115 000
+2014,90 000 , 94 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,Les Princesses,2020-02-02,10:19:05,16 000
+2002,130 000 , 139 999,Diesel,Audi,Allroad,10 CV, Casablanca,Mers Sultan,2020-02-01,16:38:49,95 000
+2011,50 000 , 54 999,Diesel,Dacia,Duster,7 CV, Tétouan,Safir,2020-02-01,15:41:23,79 000
+2020,0 , 4 999,Diesel,Jeep,Compass,8 CV, Casablanca,Maarif,2020-02-01,12:12:38,319 000
+2016,65 000 , 69 999,Diesel,BMW,X1,8 CV, Casablanca,Belvédère,2020-02-01,09:32:27,90 000
+2007,200 000 , 249 999,Diesel,Renault,Kangoo,7 CV, Agadir,Autre secteur,2020-01-31,20:36:11,68 000
+2015,100 000 , 109 999,Diesel,Peugeot,Tepee,6 CV, Kénitra,Ouled Oujih,2020-01-31,18:38:45,105 000
+2008,200 000 , 249 999,Diesel,Volkswagen,Touran,8 CV, Tétouan,Centre ville,2020-01-31,16:16:08,109 000
+2014,100 000 , 109 999,Diesel,Peugeot,508,8 CV, Casablanca,Laimoune,2020-01-31,15:42:10, 
+2019,10 000 , 14 999,Diesel,Peugeot,308,6 CV, Fès,Oued Fès,2020-01-31,13:37:11,175 000
+2017,100 000 , 109 999,Diesel,Land Rover,Range Rover Evoque,8 CV, Casablanca,Sidi Bernoussi,2020-01-31,12:33:28,275 000
+2012,150 000 , 159 999,Diesel,Volkswagen,Passat,6 CV, Agadir,Autre secteur,2020-01-31,11:35:27,60 000
+2017,95 000 , 99 999,Diesel,Fiat,Pinto,5 CV, Marrakech,Massira 1,2020-01-31,10:15:03,87 000
+2016,140 000 , 149 999,Diesel,Ford,Fiesta,6 CV, Fès,Route d'Immouzere,2020-01-31,09:48:45,105 000
+2017,55 000 , 59 999,Diesel,Peugeot,Partner,6 CV, Fquih Ben Saleh,Toute la ville,2020-01-31,09:08:03,130 000
+2006,180 000 , 189 999,Diesel,Ford,Ranger,12 CV, Marrakech,M'Hamid,2020-01-31,00:33:41,70 000
+2019,0 , 4 999,Diesel,Peugeot,208,6 CV, El Kelâa des Sraghna,Toute la ville,2020-01-30,22:55:43,150 900
+1999,250 000 , 299 999,Diesel,Peugeot,406,8 CV, Agadir,Abattoirs,2020-01-30,22:49:55,45 000
+2014,160 000 , 169 999,Diesel,Renault,Clio,7 CV, Tanger,Drissia,2020-01-30,16:45:44,103 000
+2008,250 000 , 299 999,Diesel,Dacia,Logan,7 CV, Tanger,Drissia,2020-01-30,16:24:51,60 000
+2007,180 000 , 189 999,Diesel,Mercedes-Benz,CLASSE ML,12 CV, Casablanca,Belvédère,2020-01-30,14:37:56,130 000
+2019,10 000 , 14 999,Diesel,Kia,Ceed,6 CV, Casablanca,Beauséjour,2020-01-30,14:28:00,253 000
+2009,200 000 , 249 999,Diesel,Citroen,C4,6 CV, Agadir,Autre secteur,2020-01-30,10:35:47,60 000
+2019,10 000 , 14 999,Essence,Kia,Picanto,6 CV, Casablanca,Aïn Sebaâ,2020-01-30,10:31:50,109 000
+2012,130 000 , 139 999,Diesel,Mercedes-Benz,Classe C,8 CV, Casablanca,Aïn Diab,2020-01-30,08:51:36,235 000
+2018,25 000 , 29 999,Diesel,Volkswagen,GOLF 7,8 CV, Meknès,Hamria,2020-01-29,17:12:30,8 000
+2016,45 000 , 49 999,Diesel,Mercedes-Benz,Classe C,9 CV, Rabat,Yacoub El Mansour,2020-01-29,16:27:30,45 000
+2017,120 000 , 129 999,Diesel,Mercedes-Benz,Classe GLE,11 CV, Casablanca,Derb Ghallef,2020-01-29,14:19:03,88 000
+2014,85 000 , 89 999,Diesel,Land Rover,Range Rover Sport,12 CV, Marrakech,Guéliz,2020-01-29,13:03:45,55 000
+2019,25 000 , 29 999,Diesel,Mercedes-Benz,Classe A,8 CV, Rabat,Yacoub El Mansour,2020-01-29,12:42:46,87 000
+2013,150 000 , 159 999,Diesel,Porsche,Cayenne,12 CV, Casablanca,Anfa,2020-01-29,11:33:37,300 000
+2008,130 000 , 139 999,Essence,Chevrolet,Captiva,17 CV, Marrakech,Massira 1,2020-01-29,10:17:00,55 000
+2018,20 000 , 24 999,Diesel,Audi,A4,12 CV, Tanger,De La Plage,2020-01-28,20:48:53,73 000
+2016,35 000 , 39 999,Diesel,Mercedes-Benz,Classe C,9 CV, Rabat,Hay Riad,2020-01-28,16:41:50,67 000
+2016,120 000 , 129 999,Diesel,Volkswagen,Tiguan,8 CV, Casablanca,2 Mars,2020-01-28,13:46:57,360 000
+2014,100 000 , 109 999,Diesel,Mercedes-Benz,Classe A,9 CV, Rabat,Hay el Fath,2020-01-28,12:38:18,245 000
+2016,95 000 , 99 999,Diesel,Fiat,500,6 CV, Agadir,Hay Massira,2020-01-28,11:14:41,98 000
+2019,15 000 , 19 999,Diesel,Kia,Ceed,6 CV, Marrakech,Route de Casablanca,2020-01-28,10:54:18,285 000
+2017,40 000 , 44 999,Essence,Hyundai,i 10,6 CV, Casablanca,Belvédère,2020-01-28,09:50:48,173 000
+2015,10 000 , 14 999,Diesel,Nissan,Qashqai,6 CV, Kénitra,Maamora,2020-01-28,00:58:56,228 000
+2012,190 000 , 199 999,Diesel,Volkswagen,Touran,8 CV, Martil,Toute la ville,2020-01-27,20:13:20,65 000
+2014,120 000 , 129 999,Diesel,BMW,Serie 4,8 CV, Casablanca,Belvédère,2020-01-27,18:10:02,69 000
+2019,30 000 , 34 999,Diesel,Kia,Sportage,8 CV, Marrakech,Route de Casablanca,2020-01-27,17:19:43,275 000
+2008,130 000 , 139 999,Essence,Hyundai,Accent,8 CV, Casablanca,Sidi Bernoussi,2020-01-27,16:54:11,46 000
+2015,170 000 , 179 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,Anfa,2020-01-27,14:13:28,169 000
+2015,80 000 , 84 999,Diesel,Seat,Leon,6 CV, Agadir,Hay Dakhla,2020-01-27,09:58:04,62 000
+2013,170 000 , 179 999,Diesel,Jaguar,XE,9 CV, Casablanca,Aïn Borja,2020-01-27,09:18:52,180 000
+2015,180 000 , 189 999,Diesel,Audi,Q5,8 CV, Marrakech,Hay Al Bahja,2020-01-26,15:21:41,67 000
+2016,65 000 , 69 999,Diesel,Jaguar,XF,8 CV, Casablanca,Belvédère,2020-01-26,10:19:46,117 000
+2004,200 000 , 249 999,Diesel,Mercedes-Benz,Classe C,8 CV, Kénitra,Ouled Oujih,2020-01-25,16:08:25,98 000
+2013,130 000 , 139 999,Diesel,Land Rover,Range Rover,18 CV, Casablanca,Maarif,2020-01-25,10:49:42,52 000
+2004,40 000 , 44 999,Diesel,Peugeot,Partner,7 CV, Skhirat,Ain el Hayat,2020-01-24,20:22:01,40 000
+2014,110 000 , 119 999,Diesel,Mercedes-Benz,Classe E,9 CV, Fès,Route d'Immouzere,2020-01-24,17:22:38, 
+2016,70 000 , 74 999,Diesel,Ford,Fiesta,6 CV, Casablanca,Bernoussi,2020-01-24,17:03:30,112 000
+2019,20 000 , 24 999,Diesel,Kia,Sportage,8 CV, Marrakech,Route de Casablanca,2020-01-24,15:38:07,255 000
+2017,100 000 , 109 999,Diesel,Land Rover,Range Rover Evoque,8 CV, Casablanca,Aïn Sebaâ,2020-01-24,12:45:32,100 000
+2014,140 000 , 149 999,Diesel,Volkswagen,PASSAT CC,8 CV, Casablanca,Oulfa,2020-01-24,11:17:31,87 000
+2016,130 000 , 139 999,Diesel,Audi,A7,12 CV, Agadir,Sonaba,2020-01-24,08:03:18,370 000
+2019,0 , 4 999,Diesel,Volkswagen,GOLF 7,7 CV, Oujda,Hay El Qods,2020-01-23,18:23:03,55 000
+2017,140 000 , 149 999,Diesel,Ford,Fiesta,6 CV, Berkane,Toute la ville,2020-01-23,08:58:58,19 000
+2014,85 000 , 89 999,Essence,Hyundai,CENTENNIAL,8 CV, Casablanca,Bernoussi,2020-01-23,04:17:09,65 500
+2003,200 000 , 249 999,Diesel,Renault,Clio,6 CV, El Ksiba,Toute la ville,2020-01-22,19:08:12,50 000
+1989,120 000 , 129 999,Diesel,Peugeot,405,7 CV, El Ksiba,Toute la ville,2020-01-22,14:11:18,45 000
+2019,10 000 , 14 999,Diesel,Nissan,X-Trail,6 CV, Casablanca,Bernoussi,2020-01-22,14:04:42,310 000
+2007,160 000 , 169 999,Diesel,Hyundai,H-1,-, Agadir,Autre secteur,2020-01-22,13:51:22,75 000
+2013,100 000 , 109 999,Diesel,Audi,A3,8 CV, Tétouan,Autre secteur,2020-01-22,09:58:15,260 000
+2016,0 , 4 999,Diesel,Audi,A6,8 CV, Casablanca,Maarif,2020-01-22,09:34:38,93 000
+2018,10 000 , 14 999,Diesel,Mercedes-Benz,Classe E,8 CV, Casablanca,Maarif,2020-01-21,17:36:00,275 000
+2012,25 000 , 29 999,Essence,Ford,Fiesta,-, Casablanca,Bernoussi,2020-01-21,14:18:35,70 000
+2013,90 000 , 94 999,Diesel,Audi,A4,-, Agadir,Autre secteur,2020-01-21,11:23:27,19 000
+2015,120 000 , 129 999,Diesel,Mercedes-Benz,220,9 CV, Khouribga,Toute la ville,2020-01-21,11:03:45,346 000
+2013,120 000 , 129 999,Diesel,Dacia,Logan,6 CV, Casablanca,Hay Moulay Rachid,2020-01-20,21:29:21,71 000
+2014,110 000 , 119 999,Diesel,Citroen,Nemo,6 CV, Casablanca,Beauséjour,2020-01-20,17:23:02,62 000
+2016,85 000 , 89 999,Diesel,Peugeot,Bipper,6 CV, Casablanca,Al Fida,2020-01-20,16:00:00,85 000
+2019,0 , 4 999,Diesel,Volkswagen,Tiguan,8 CV, Tanger,Centre ville,2020-01-20,14:37:42, 
+2012,100 000 , 109 999,Essence,Fiat,Punto,6 CV, Casablanca,Centre Ville,2020-01-20,10:51:08,68 000
+2014,55 000 , 59 999,Diesel,Audi,A3,6 CV, Casablanca,Belvédère,2020-01-20,10:04:50,43 000
+2019,15 000 , 19 999,Essence,Mercedes-Benz,Classe GLC,16 CV, Oujda,Hay El Qods,2020-01-19,19:50:44,57 000
+2016,25 000 , 29 999,Diesel,Jaguar,F-PACE,12 CV, Casablanca,Belvédère,2020-01-19,19:49:58,640 000
+2010,160 000 , 169 999,Diesel,Renault,Kangoo,6 CV, Fès,Ain kadous,2020-01-19,19:14:18,30 000
+2019,5 000 , 9 999,Diesel,Nissan,Micra,6 CV, Casablanca,Bernoussi,2020-01-19,18:54:05,145 000
+2015,140 000 , 149 999,Diesel,Audi,Q7,9 CV, Casablanca,Les Princesses,2020-01-19,09:06:39,49 000
+2004,15 000 , 19 999,Diesel,Peugeot,206,6 CV, Tifelt,Toute la ville,2020-01-18,21:26:41,55 000
+2015,180 000 , 189 999,Diesel,Rover,SD1,-, Agadir,Autre secteur,2020-01-18,19:09:37,68 000
+2005,190 000 , 199 999,Diesel,Ssangyong,Rexton,12 CV, Rabat,Autre secteur,2020-01-18,16:33:14,30 000
+2015,35 000 , 39 999,Diesel,Toyota,Prado,12 CV, Casablanca,Lissasfa,2020-01-18,16:01:35,135 000
+2016,100 000 , 109 999,Diesel,Audi,A3,-, Agadir,Autre secteur,2020-01-18,14:45:10,32 000
+1996,250 000 , 299 999,Diesel,Mercedes-Benz,220,-, Agadir,Autre secteur,2020-01-18,14:17:55,65 000
+2016,75 000 , 79 999,Diesel,Land Rover,Range Rover Sport,11 CV, Casablanca,Aïn Chock,2020-01-18,13:45:52,30 000
+2017,50 000 , 54 999,Diesel,Audi,Q3,-, Agadir,Autre secteur,2020-01-18,12:39:16,52 000
+2017,80 000 , 84 999,Diesel,Volkswagen,Touran,8 CV, Tanger,Iberie,2020-01-18,12:25:31,235 000
+2010,170 000 , 179 999,Diesel,Skoda,Octavia,8 CV, Agadir,Hay Zaytoun,2020-01-18,10:56:52,50 000
+2013,100 000 , 109 999,Diesel,Hyundai,Santa Fe,-, Casablanca,Lissasfa,2020-01-18,10:03:24,163 000
+2010,130 000 , 139 999,Essence,Kia,Picanto,6 CV, Casablanca,Aïn Sebaâ,2020-01-17,17:11:53,50 000
+2019,0 , 4 999,Essence,Mercedes-Benz,Classe S,17 CV, Marrakech,Guéliz,2020-01-17,15:20:26,34 000
+1984,200 000 , 249 999,Essence,Renault,Espace,6 CV, Jorf El Melha,Toute la ville,2020-01-17,14:10:19,185 000
+2011,190 000 , 199 999,Diesel,Land Rover,Range Rover,12 CV, Nador,Centre Ville,2020-01-17,11:44:19,275 000
+2013,40 000 , 44 999,Essence,Ferrari,California,25 CV, Rabat,Agdal,2020-01-17,10:08:19,53 000
+2008,40 000 , 44 999,Essence,Honda,Accord,13 CV, Casablanca,Aïn Chock,2020-01-17,09:29:04,88 000
+2000,110 000 , 119 999,Diesel,BMW,Serie 3,8 CV, Casablanca,Belvédère,2020-01-17,08:08:10,58 000
+2020,300 000 , 349 999,Essence,Autres,Autres,-, Jorf El Melha,Toute la ville,2020-01-16,18:21:33,28 000
+2014,110 000 , 119 999,Diesel,Volkswagen,Touareg,-, Casablanca,Aïn Diab,2020-01-16,15:36:10,67 000
+2011,120 000 , 129 999,Diesel,Volkswagen,Passat,8 CV, Casablanca,Belvédère,2020-01-16,11:44:11,52 000
+2016,85 000 , 89 999,Diesel,BMW,X5,12 CV, Casablanca,Lissasfa,2020-01-16,10:38:14,30 000
+2017,75 000 , 79 999,Diesel,Mitsubishi,L200,-, Taza,Toute la ville,2020-01-16,10:25:17,165 000
+2014,120 000 , 129 999,Diesel,Hyundai,ix 35,8 CV, Fès,Hay Atlas,2020-01-16,09:33:08,152 000
+2014,70 000 , 74 999,Diesel,Dacia,Logan,7 CV, Fès,Hay Atlas,2020-01-16,09:32:59,78 000
+2018,50 000 , 54 999,Essence,Fiat,Panda,6 CV, Rabat,Hay el Fath,2020-01-15,17:18:06,75 000
+2015,100 000 , 109 999,Diesel,Honda,CR-V,6 CV, Casablanca,La Gironde,2020-01-15,16:46:21,159 000
+2016,85 000 , 89 999,Diesel,Volkswagen,Passat,8 CV, Agadir,Hay Dakhla,2020-01-15,15:12:09,23 000
+2010,160 000 , 169 999,Diesel,Citroen,C5,8 CV, Mohammedia,La Colline,2020-01-15,15:07:52,99 000
+2007,200 000 , 249 999,Diesel,Citroen,C4,-, Khemisset,Toute la ville,2020-01-15,14:53:00,67 000
+2011,120 000 , 129 999,Diesel,Mercedes-Benz,Classe E,-, Fès,Hay Atlas,2020-01-15,11:17:19,163 000
+2014,90 000 , 94 999,Diesel,BMW,X5,12 CV, Casablanca,Maarif,2020-01-15,09:55:02,23 000
+2016,40 000 , 44 999,Diesel,Ford,Focus,6 CV, Casablanca,Centre Ville,2020-01-14,17:26:38,162 000
+2016,50 000 , 54 999,Diesel,Renault,Clio,6 CV, Casablanca,Centre Ville,2020-01-14,17:21:09,102 000
+2015,100 000 , 109 999,Diesel,Mercedes-Benz,220,9 CV, Casablanca,Bernoussi,2020-01-14,15:50:12,300 000
+2014,90 000 , 94 999,Diesel,Land Rover,Range Rover Sport,12 CV, Casablanca,2 Mars,2020-01-14,15:10:59,30 200
+2018,25 000 , 29 999,Diesel,Mercedes-Benz,Classe GL,9 CV, Rabat,Hay el Fath,2020-01-14,10:56:48,27 000
+2019,0 , 4 999,Diesel,Toyota,Prado,11 CV, Casablanca,Aïn Sebaâ,2020-01-14,09:56:00,399 000
+2005,200 000 , 249 999,Essence,Mazda,3,9 CV, Salé,Toute la ville,2020-01-13,20:05:23,42 000
+2003,30 000 , 34 999,Diesel,Citroen,C3 Picasso,8 CV, Tétouan,Centre ville,2020-01-13,18:56:23,62 000
+2009,160 000 , 169 999,Diesel,Dacia,Logan,6 CV, Salé,Hay Inbiat,2020-01-13,16:24:00,61 000
+2014,40 000 , 44 999,Diesel,mini,country man,8 CV, Casablanca,Maarif,2020-01-13,14:54:26,200 000
+2015,120 000 , 129 999,Diesel,Skoda,Superb,8 CV, Casablanca,Belvédère,2020-01-13,10:19:43,60 000
+2020,0 , 4 999,Hybride,Land Rover,Range Rover,-, Casablanca,Anfa,2020-01-12,18:15:21,36 000
+2015,55 000 , 59 999,Essence,Peugeot,301,-, Marrakech,Centre Ville,2020-01-12,14:46:48, 
+1987,25 000 , 29 999,Diesel,Mercedes-Benz,250,8 CV, Salé,Hay Moulay Ismail,2020-01-12,14:26:09,25 000
+2011,180 000 , 189 999,Diesel,Renault,Scenic,6 CV, Casablanca,Aïn Chock,2020-01-12,10:03:17,80 000
+2016,150 000 , 159 999,Diesel,Volkswagen,Touran,8 CV, Fès,Agdal,2020-01-11,18:39:45,163 000
+2015,25 000 , 29 999,Diesel,Honda,CR-V,6 CV, Casablanca,Aïn Chock,2020-01-11,15:39:15,215 000
+2019,25 000 , 29 999,Diesel,Renault,Clio,6 CV, Casablanca,Derb Ghallef,2020-01-11,14:07:10, 
+2017,65 000 , 69 999,Diesel,Autres,Autres,6 CV, Casablanca,Aïn Chock,2020-01-11,09:12:53,70 000
+2015,100 000 , 109 999,Diesel,Hyundai,Accent,6 CV, Agadir,Hay Massira,2020-01-10,13:47:26,110 000
+2011,190 000 , 199 999,Diesel,Land Rover,Range Rover,12 CV, Fès,Ben Souda,2020-01-10,13:34:02,275 000
+2012,200 000 , 249 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,Autre secteur,2020-01-10,11:34:40,47 000
+2012,65 000 , 69 999,Diesel,Hyundai,Accent,6 CV, Casablanca,Centre Ville,2020-01-10,10:42:54, 
+2008,250 000 , 299 999,Essence,Lexus,LS,26 CV, Rabat,Autre secteur,2020-01-09,10:16:29,120 000
+2008,200 000 , 249 999,Essence,Jaguar,XF,17 CV, Casablanca,Anfa,2020-01-09,09:37:36,100 000
+2020,0 , 4 999,Diesel,Audi,Q3,6 CV, Oujda,Hay El Qods,2020-01-09,01:45:36,30 000
+1992,100 000 , 109 999,Diesel,Citroen,AX,6 CV, Fès,Route d'Immouzere,2020-01-08,23:32:16,17 500
+2014,65 000 , 69 999,Diesel,Alfa Romeo,Mito,5 CV, Rabat,Agdal,2020-01-08,19:53:47,110 000
+2016,120 000 , 129 999,Diesel,Jeep,Grand Cherokee,12 CV, Casablanca,Derb Ghallef,2020-01-08,16:57:15, 
+2010,200 000 , 249 999,Diesel,BMW,Serie 1,8 CV, Rabat,Hay el Fath,2020-01-08,14:58:33,40 000
+2016,110 000 , 119 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,Laimoune,2020-01-08,14:55:19,228 000
+2016,40 000 , 44 999,Diesel,BMW,Serie 7,-, Casablanca,Les Princesses,2020-01-08,11:50:27,13 000
+2016,80 000 , 84 999,Diesel,Volkswagen,Jetta,8 CV, Fès,Autre secteur,2020-01-08,11:39:38,40 000
+2020,0 , 4 999,Diesel,Alfa Romeo,33,4 CV, Casablanca,Al Batha,2020-01-08,01:09:26,55 000
+2009,200 000 , 249 999,Diesel,Isuzu,D-MAX,10 CV, Agadir,Autre secteur,2020-01-07,19:31:04,115 000
+2011,130 000 , 139 999,Diesel,Chevrolet,Cruze,8 CV, Rabat,Hay el Fath,2020-01-07,12:22:23,450 000
+2016,100 000 , 109 999,Diesel,Opel,-,8 CV, Rabat,Hay el Fath,2020-01-07,11:50:37,160 000
+2018,30 000 , 34 999,Essence,Fiat,Panda,7 CV, Fès,Centre,2020-01-07,11:30:28,105 000
+2020,0 , 4 999,Diesel,Audi,other,-, Rabat,Agdal,2020-01-07,10:22:12,50 000
+2019,5 000 , 9 999,Diesel,Hyundai,Tucson,7 CV, Casablanca,Bernoussi,2020-01-07,08:32:56, 
+2019,0 , 4 999,Essence,Audi,other,17 CV, Tanger,De La Plage,2020-01-06,17:31:14,68 000
+2017,100 000 , 109 999,Diesel,Jeep,Grand Cherokee,12 CV, Casablanca,Maarif,2020-01-06,09:02:57,36 000
+2019,0 , 4 999,Diesel,Mercedes-Benz,Classe A,8 CV, Oujda,Hay El Qods,2020-01-05,15:39:24,80 000
+2016,100 000 , 109 999,Diesel,Mercedes-Benz,Classe CLA,9 CV, Casablanca,Aïn Sebaâ,2020-01-05,11:33:29,140 000
+2014,30 000 , 34 999,Diesel,BMW,Serie 4 coupé,8 CV, Casablanca,2 Mars,2020-01-05,09:50:47,320 000
+2015,90 000 , 94 999,Diesel,Jeep,Grand Cherokee,-, Casablanca,Les Princesses,2020-01-05,08:38:13,67 000
+2018,65 000 , 69 999,Diesel,Audi,Q5,12 CV, Oujda,Hay El Qods,2020-01-04,23:21:16,28 000
+2008,15 000 , 19 999,Diesel,Kia,Sorento,10 CV, Casablanca,2 Mars,2020-01-04,22:28:54,88 000
+2019,0 , 4 999,Diesel,Mercedes-Benz,Classe CLA,6 CV, Oujda,Hay El Qods,2020-01-04,15:40:07,580 000
+2010,70 000 , 74 999,Diesel,mini,cooper,8 CV, Agadir,Hay Dakhla,2020-01-04,10:56:47,105 000
+2014,110 000 , 119 999,Diesel,Skoda,Octavia,8 CV, Agadir,Hay Massira,2020-01-04,09:34:36,155 000
+2009,110 000 , 119 999,Essence,Hyundai,i 10,7 CV, Tétouan,Safir,2020-01-03,14:39:13,50 000
+2014,120 000 , 129 999,Essence,Renault,Clio,6 CV, Tanger,Drissia,2020-01-03,13:53:12,63 000
+2014,140 000 , 149 999,Essence,Renault,Clio,6 CV, Tanger,Drissia,2020-01-03,13:52:59,65 000
+2016,130 000 , 139 999,Diesel,Volkswagen,Tiguan,8 CV, Khouribga,Toute la ville,2020-01-03,13:35:14,35 000
+2015,60 000 , 64 999,Diesel,Mercedes-Benz,Classe C,9 CV, Casablanca,Route d'El Jadida,2020-01-03,10:36:56,200 000
+2004,10 000 , 14 999,Diesel,Peugeot,Partner,7 CV, Tifelt,Toute la ville,2020-01-02,21:19:12,28 000
+2012,160 000 , 169 999,Diesel,Land Rover,Range Rover Sport,12 CV, Marrakech,Targa,2020-01-02,10:32:31,260 000
+1989,75 000 , 79 999,Essence,Renault,19,7 CV, Béni Mellal,Toute la ville,2020-01-02,09:54:14,27 000
+2015,35 000 , 39 999,Diesel,Dacia,Logan,-, Casablanca,Aïn Sebaâ,2020-01-02,08:29:36,70 000
+-,,,-,-,-,-, Tan-Tan,Tan Tan,2020-01-01,21:22:59,49 000
+2014,60 000 , 64 999,Diesel,Mercedes-Benz,Classe GLA,8 CV, Casablanca,Maarif,2020-01-01,15:48:05, 
+-,,,-,-,-,-, Casablanca,Anfa,2020-01-01,14:48:46,30 000
+2009,450 000 , 499 999,Diesel,Peugeot,Partner,-, Agadir,Le centre-ville,2020-01-01,14:40:20,56 000
+-,,,-,-,-,-, Casablanca,Aïn Sebaâ,2020-01-01,13:22:14,43 000
+2016,5 000 , 9 999,Diesel,Volkswagen,GOLF 7,-, Fès,Autre secteur,2020-01-01,10:42:04,69 000
+2015,100 000 , 109 999,Diesel,BMW,Serie 4 gran coupé,-, Casablanca,Bourgogne,2019-12-31,21:13:18,320 000
+2015,110 000 , 119 999,Diesel,Volkswagen,Touran,6 CV, Tanger,Moujahidine,2019-12-31,18:03:28,43 000
+2015,30 000 , 34 999,Diesel,Dacia,Duster,-, Khénifra,Toute la ville,2019-12-31,17:37:20,127 000
+2015,120 000 , 129 999,Diesel,Hyundai,Santa Fe,9 CV, Rabat,Hay el Fath,2019-12-31,16:57:10,55 000
+2018,15 000 , 19 999,Diesel,Audi,A1,6 CV, Casablanca,Bernoussi,2019-12-31,16:07:43,73 000
+2010,50 000 , 54 999,Essence,Daihatsu,Sirion,6 CV, Marrakech,Massira 1,2019-12-31,14:04:28,59 000
+2016,95 000 , 99 999,Diesel,Volkswagen,Jetta,6 CV, Casablanca,Aïn Chock,2019-12-31,10:47:57,162 000
+1984,35 000 , 39 999,Diesel,Nissan,Sunny,6 CV, El Ksiba,Toute la ville,2019-12-30,23:18:28, 
+1998,130 000 , 139 999,Diesel,Mercedes-Benz,300,-, Nador,Centre Ville,2019-12-30,18:03:35,31 000
+2014,10 000 , 14 999,Diesel,Volkswagen,Touran,-, Meknès,Hamria,2019-12-30,16:04:43,175 000
+1988,25 000 , 29 999,Diesel,Mercedes-Benz,250,-, Salé,Toute la ville,2019-12-30,14:35:29,53 000
+2007,130 000 , 139 999,Diesel,Opel,Astra,-, Tanger,Beni Makada Lakdima,2019-12-30,14:18:36,55 000
+2019,0 , 4 999,Diesel,Volvo,other,8 CV, Casablanca,Aïn Sebaâ,2019-12-30,13:50:15,420 000
+1991,25 000 , 29 999,Diesel,Renault,19,-, Casablanca,Sidi Othmane,2019-12-30,12:49:51,35 000
+2011,75 000 , 79 999,Essence,Hyundai,i 10,6 CV, Tétouan,Wilaya,2019-12-30,12:29:56,59 000
+2009,45 000 , 49 999,Essence,Toyota,Yaris,6 CV, Tétouan,Wilaya,2019-12-30,11:41:30,73 000
+2016,140 000 , 149 999,Diesel,Audi,Q7,12 CV, Casablanca,Aïn Sebaâ,2019-12-30,09:16:10,390 000
+2014,100 000 , 109 999,Diesel,Hyundai,i 30,5 CV, Casablanca,Aïn Sebaâ,2019-12-30,09:01:27,142 000
+2016,80 000 , 84 999,Diesel,Maserati,other,12 CV, Casablanca,Aïn Sebaâ,2019-12-30,08:58:58,380 000
+2017,100 000 , 109 999,Diesel,Peugeot,208,6 CV, Casablanca,Aïn Sebaâ,2019-12-30,08:54:21,95 000
+2018,55 000 , 59 999,Hybride,Toyota,Yaris,9 CV, Casablanca,Aïn Sebaâ,2019-12-30,08:47:15,109 000
+2014,100 000 , 109 999,Diesel,Hyundai,i 30,6 CV, Casablanca,Aïn Sebaâ,2019-12-30,08:44:09,142 000
+2015,90 000 , 94 999,Diesel,Ford,Fiesta,-, Fès,Agdal,2019-12-30,00:12:35,95 000
+2004,300 000 , 349 999,Diesel,Mercedes-Benz,CLASSE ML,-, Khemisset,Toute la ville,2019-12-29,21:53:43,115 000
+2009,170 000 , 179 999,Diesel,Dacia,Sandero,-, Casablanca,Aïn Chock,2019-12-29,17:47:45,55 000
+1984,20 000 , 24 999,Essence,Peugeot,205,-, Tanger,Mghogha,2019-12-29,13:17:23,27 000
+1984,5 000 , 9 999,Diesel,Peugeot,305,-, Meknès,Marjane 2,2019-12-29,13:01:45, 
+2009,95 000 , 99 999,Diesel,Renault,Kangoo,7 CV, Casablanca,Bernoussi,2019-12-29,12:24:49,88 000
+2017,40 000 , 44 999,Diesel,Audi,Q7,17 CV, Casablanca,Route d'El Jadida,2019-12-29,09:43:54,56 000
+2008,25 000 , 29 999,Diesel,Autres,Autres,5 CV, Fès,Centre,2019-12-29,09:42:39,66 000
+2015,75 000 , 79 999,Diesel,Audi,A3,8 CV, Casablanca,Al Qods,2019-12-29,09:28:11,103 000
+2011,190 000 , 199 999,Diesel,Dacia,Logan,-, Fès,Zouagha,2019-12-28,23:42:32,68 000
+2016,80 000 , 84 999,Diesel,Hyundai,i 30,-, Salé,Toute la ville,2019-12-28,19:47:39, 
+2018,75 000 , 79 999,Diesel,Toyota,Land Cruiser,-, Casablanca,Maarif,2019-12-28,13:34:01,48 000
+2010,15 000 , 19 999,Diesel,Renault,Laguna,6 CV, Salé,Tabriquet,2019-12-28,13:07:50,103 000
+2018,25 000 , 29 999,Diesel,Hyundai,Accent,6 CV, Kénitra,Centre,2019-12-28,12:58:55,140 000
+2016,25 000 , 29 999,Essence,Land Rover,other,29 CV, Marrakech,Guéliz,2019-12-28,11:32:18,68 000
+1987,0 , 4 999,Diesel,Mercedes-Benz,190,-, Casablanca,Anfa,2019-12-28,00:51:52,46 000
+2002,10 000 , 14 999,Diesel,Peugeot,206,-, Khouribga,Toute la ville,2019-12-27,20:38:11,26 000
+2011,190 000 , 199 999,Diesel,Land Rover,Range Rover,12 CV, Fès,Ben Souda,2019-12-27,18:48:33,275 000
+2013,10 000 , 14 999,Essence,Fiat,Punto,-, Casablanca,Ben M'sick,2019-12-27,14:48:04,20 000
+2010,140 000 , 149 999,Diesel,Renault,Megane 3,6 CV, Casablanca,Autre secteur,2019-12-27,14:25:41,240 000
+2016,140 000 , 149 999,Diesel,Dacia,Dokker,-, Casablanca,Derb Ghallef,2019-12-27,14:20:32,105 000
+2009,140 000 , 149 999,Essence,Volkswagen,Polo,7 CV, Tétouan,Safir,2019-12-27,12:56:26,67 000
+1992,25 000 , 29 999,Essence,Citroen,AX,-, Ouarzazate,Toute la ville,2019-12-27,11:59:25,15 000
+2018,35 000 , 39 999,Diesel,Land Rover,Range Rover Evoque,8 CV, Casablanca,Maarif,2019-12-27,11:05:32,390 000
+2016,90 000 , 94 999,Diesel,Land Rover,Range Rover Sport,12 CV, Casablanca,Aïn Sebaâ,2019-12-27,10:28:10,475 000
+2006,200 000 , 249 999,Diesel,Peugeot,407,-, Casablanca,Aïn Chock,2019-12-27,09:09:56,53 000
+2009,200 000 , 249 999,Diesel,Dacia,Logan,-, Berrechid,Toute la ville,2019-12-26,21:53:16,65 000
+1999,15 000 , 19 999,Essence,Honda,Civic,-, Rabat,Hay Nahda,2019-12-26,21:34:05,38 000
+2005,10 000 , 14 999,Essence,Fiat,Palio,-, Salé,Toute la ville,2019-12-26,19:45:55,34 000
+1999,200 000 , 249 999,Essence,Citroen,SAXO,-, Tétouan,Ziana,2019-12-26,16:53:04,33 000
+2019,0 , 4 999,Diesel,Mercedes-Benz,Classe GLC,9 CV, Casablanca,2 Mars,2019-12-26,16:36:20,45 000
+2014,150 000 , 159 999,Diesel,Mercedes-Benz,Classe C,9 CV, Rabat,Hay el Fath,2019-12-26,16:31:45,330 000
+2017,75 000 , 79 999,Diesel,Toyota,Corolla,6 CV, Rabat,Hay el Fath,2019-12-26,16:31:26,150 000
+2018,40 000 , 44 999,Diesel,Volkswagen,Tiguan,8 CV, Fès,Route d'Immouzere,2019-12-26,15:26:52,58 000
+2007,160 000 , 169 999,Diesel,Dacia,Logan,-, El Jadida,Salama,2019-12-26,14:44:19,52 000
+2015,45 000 , 49 999,Diesel,Fiat,Doblo,-, Agadir,Autre secteur,2019-12-26,13:47:25,83 000
+2019,0 , 4 999,Diesel,Mercedes-Benz,Classe GLC,9 CV, Rabat,Agdal,2019-12-26,11:29:19,58 000
+2014,90 000 , 94 999,Diesel,Ford,Focus,6 CV, Agadir,Hay Massira,2019-12-26,09:58:38,134 000
+2008,160 000 , 169 999,Diesel,Renault,Kangoo,7 CV, Casablanca,Aïn Sebaâ,2019-12-25,20:31:56,69 000
+2013,65 000 , 69 999,Essence,Audi,S8,28 CV, Casablanca,Route d'El Jadida,2019-12-25,17:24:04,45 000
+1992,40 000 , 44 999,Essence,Renault,R5,6 CV, Khouribga,Toute la ville,2019-12-25,16:38:19, 
+2019,0 , 4 999,Essence,Mercedes-Benz,Classe C,17 CV, Marrakech,Guéliz,2019-12-25,15:05:18,158 000
+2019,0 , 4 999,Diesel,Mercedes-Benz,Classe E,8 CV, Rabat,Agdal,2019-12-25,12:26:16,27 000
+2020,0 , 4 999,Hybride,Porsche,Cayenne,-, Rabat,Agdal,2019-12-25,11:27:53,80 000
+2019,5 000 , 9 999,Diesel,Dacia,Sandero,5 CV, Casablanca,Bernoussi,2019-12-25,11:12:28,118 000
+2018,65 000 , 69 999,Diesel,Peugeot,Partner,6 CV, Rabat,Agdal,2019-12-25,10:13:35,130 000
+2007,0 , 4 999,Diesel,Nissan,TINO,9 CV, Dakhla,Al Massira,2019-12-24,20:44:02,67 000
+2011,10 000 , 14 999,Diesel,Hyundai,Santa Fe,-, Larache,Toute la ville,2019-12-24,19:50:58,110 000
+2004,170 000 , 179 999,Diesel,Peugeot,307,-, Al Hoceima,Toute la ville,2019-12-24,18:49:42,62 000
+2002,300 000 , 349 999,Diesel,Fiat,Uno,-, Taza,Toute la ville,2019-12-24,17:11:52,30 000
+2019,0 , 4 999,Diesel,Audi,A6,-, Rabat,Agdal,2019-12-24,14:23:16,38 000
+2015,10 000 , 14 999,Diesel,Peugeot,308,-, Casablanca,Sidi Maarouf,2019-12-24,13:10:52,133 000
+2015,140 000 , 149 999,Diesel,Mercedes-Benz,Classe C,9 CV, Agadir,Hay Massira,2019-12-24,11:12:21,300 000
+2004,190 000 , 199 999,Diesel,Peugeot,Partner,7 CV, Casablanca,Quartier des Hôpitaux,2019-12-24,10:24:26,130 000
+2015,85 000 , 89 999,Diesel,Dacia,Dokker,-, Safi,Darb Moulay Hassan,2019-12-23,23:21:28,98 000
+2010,130 000 , 139 999,Diesel,Dacia,Sandero,-, Béni Mellal,Toute la ville,2019-12-23,21:06:18,72 000
+2014,190 000 , 199 999,Diesel,Fiat,Doblo,6 CV, Casablanca,Hay Hassani,2019-12-23,20:32:05,77 000
+2014,85 000 , 89 999,Diesel,Ford,Kuga,8 CV, Casablanca,Centre Ville,2019-12-23,17:29:22,95 000
+2004,250 000 , 299 999,Diesel,Mercedes-Benz,Classe E,13 CV, Tanger,Iberie,2019-12-23,16:25:33,78 000
+2001,300 000 , 349 999,Diesel,Renault,Laguna,-, Larache,Toute la ville,2019-12-23,16:11:15, 
+2019,0 , 4 999,Essence,Bentley,Continental gt,-, Casablanca,Autre secteur,2019-12-23,15:07:40,65 000
+1995,30 000 , 34 999,Diesel,Citroen,ZX,-, Agadir,Autre secteur,2019-12-23,15:04:47,24 000
+1986,25 000 , 29 999,Diesel,Volkswagen,GOLF 2,-, Khénifra,Toute la ville,2019-12-23,12:15:01, 
+2015,45 000 , 49 999,Diesel,Toyota,Auris,5 CV, Casablanca,Hay Mohammadi,2019-12-23,12:00:54,145 000
+2017,85 000 , 89 999,Diesel,Hyundai,Accent,6 CV, Agadir,Hay Dakhla,2019-12-23,10:03:31,19 000
+2017,190 000 , 199 999,Diesel,Dacia,Dokker,5 CV, Casablanca,Aïn Sebaâ,2019-12-23,09:17:25,90 000
+2016,65 000 , 69 999,Diesel,Alfa Romeo,Mito,5 CV, Rabat,Hay el Fath,2019-12-23,08:55:53,130 000
+2019,10 000 , 14 999,Diesel,Volkswagen,CC,8 CV, Casablanca,Hay Mohammadi,2019-12-22,23:16:28,48 000
+2014,5 000 , 9 999,Diesel,Renault,Kangoo,-, Fès,Ben Souda,2019-12-22,22:24:26,110 000
+1986,5 000 , 9 999,Diesel,Volkswagen,Jetta,-, Meknès,Kasbat,2019-12-22,22:07:09,30 000
+2016,25 000 , 29 999,Essence,mini,one,7 CV, Casablanca,Californie,2019-12-22,19:50:19,175 000
+1986,15 000 , 19 999,Diesel,Autres,Autres,-, Casablanca,Ben M'sick,2019-12-22,18:22:49, 
+2008,200 000 , 249 999,Diesel,Skoda,Octavia,8 CV, Casablanca,Belvédère,2019-12-22,17:11:49,80 000
+2019,0 , 4 999,Hybride,Porsche,Panamera,-, Casablanca,Autre secteur,2019-12-22,16:09:51,78 000
+2002,140 000 , 149 999,Essence,Porsche,other,-, Casablanca,Les Princesses,2019-12-22,15:35:30,63 000
+2017,5 000 , 9 999,Diesel,Mercedes-Benz,220,-, Béni Mellal,Toute la ville,2019-12-22,14:39:01,420 000
+2000,10 000 , 14 999,Diesel,Renault,Kangoo,-, Khemisset,Toute la ville,2019-12-22,14:00:22,90 000
+-,,,-,-,-,-, Agadir,Hay Salam,2019-12-22,12:19:08,55 000
+2009,150 000 , 159 999,Diesel,Hyundai,Accent,6 CV, Casablanca,Sidi Maarouf,2019-12-21,21:14:32,65 000
+1995,35 000 , 39 999,Essence,Renault,19,-, Oujda,Centre Ville,2019-12-21,20:48:05,38 000
+2005,90 000 , 94 999,Essence,Chevrolet,Aveo,-, Meknès,Sbata,2019-12-21,19:19:20, 
+2007,200 000 , 249 999,Diesel,Renault,Kangoo,-, Agadir,Anza,2019-12-21,14:52:43,60 000
+2019,0 , 4 999,Diesel,Audi,other,-, Casablanca,Autre secteur,2019-12-21,10:42:30,130 000
+2016,45 000 , 49 999,Diesel,Volkswagen,Polo,-, Casablanca,Aïn Chock,2019-12-21,08:32:03,28 000
+2016,40 000 , 44 999,Diesel,Volkswagen,Polo,-, Casablanca,Aïn Chock,2019-12-21,07:52:46, 
+2017,80 000 , 84 999,Diesel,Dacia,Dokker,-, Casablanca,Sidi Bernoussi,2019-12-21,01:08:40,110 000
+1993,5 000 , 9 999,Essence,Renault,R21,-, Ouazzane,Toute la ville,2019-12-20,18:00:04,15 000
+1995,50 000 , 54 999,Diesel,Mercedes-Benz,Classe E,-, Agadir,Lkhiam,2019-12-20,12:24:32,60 000
+2007,130 000 , 139 999,Essence,Suzuki,Swift,-, Casablanca,Autre secteur,2019-12-20,11:57:17,54 000
+2015,130 000 , 139 999,Diesel,Fiat,Doblo,5 CV, Rabat,Hassan,2019-12-20,09:33:05, 
+-,,,-,-,-,-, Kénitra,Autre secteur,2019-12-19,18:48:03,107 000
+2017,75 000 , 79 999,Diesel,Renault,Clio,6 CV, Casablanca,Aïn Chock,2019-12-19,08:58:09,25 000
+2017,100 000 , 109 999,Diesel,Hyundai,Accent,6 CV, Marrakech,Guéliz,2019-12-17,22:43:52,125 000
+2013,160 000 , 169 999,Diesel,Ford,Kuga,8 CV, Casablanca,Bernoussi,2019-12-16,14:44:41,154 000
+2012,110 000 , 119 999,Diesel,Ford,Focus,6 CV, Casablanca,Bernoussi,2019-12-15,14:43:48,120 000
+2016,70 000 , 74 999,Diesel,Volkswagen,Jetta,-, Casablanca,Aïn Sebaâ,2019-12-15,14:43:21,164 000
+2020,0 , 4 999,Diesel,Audi,other,12 CV, Rabat,Agdal,2019-12-14,16:06:56,30 000
+2014,170 000 , 179 999,Diesel,BMW,Serie 1,8 CV, Agadir,Hay Dakhla,2019-12-13,12:18:04,155 000
+2003,190 000 , 199 999,Diesel,Citroen,Berlingo,-, Tanger,Port Tanger ville,2019-12-11,16:39:51,20 000
+2020,0 , 4 999,Diesel,Audi,Q8,12 CV, Rabat,Agdal,2019-12-11,13:41:20,107 000
+2016,90 000 , 94 999,Diesel,Ford,Focus,6 CV, Casablanca,Bernoussi,2019-12-10,22:16:10,168 000
+2010,250 000 , 299 999,Diesel,Audi,Q5,12 CV, Agadir,Hay Dakhla,2019-12-10,15:40:09,140 000
+2020,0 , 4 999,Hybride,Porsche,Cayenne,17 CV, Rabat,Agdal,2019-12-09,11:26:05,30 000
+2016,130 000 , 139 999,Diesel,Ford,Fusion,8 CV, Casablanca,Bernoussi,2019-12-09,10:38:12,203 000
+2014,90 000 , 94 999,Diesel,BMW,Serie 2,6 CV, Casablanca,Hay Mohammadi,2019-12-07,09:07:26,39 000
+2016,80 000 , 84 999,Diesel,Jeep,Grand Cherokee,12 CV, Casablanca,Aïn Sebaâ,2019-12-05,08:52:41,280 000
+2016,90 000 , 94 999,Essence,Toyota,RAV 4,14 CV, Casablanca,Aïn Sebaâ,2019-12-05,08:52:16,180 000
+2013,85 000 , 89 999,Diesel,Hyundai,Santa Fe,9 CV, Casablanca,Aïn Sebaâ,2019-12-05,08:51:07,199 000
+2019,0 , 4 999,Diesel,Volkswagen,COCCINELLE,8 CV, Casablanca,Aïn Sebaâ,2019-12-05,08:48:23,245 000
+2017,70 000 , 74 999,Diesel,Citroen,C-ELYSEE,6 CV, Casablanca,Aïn Sebaâ,2019-12-05,08:39:17,89 000
+2019,35 000 , 39 999,Diesel,Volkswagen,Touareg,12 CV, Casablanca,Aïn Sebaâ,2019-12-04,11:27:38,600 000
+2018,25 000 , 29 999,Diesel,Volkswagen,GOLF 7,8 CV, Agadir,Hay Dakhla,2019-12-03,13:53:56,225 000
+2016,160 000 , 169 999,Diesel,Jeep,Cherokee,-, Casablanca,Les Princesses,2019-12-03,09:46:42,96 000
+2003,190 000 , 199 999,Essence,Peugeot,607,13 CV, Casablanca,Oasis,2019-12-02,16:03:02,53 000
+2016,110 000 , 119 999,Diesel,Hyundai,Accent,6 CV, Casablanca,Aïn Sebaâ,2019-11-29,07:57:39,112 000
+2017,60 000 , 64 999,Diesel,Peugeot,301,5 CV, Casablanca,Aïn Sebaâ,2019-11-29,07:52:49,89 000
+2020,0 , 4 999,Diesel,Mercedes-Benz,Classe GLC,-, Casablanca,Val Fleuri,2019-11-28,11:56:16,55 000
+2017,20 000 , 24 999,Diesel,Land Rover,Velar,-, Casablanca,Les Princesses,2019-11-27,16:07:57,75 000
+2017,95 000 , 99 999,Diesel,Peugeot,301,5 CV, Casablanca,Aïn Sebaâ,2019-11-27,08:03:03,89 000
+2014,100 000 , 109 999,Diesel,Peugeot,3008,7 CV, Agadir,Hay Dakhla,2019-11-25,13:07:01,125 000
+2016,120 000 , 129 999,Diesel,Renault,Clio,6 CV, Agadir,Hay Dakhla,2019-11-23,11:32:25,97 000
+2015,95 000 , 99 999,Diesel,Ford,Mondeo,-, Casablanca,Aïn Sebaâ,2019-11-22,10:21:43,155 000
+2016,95 000 , 99 999,Diesel,Audi,A6,8 CV, Agadir,Hay Dakhla,2019-11-16,12:54:14,300 000
+2014,150 000 , 159 999,Diesel,Audi,A4,8 CV, Agadir,Hay Dakhla,2019-11-16,12:14:02,165 000
+2003,150 000 , 159 999,Diesel,Ford,Mondeo,7 CV, El Kelâa des Sraghna,,2019-11-14,15:59:44,67 000
+2016,180 000 , 189 999,Diesel,Dacia,Duster,6 CV, Agadir,Hay Dakhla,2019-11-11,12:05:19,128 000
+2001,190 000 , 199 999,Diesel,Mercedes-Benz,270,11 CV, Agadir,Hay Dakhla,2019-11-06,15:44:16,60 000
+2017,65 000 , 69 999,Diesel,Seat,Leon,6 CV, Agadir,Hay Dakhla,2019-10-29,09:57:33,145 000
+2015,110 000 , 119 999,Diesel,Land Rover,Range Rover Evoque,8 CV, Agadir,Hay Dakhla,2019-10-23,17:40:52,260 000
+2016,90 000 , 94 999,Essence,Chevrolet,Spark,6 CV, Agadir,Hay Dakhla,2019-10-17,11:26:48,68 000
+2017,80 000 , 84 999,Diesel,Renault,Clio,-, Casablanca,Aïn Chock,2019-10-12,15:18:59,49 000
